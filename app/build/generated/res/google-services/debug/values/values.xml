@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">764889945050-2ev7lpqdmvetp571mfqgmdad951rl6p6.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://socialslugapp.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">764889945050</string>
+    <string name="google_api_key" translatable="false">AIzaSyAAwomRV6_Nl-O5fwfAs8tyJIetG-ceIVw</string>
+    <string name="google_app_id" translatable="false">1:764889945050:android:e4892438822a088e0166e3</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAAwomRV6_Nl-O5fwfAs8tyJIetG-ceIVw</string>
+    <string name="google_storage_bucket" translatable="false">socialslugapp.appspot.com</string>
+    <string name="project_id" translatable="false">socialslugapp</string>
+</resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1057073088687",
+    "firebase_url": "https://socialslugapp-30387.firebaseio.com",
+    "project_id": "socialslugapp-30387",
+    "storage_bucket": "socialslugapp-30387.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057073088687:android:dcd578245266480b862c5a",
+        "android_client_info": {
+          "package_name": "com.example.socialslugapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057073088687-ib07qd3v5gfcf9fuuppmebgnbajooqvb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvtcw7qZqhkmty7E5K-AsS5tWbgafFXVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057073088687-ib07qd3v5gfcf9fuuppmebgnbajooqvb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
