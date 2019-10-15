@@ -6,185 +6,185 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="27"
-8-->/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml
+8-->C:\Users\Kenton\AndroidStudioProjects\SocialSlugApp\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="29" />
-9-->/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml
+9-->C:\Users\Kenton\AndroidStudioProjects\SocialSlugApp\app\src\main\AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.INTERNET" />
-11-->/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml:27:5-67
-11-->/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml:27:22-64
+11-->C:\Users\Kenton\AndroidStudioProjects\SocialSlugApp\app\src\main\AndroidManifest.xml:27:5-67
+11-->C:\Users\Kenton\AndroidStudioProjects\SocialSlugApp\app\src\main\AndroidManifest.xml:27:22-64
 12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-12-->[com.google.android.gms:play-services-measurement:17.2.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/7c4237e0029812955685234cfce19139/play-services-measurement-17.2.0/AndroidManifest.xml:24:5-79
-12-->[com.google.android.gms:play-services-measurement:17.2.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/7c4237e0029812955685234cfce19139/play-services-measurement-17.2.0/AndroidManifest.xml:24:22-76
+12-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Kenton\.gradle\caches\transforms-2\files-2.1\7c4237e0029812955685234cfce19139\play-services-measurement-17.2.0\AndroidManifest.xml:24:5-79
+12-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Kenton\.gradle\caches\transforms-2\files-2.1\7c4237e0029812955685234cfce19139\play-services-measurement-17.2.0\AndroidManifest.xml:24:22-76
 13    <uses-permission android:name="android.permission.WAKE_LOCK" />
-13-->[com.google.android.gms:play-services-measurement:17.2.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/7c4237e0029812955685234cfce19139/play-services-measurement-17.2.0/AndroidManifest.xml:25:5-68
-13-->[com.google.android.gms:play-services-measurement:17.2.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/7c4237e0029812955685234cfce19139/play-services-measurement-17.2.0/AndroidManifest.xml:25:22-65
+13-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Kenton\.gradle\caches\transforms-2\files-2.1\7c4237e0029812955685234cfce19139\play-services-measurement-17.2.0\AndroidManifest.xml:25:5-68
+13-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Kenton\.gradle\caches\transforms-2\files-2.1\7c4237e0029812955685234cfce19139\play-services-measurement-17.2.0\AndroidManifest.xml:25:22-65
 14    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" /> <!-- Required by older versions of Google Play services to create IID tokens -->
-14-->[com.google.android.gms:play-services-measurement:17.2.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/7c4237e0029812955685234cfce19139/play-services-measurement-17.2.0/AndroidManifest.xml:26:5-110
-14-->[com.google.android.gms:play-services-measurement:17.2.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/7c4237e0029812955685234cfce19139/play-services-measurement-17.2.0/AndroidManifest.xml:26:22-107
+14-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Kenton\.gradle\caches\transforms-2\files-2.1\7c4237e0029812955685234cfce19139\play-services-measurement-17.2.0\AndroidManifest.xml:26:5-110
+14-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Kenton\.gradle\caches\transforms-2\files-2.1\7c4237e0029812955685234cfce19139\play-services-measurement-17.2.0\AndroidManifest.xml:26:22-107
 15    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
-15-->[com.google.firebase:firebase-iid:19.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/6cfe46f408152b0cf1be5d6c31bb25ab/firebase-iid-19.0.0/AndroidManifest.xml:26:5-82
-15-->[com.google.firebase:firebase-iid:19.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/6cfe46f408152b0cf1be5d6c31bb25ab/firebase-iid-19.0.0/AndroidManifest.xml:26:22-79
+15-->[com.google.firebase:firebase-iid:19.0.0] C:\Users\Kenton\.gradle\caches\transforms-2\files-2.1\6cfe46f408152b0cf1be5d6c31bb25ab\firebase-iid-19.0.0\AndroidManifest.xml:26:5-82
+15-->[com.google.firebase:firebase-iid:19.0.0] C:\Users\Kenton\.gradle\caches\transforms-2\files-2.1\6cfe46f408152b0cf1be5d6c31bb25ab\firebase-iid-19.0.0\AndroidManifest.xml:26:22-79
 16
 17    <application
-17-->/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml:5:5-25:19
+17-->C:\Users\Kenton\AndroidStudioProjects\SocialSlugApp\app\src\main\AndroidManifest.xml:5:5-25:19
 18        android:allowBackup="true"
-18-->/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml:6:9-35
+18-->C:\Users\Kenton\AndroidStudioProjects\SocialSlugApp\app\src\main\AndroidManifest.xml:6:9-35
 19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-19-->[androidx.core:core:1.1.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/56b6cdfbd80af409835a31a4470c49f0/core-1.1.0/AndroidManifest.xml:24:18-86
+19-->[androidx.core:core:1.1.0] C:\Users\Kenton\.gradle\caches\transforms-2\files-2.1\56b6cdfbd80af409835a31a4470c49f0\core-1.1.0\AndroidManifest.xml:24:18-86
 20        android:debuggable="true"
 21        android:icon="@mipmap/ic_launcher"
-21-->/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml:7:9-43
+21-->C:\Users\Kenton\AndroidStudioProjects\SocialSlugApp\app\src\main\AndroidManifest.xml:7:9-43
 22        android:label="@string/app_name"
-22-->/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml:8:9-41
+22-->C:\Users\Kenton\AndroidStudioProjects\SocialSlugApp\app\src\main\AndroidManifest.xml:8:9-41
 23        android:roundIcon="@mipmap/ic_launcher_round"
-23-->/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml:9:9-54
+23-->C:\Users\Kenton\AndroidStudioProjects\SocialSlugApp\app\src\main\AndroidManifest.xml:9:9-54
 24        android:supportsRtl="true"
-24-->/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml:10:9-35
+24-->C:\Users\Kenton\AndroidStudioProjects\SocialSlugApp\app\src\main\AndroidManifest.xml:10:9-35
 25        android:testOnly="true"
 26        android:theme="@style/AppTheme" >
-26-->/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml:11:9-40
+26-->C:\Users\Kenton\AndroidStudioProjects\SocialSlugApp\app\src\main\AndroidManifest.xml:11:9-40
 27        <activity
-27-->/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml:15:9-24:20
+27-->C:\Users\Kenton\AndroidStudioProjects\SocialSlugApp\app\src\main\AndroidManifest.xml:15:9-24:20
 28            android:name="com.example.socialslugapp.MainActivity"
-28-->/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml:16:13-41
+28-->C:\Users\Kenton\AndroidStudioProjects\SocialSlugApp\app\src\main\AndroidManifest.xml:16:13-41
 29            android:label="@string/app_name"
-29-->/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml:17:13-45
+29-->C:\Users\Kenton\AndroidStudioProjects\SocialSlugApp\app\src\main\AndroidManifest.xml:17:13-45
 30            android:theme="@style/AppTheme.NoActionBar" >
-30-->/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml:18:13-56
+30-->C:\Users\Kenton\AndroidStudioProjects\SocialSlugApp\app\src\main\AndroidManifest.xml:18:13-56
 31            <intent-filter>
-31-->/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml:19:13-23:29
+31-->C:\Users\Kenton\AndroidStudioProjects\SocialSlugApp\app\src\main\AndroidManifest.xml:19:13-23:29
 32                <action android:name="android.intent.action.MAIN" />
-32-->/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml:20:17-69
-32-->/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml:20:25-66
+32-->C:\Users\Kenton\AndroidStudioProjects\SocialSlugApp\app\src\main\AndroidManifest.xml:20:17-69
+32-->C:\Users\Kenton\AndroidStudioProjects\SocialSlugApp\app\src\main\AndroidManifest.xml:20:25-66
 33
 34                <category android:name="android.intent.category.LAUNCHER" />
-34-->/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml:21:17-77
-34-->/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml:21:27-74
+34-->C:\Users\Kenton\AndroidStudioProjects\SocialSlugApp\app\src\main\AndroidManifest.xml:21:17-77
+34-->C:\Users\Kenton\AndroidStudioProjects\SocialSlugApp\app\src\main\AndroidManifest.xml:21:27-74
 35            </intent-filter>
 36        </activity>
 37        <activity
-37-->[com.facebook.android:facebook-common:5.8.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/ce4e2c46c1c929707d2996ea82d69bbf/jetified-facebook-common-5.8.0/AndroidManifest.xml:29:9-32:66
+37-->[com.facebook.android:facebook-common:5.8.0] C:\Users\Kenton\.gradle\caches\transforms-2\files-2.1\29f51630b3d1837a4a85d2505071de46\jetified-facebook-common-5.8.0\AndroidManifest.xml:29:9-32:66
 38            android:name="com.facebook.FacebookActivity"
-38-->[com.facebook.android:facebook-common:5.8.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/ce4e2c46c1c929707d2996ea82d69bbf/jetified-facebook-common-5.8.0/AndroidManifest.xml:30:13-57
+38-->[com.facebook.android:facebook-common:5.8.0] C:\Users\Kenton\.gradle\caches\transforms-2\files-2.1\29f51630b3d1837a4a85d2505071de46\jetified-facebook-common-5.8.0\AndroidManifest.xml:30:13-57
 39            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
-39-->[com.facebook.android:facebook-common:5.8.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/ce4e2c46c1c929707d2996ea82d69bbf/jetified-facebook-common-5.8.0/AndroidManifest.xml:31:13-96
+39-->[com.facebook.android:facebook-common:5.8.0] C:\Users\Kenton\.gradle\caches\transforms-2\files-2.1\29f51630b3d1837a4a85d2505071de46\jetified-facebook-common-5.8.0\AndroidManifest.xml:31:13-96
 40            android:theme="@style/com_facebook_activity_theme" />
-40-->[com.facebook.android:facebook-common:5.8.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/ce4e2c46c1c929707d2996ea82d69bbf/jetified-facebook-common-5.8.0/AndroidManifest.xml:32:13-63
+40-->[com.facebook.android:facebook-common:5.8.0] C:\Users\Kenton\.gradle\caches\transforms-2\files-2.1\29f51630b3d1837a4a85d2505071de46\jetified-facebook-common-5.8.0\AndroidManifest.xml:32:13-63
 41        <activity android:name="com.facebook.CustomTabMainActivity" />
-41-->[com.facebook.android:facebook-common:5.8.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/ce4e2c46c1c929707d2996ea82d69bbf/jetified-facebook-common-5.8.0/AndroidManifest.xml:33:9-71
-41-->[com.facebook.android:facebook-common:5.8.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/ce4e2c46c1c929707d2996ea82d69bbf/jetified-facebook-common-5.8.0/AndroidManifest.xml:33:19-68
+41-->[com.facebook.android:facebook-common:5.8.0] C:\Users\Kenton\.gradle\caches\transforms-2\files-2.1\29f51630b3d1837a4a85d2505071de46\jetified-facebook-common-5.8.0\AndroidManifest.xml:33:9-71
+41-->[com.facebook.android:facebook-common:5.8.0] C:\Users\Kenton\.gradle\caches\transforms-2\files-2.1\29f51630b3d1837a4a85d2505071de46\jetified-facebook-common-5.8.0\AndroidManifest.xml:33:19-68
 42        <activity android:name="com.facebook.CustomTabActivity" />
-42-->[com.facebook.android:facebook-common:5.8.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/ce4e2c46c1c929707d2996ea82d69bbf/jetified-facebook-common-5.8.0/AndroidManifest.xml:34:9-67
-42-->[com.facebook.android:facebook-common:5.8.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/ce4e2c46c1c929707d2996ea82d69bbf/jetified-facebook-common-5.8.0/AndroidManifest.xml:34:19-64
+42-->[com.facebook.android:facebook-common:5.8.0] C:\Users\Kenton\.gradle\caches\transforms-2\files-2.1\29f51630b3d1837a4a85d2505071de46\jetified-facebook-common-5.8.0\AndroidManifest.xml:34:9-67
+42-->[com.facebook.android:facebook-common:5.8.0] C:\Users\Kenton\.gradle\caches\transforms-2\files-2.1\29f51630b3d1837a4a85d2505071de46\jetified-facebook-common-5.8.0\AndroidManifest.xml:34:19-64
 43
 44        <receiver
-44-->[com.google.android.gms:play-services-measurement:17.2.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/7c4237e0029812955685234cfce19139/play-services-measurement-17.2.0/AndroidManifest.xml:29:9-33:20
+44-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Kenton\.gradle\caches\transforms-2\files-2.1\7c4237e0029812955685234cfce19139\play-services-measurement-17.2.0\AndroidManifest.xml:29:9-33:20
 45            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
-45-->[com.google.android.gms:play-services-measurement:17.2.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/7c4237e0029812955685234cfce19139/play-services-measurement-17.2.0/AndroidManifest.xml:30:13-85
+45-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Kenton\.gradle\caches\transforms-2\files-2.1\7c4237e0029812955685234cfce19139\play-services-measurement-17.2.0\AndroidManifest.xml:30:13-85
 46            android:enabled="true"
-46-->[com.google.android.gms:play-services-measurement:17.2.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/7c4237e0029812955685234cfce19139/play-services-measurement-17.2.0/AndroidManifest.xml:31:13-35
+46-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Kenton\.gradle\caches\transforms-2\files-2.1\7c4237e0029812955685234cfce19139\play-services-measurement-17.2.0\AndroidManifest.xml:31:13-35
 47            android:exported="false" >
-47-->[com.google.android.gms:play-services-measurement:17.2.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/7c4237e0029812955685234cfce19139/play-services-measurement-17.2.0/AndroidManifest.xml:32:13-37
+47-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Kenton\.gradle\caches\transforms-2\files-2.1\7c4237e0029812955685234cfce19139\play-services-measurement-17.2.0\AndroidManifest.xml:32:13-37
 48        </receiver>
 49        <receiver
-49-->[com.google.android.gms:play-services-measurement:17.2.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/7c4237e0029812955685234cfce19139/play-services-measurement-17.2.0/AndroidManifest.xml:34:9-42:20
+49-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Kenton\.gradle\caches\transforms-2\files-2.1\7c4237e0029812955685234cfce19139\play-services-measurement-17.2.0\AndroidManifest.xml:34:9-42:20
 50            android:name="com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver"
-50-->[com.google.android.gms:play-services-measurement:17.2.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/7c4237e0029812955685234cfce19139/play-services-measurement-17.2.0/AndroidManifest.xml:35:13-100
+50-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Kenton\.gradle\caches\transforms-2\files-2.1\7c4237e0029812955685234cfce19139\play-services-measurement-17.2.0\AndroidManifest.xml:35:13-100
 51            android:enabled="true"
-51-->[com.google.android.gms:play-services-measurement:17.2.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/7c4237e0029812955685234cfce19139/play-services-measurement-17.2.0/AndroidManifest.xml:36:13-35
+51-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Kenton\.gradle\caches\transforms-2\files-2.1\7c4237e0029812955685234cfce19139\play-services-measurement-17.2.0\AndroidManifest.xml:36:13-35
 52            android:exported="true"
-52-->[com.google.android.gms:play-services-measurement:17.2.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/7c4237e0029812955685234cfce19139/play-services-measurement-17.2.0/AndroidManifest.xml:37:13-36
+52-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Kenton\.gradle\caches\transforms-2\files-2.1\7c4237e0029812955685234cfce19139\play-services-measurement-17.2.0\AndroidManifest.xml:37:13-36
 53            android:permission="android.permission.INSTALL_PACKAGES" >
-53-->[com.google.android.gms:play-services-measurement:17.2.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/7c4237e0029812955685234cfce19139/play-services-measurement-17.2.0/AndroidManifest.xml:38:13-69
+53-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Kenton\.gradle\caches\transforms-2\files-2.1\7c4237e0029812955685234cfce19139\play-services-measurement-17.2.0\AndroidManifest.xml:38:13-69
 54            <intent-filter>
-54-->[com.google.android.gms:play-services-measurement:17.2.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/7c4237e0029812955685234cfce19139/play-services-measurement-17.2.0/AndroidManifest.xml:39:13-41:29
+54-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Kenton\.gradle\caches\transforms-2\files-2.1\7c4237e0029812955685234cfce19139\play-services-measurement-17.2.0\AndroidManifest.xml:39:13-41:29
 55                <action android:name="com.android.vending.INSTALL_REFERRER" />
-55-->[com.google.android.gms:play-services-measurement:17.2.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/7c4237e0029812955685234cfce19139/play-services-measurement-17.2.0/AndroidManifest.xml:40:17-79
-55-->[com.google.android.gms:play-services-measurement:17.2.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/7c4237e0029812955685234cfce19139/play-services-measurement-17.2.0/AndroidManifest.xml:40:25-76
+55-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Kenton\.gradle\caches\transforms-2\files-2.1\7c4237e0029812955685234cfce19139\play-services-measurement-17.2.0\AndroidManifest.xml:40:17-79
+55-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Kenton\.gradle\caches\transforms-2\files-2.1\7c4237e0029812955685234cfce19139\play-services-measurement-17.2.0\AndroidManifest.xml:40:25-76
 56            </intent-filter>
 57        </receiver>
 58
 59        <service
-59-->[com.google.android.gms:play-services-measurement:17.2.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/7c4237e0029812955685234cfce19139/play-services-measurement-17.2.0/AndroidManifest.xml:44:9-47:40
+59-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Kenton\.gradle\caches\transforms-2\files-2.1\7c4237e0029812955685234cfce19139\play-services-measurement-17.2.0\AndroidManifest.xml:44:9-47:40
 60            android:name="com.google.android.gms.measurement.AppMeasurementService"
-60-->[com.google.android.gms:play-services-measurement:17.2.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/7c4237e0029812955685234cfce19139/play-services-measurement-17.2.0/AndroidManifest.xml:45:13-84
+60-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Kenton\.gradle\caches\transforms-2\files-2.1\7c4237e0029812955685234cfce19139\play-services-measurement-17.2.0\AndroidManifest.xml:45:13-84
 61            android:enabled="true"
-61-->[com.google.android.gms:play-services-measurement:17.2.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/7c4237e0029812955685234cfce19139/play-services-measurement-17.2.0/AndroidManifest.xml:46:13-35
+61-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Kenton\.gradle\caches\transforms-2\files-2.1\7c4237e0029812955685234cfce19139\play-services-measurement-17.2.0\AndroidManifest.xml:46:13-35
 62            android:exported="false" />
-62-->[com.google.android.gms:play-services-measurement:17.2.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/7c4237e0029812955685234cfce19139/play-services-measurement-17.2.0/AndroidManifest.xml:47:13-37
+62-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Kenton\.gradle\caches\transforms-2\files-2.1\7c4237e0029812955685234cfce19139\play-services-measurement-17.2.0\AndroidManifest.xml:47:13-37
 63        <service
-63-->[com.google.android.gms:play-services-measurement:17.2.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/7c4237e0029812955685234cfce19139/play-services-measurement-17.2.0/AndroidManifest.xml:48:9-52:72
+63-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Kenton\.gradle\caches\transforms-2\files-2.1\7c4237e0029812955685234cfce19139\play-services-measurement-17.2.0\AndroidManifest.xml:48:9-52:72
 64            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
-64-->[com.google.android.gms:play-services-measurement:17.2.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/7c4237e0029812955685234cfce19139/play-services-measurement-17.2.0/AndroidManifest.xml:49:13-87
+64-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Kenton\.gradle\caches\transforms-2\files-2.1\7c4237e0029812955685234cfce19139\play-services-measurement-17.2.0\AndroidManifest.xml:49:13-87
 65            android:enabled="true"
-65-->[com.google.android.gms:play-services-measurement:17.2.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/7c4237e0029812955685234cfce19139/play-services-measurement-17.2.0/AndroidManifest.xml:50:13-35
+65-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Kenton\.gradle\caches\transforms-2\files-2.1\7c4237e0029812955685234cfce19139\play-services-measurement-17.2.0\AndroidManifest.xml:50:13-35
 66            android:exported="false"
-66-->[com.google.android.gms:play-services-measurement:17.2.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/7c4237e0029812955685234cfce19139/play-services-measurement-17.2.0/AndroidManifest.xml:51:13-37
+66-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Kenton\.gradle\caches\transforms-2\files-2.1\7c4237e0029812955685234cfce19139\play-services-measurement-17.2.0\AndroidManifest.xml:51:13-37
 67            android:permission="android.permission.BIND_JOB_SERVICE" />
-67-->[com.google.android.gms:play-services-measurement:17.2.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/7c4237e0029812955685234cfce19139/play-services-measurement-17.2.0/AndroidManifest.xml:52:13-69
+67-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Kenton\.gradle\caches\transforms-2\files-2.1\7c4237e0029812955685234cfce19139\play-services-measurement-17.2.0\AndroidManifest.xml:52:13-69
 68        <service
-68-->[com.google.android.gms:play-services-measurement-api:17.2.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/28c1ceda9eb72d23d1907429a7dd5035/play-services-measurement-api-17.2.0/AndroidManifest.xml:27:9-33:19
+68-->[com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\Kenton\.gradle\caches\transforms-2\files-2.1\28c1ceda9eb72d23d1907429a7dd5035\play-services-measurement-api-17.2.0\AndroidManifest.xml:27:9-33:19
 69            android:name="com.google.firebase.components.ComponentDiscoveryService"
-69-->[com.google.android.gms:play-services-measurement-api:17.2.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/28c1ceda9eb72d23d1907429a7dd5035/play-services-measurement-api-17.2.0/AndroidManifest.xml:28:13-84
+69-->[com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\Kenton\.gradle\caches\transforms-2\files-2.1\28c1ceda9eb72d23d1907429a7dd5035\play-services-measurement-api-17.2.0\AndroidManifest.xml:28:13-84
 70            android:exported="false" >
-70-->[com.google.android.gms:play-services-measurement-api:17.2.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/28c1ceda9eb72d23d1907429a7dd5035/play-services-measurement-api-17.2.0/AndroidManifest.xml:29:13-37
+70-->[com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\Kenton\.gradle\caches\transforms-2\files-2.1\28c1ceda9eb72d23d1907429a7dd5035\play-services-measurement-api-17.2.0\AndroidManifest.xml:29:13-37
 71            <meta-data
-71-->[com.google.android.gms:play-services-measurement-api:17.2.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/28c1ceda9eb72d23d1907429a7dd5035/play-services-measurement-api-17.2.0/AndroidManifest.xml:30:13-32:85
+71-->[com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\Kenton\.gradle\caches\transforms-2\files-2.1\28c1ceda9eb72d23d1907429a7dd5035\play-services-measurement-api-17.2.0\AndroidManifest.xml:30:13-32:85
 72                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
-72-->[com.google.android.gms:play-services-measurement-api:17.2.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/28c1ceda9eb72d23d1907429a7dd5035/play-services-measurement-api-17.2.0/AndroidManifest.xml:31:17-139
+72-->[com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\Kenton\.gradle\caches\transforms-2\files-2.1\28c1ceda9eb72d23d1907429a7dd5035\play-services-measurement-api-17.2.0\AndroidManifest.xml:31:17-139
 73                android:value="com.google.firebase.components.ComponentRegistrar" />
-73-->[com.google.android.gms:play-services-measurement-api:17.2.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/28c1ceda9eb72d23d1907429a7dd5035/play-services-measurement-api-17.2.0/AndroidManifest.xml:32:17-82
+73-->[com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\Kenton\.gradle\caches\transforms-2\files-2.1\28c1ceda9eb72d23d1907429a7dd5035\play-services-measurement-api-17.2.0\AndroidManifest.xml:32:17-82
 74            <meta-data
-74-->[com.google.firebase:firebase-iid:19.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/6cfe46f408152b0cf1be5d6c31bb25ab/firebase-iid-19.0.0/AndroidManifest.xml:32:13-34:85
+74-->[com.google.firebase:firebase-iid:19.0.0] C:\Users\Kenton\.gradle\caches\transforms-2\files-2.1\6cfe46f408152b0cf1be5d6c31bb25ab\firebase-iid-19.0.0\AndroidManifest.xml:32:13-34:85
 75                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
-75-->[com.google.firebase:firebase-iid:19.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/6cfe46f408152b0cf1be5d6c31bb25ab/firebase-iid-19.0.0/AndroidManifest.xml:33:17-96
+75-->[com.google.firebase:firebase-iid:19.0.0] C:\Users\Kenton\.gradle\caches\transforms-2\files-2.1\6cfe46f408152b0cf1be5d6c31bb25ab\firebase-iid-19.0.0\AndroidManifest.xml:33:17-96
 76                android:value="com.google.firebase.components.ComponentRegistrar" />
-76-->[com.google.firebase:firebase-iid:19.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/6cfe46f408152b0cf1be5d6c31bb25ab/firebase-iid-19.0.0/AndroidManifest.xml:34:17-82
+76-->[com.google.firebase:firebase-iid:19.0.0] C:\Users\Kenton\.gradle\caches\transforms-2\files-2.1\6cfe46f408152b0cf1be5d6c31bb25ab\firebase-iid-19.0.0\AndroidManifest.xml:34:17-82
 77        </service>
 78
 79        <receiver
-79-->[com.google.firebase:firebase-iid:19.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/6cfe46f408152b0cf1be5d6c31bb25ab/firebase-iid-19.0.0/AndroidManifest.xml:37:9-44:20
+79-->[com.google.firebase:firebase-iid:19.0.0] C:\Users\Kenton\.gradle\caches\transforms-2\files-2.1\6cfe46f408152b0cf1be5d6c31bb25ab\firebase-iid-19.0.0\AndroidManifest.xml:37:9-44:20
 80            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
-80-->[com.google.firebase:firebase-iid:19.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/6cfe46f408152b0cf1be5d6c31bb25ab/firebase-iid-19.0.0/AndroidManifest.xml:38:13-78
+80-->[com.google.firebase:firebase-iid:19.0.0] C:\Users\Kenton\.gradle\caches\transforms-2\files-2.1\6cfe46f408152b0cf1be5d6c31bb25ab\firebase-iid-19.0.0\AndroidManifest.xml:38:13-78
 81            android:exported="true"
-81-->[com.google.firebase:firebase-iid:19.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/6cfe46f408152b0cf1be5d6c31bb25ab/firebase-iid-19.0.0/AndroidManifest.xml:39:13-36
+81-->[com.google.firebase:firebase-iid:19.0.0] C:\Users\Kenton\.gradle\caches\transforms-2\files-2.1\6cfe46f408152b0cf1be5d6c31bb25ab\firebase-iid-19.0.0\AndroidManifest.xml:39:13-36
 82            android:permission="com.google.android.c2dm.permission.SEND" >
-82-->[com.google.firebase:firebase-iid:19.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/6cfe46f408152b0cf1be5d6c31bb25ab/firebase-iid-19.0.0/AndroidManifest.xml:40:13-73
+82-->[com.google.firebase:firebase-iid:19.0.0] C:\Users\Kenton\.gradle\caches\transforms-2\files-2.1\6cfe46f408152b0cf1be5d6c31bb25ab\firebase-iid-19.0.0\AndroidManifest.xml:40:13-73
 83            <intent-filter>
-83-->[com.google.firebase:firebase-iid:19.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/6cfe46f408152b0cf1be5d6c31bb25ab/firebase-iid-19.0.0/AndroidManifest.xml:41:13-43:29
+83-->[com.google.firebase:firebase-iid:19.0.0] C:\Users\Kenton\.gradle\caches\transforms-2\files-2.1\6cfe46f408152b0cf1be5d6c31bb25ab\firebase-iid-19.0.0\AndroidManifest.xml:41:13-43:29
 84                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
-84-->[com.google.firebase:firebase-iid:19.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/6cfe46f408152b0cf1be5d6c31bb25ab/firebase-iid-19.0.0/AndroidManifest.xml:42:17-81
-84-->[com.google.firebase:firebase-iid:19.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/6cfe46f408152b0cf1be5d6c31bb25ab/firebase-iid-19.0.0/AndroidManifest.xml:42:25-78
+84-->[com.google.firebase:firebase-iid:19.0.0] C:\Users\Kenton\.gradle\caches\transforms-2\files-2.1\6cfe46f408152b0cf1be5d6c31bb25ab\firebase-iid-19.0.0\AndroidManifest.xml:42:17-81
+84-->[com.google.firebase:firebase-iid:19.0.0] C:\Users\Kenton\.gradle\caches\transforms-2\files-2.1\6cfe46f408152b0cf1be5d6c31bb25ab\firebase-iid-19.0.0\AndroidManifest.xml:42:25-78
 85            </intent-filter>
 86        </receiver>
 87
 88        <provider
-88-->[com.google.firebase:firebase-common:19.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/e306355be855e8d08fa629ba35e00000/firebase-common-19.0.0/AndroidManifest.xml:12:9-16:39
+88-->[com.google.firebase:firebase-common:19.0.0] C:\Users\Kenton\.gradle\caches\transforms-2\files-2.1\e306355be855e8d08fa629ba35e00000\firebase-common-19.0.0\AndroidManifest.xml:12:9-16:39
 89            android:name="com.google.firebase.provider.FirebaseInitProvider"
-89-->[com.google.firebase:firebase-common:19.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/e306355be855e8d08fa629ba35e00000/firebase-common-19.0.0/AndroidManifest.xml:13:13-77
+89-->[com.google.firebase:firebase-common:19.0.0] C:\Users\Kenton\.gradle\caches\transforms-2\files-2.1\e306355be855e8d08fa629ba35e00000\firebase-common-19.0.0\AndroidManifest.xml:13:13-77
 90            android:authorities="com.example.socialslugapp.firebaseinitprovider"
-90-->[com.google.firebase:firebase-common:19.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/e306355be855e8d08fa629ba35e00000/firebase-common-19.0.0/AndroidManifest.xml:14:13-72
+90-->[com.google.firebase:firebase-common:19.0.0] C:\Users\Kenton\.gradle\caches\transforms-2\files-2.1\e306355be855e8d08fa629ba35e00000\firebase-common-19.0.0\AndroidManifest.xml:14:13-72
 91            android:exported="false"
-91-->[com.google.firebase:firebase-common:19.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/e306355be855e8d08fa629ba35e00000/firebase-common-19.0.0/AndroidManifest.xml:15:13-37
+91-->[com.google.firebase:firebase-common:19.0.0] C:\Users\Kenton\.gradle\caches\transforms-2\files-2.1\e306355be855e8d08fa629ba35e00000\firebase-common-19.0.0\AndroidManifest.xml:15:13-37
 92            android:initOrder="100" />
-92-->[com.google.firebase:firebase-common:19.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/e306355be855e8d08fa629ba35e00000/firebase-common-19.0.0/AndroidManifest.xml:16:13-36
+92-->[com.google.firebase:firebase-common:19.0.0] C:\Users\Kenton\.gradle\caches\transforms-2\files-2.1\e306355be855e8d08fa629ba35e00000\firebase-common-19.0.0\AndroidManifest.xml:16:13-36
 93
 94        <activity
-94-->[com.google.android.gms:play-services-base:17.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/c423a4a4c865f1495e65a77f87be0907/play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
+94-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Kenton\.gradle\caches\transforms-2\files-2.1\c423a4a4c865f1495e65a77f87be0907\play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
 95            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-95-->[com.google.android.gms:play-services-base:17.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/c423a4a4c865f1495e65a77f87be0907/play-services-base-17.0.0/AndroidManifest.xml:24:13-79
+95-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Kenton\.gradle\caches\transforms-2\files-2.1\c423a4a4c865f1495e65a77f87be0907\play-services-base-17.0.0\AndroidManifest.xml:24:13-79
 96            android:exported="false"
-96-->[com.google.android.gms:play-services-base:17.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/c423a4a4c865f1495e65a77f87be0907/play-services-base-17.0.0/AndroidManifest.xml:25:13-37
+96-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Kenton\.gradle\caches\transforms-2\files-2.1\c423a4a4c865f1495e65a77f87be0907\play-services-base-17.0.0\AndroidManifest.xml:25:13-37
 97            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-97-->[com.google.android.gms:play-services-base:17.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/c423a4a4c865f1495e65a77f87be0907/play-services-base-17.0.0/AndroidManifest.xml:26:13-72
+97-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Kenton\.gradle\caches\transforms-2\files-2.1\c423a4a4c865f1495e65a77f87be0907\play-services-base-17.0.0\AndroidManifest.xml:26:13-72
 98
 99        <meta-data
-99-->[com.google.android.gms:play-services-basement:17.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/0ed78d9ab94c4cc566ede8d514bf0803/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+99-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Kenton\.gradle\caches\transforms-2\files-2.1\a04d6026fdfb35d992c6ffcd1742d1cc\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
 100            android:name="com.google.android.gms.version"
-100-->[com.google.android.gms:play-services-basement:17.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/0ed78d9ab94c4cc566ede8d514bf0803/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
+100-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Kenton\.gradle\caches\transforms-2\files-2.1\a04d6026fdfb35d992c6ffcd1742d1cc\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
 101            android:value="@integer/google_play_services_version" />
-101-->[com.google.android.gms:play-services-basement:17.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/0ed78d9ab94c4cc566ede8d514bf0803/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+101-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Kenton\.gradle\caches\transforms-2\files-2.1\a04d6026fdfb35d992c6ffcd1742d1cc\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
 102        <!--
 103         The initialization ContentProvider will call FacebookSdk.sdkInitialize automatically
 104         with the application context. This config is merged in with the host app's manifest,
@@ -195,40 +195,40 @@
 109         a completely different provider.
 110        -->
 111        <provider
-111-->[com.facebook.android:facebook-core:5.8.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/3e078f5040f05b1721c775cbdc529e71/jetified-facebook-core-5.8.0/AndroidManifest.xml:39:9-42:40
+111-->[com.facebook.android:facebook-core:5.8.0] C:\Users\Kenton\.gradle\caches\transforms-2\files-2.1\9c6f09921ba16e2b04aab6c4ca38daf0\jetified-facebook-core-5.8.0\AndroidManifest.xml:39:9-42:40
 112            android:name="com.facebook.internal.FacebookInitProvider"
-112-->[com.facebook.android:facebook-core:5.8.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/3e078f5040f05b1721c775cbdc529e71/jetified-facebook-core-5.8.0/AndroidManifest.xml:40:13-70
+112-->[com.facebook.android:facebook-core:5.8.0] C:\Users\Kenton\.gradle\caches\transforms-2\files-2.1\9c6f09921ba16e2b04aab6c4ca38daf0\jetified-facebook-core-5.8.0\AndroidManifest.xml:40:13-70
 113            android:authorities="com.example.socialslugapp.FacebookInitProvider"
-113-->[com.facebook.android:facebook-core:5.8.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/3e078f5040f05b1721c775cbdc529e71/jetified-facebook-core-5.8.0/AndroidManifest.xml:41:13-72
+113-->[com.facebook.android:facebook-core:5.8.0] C:\Users\Kenton\.gradle\caches\transforms-2\files-2.1\9c6f09921ba16e2b04aab6c4ca38daf0\jetified-facebook-core-5.8.0\AndroidManifest.xml:41:13-72
 114            android:exported="false" />
-114-->[com.facebook.android:facebook-core:5.8.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/3e078f5040f05b1721c775cbdc529e71/jetified-facebook-core-5.8.0/AndroidManifest.xml:42:13-37
+114-->[com.facebook.android:facebook-core:5.8.0] C:\Users\Kenton\.gradle\caches\transforms-2\files-2.1\9c6f09921ba16e2b04aab6c4ca38daf0\jetified-facebook-core-5.8.0\AndroidManifest.xml:42:13-37
 115
 116        <receiver
-116-->[com.facebook.android:facebook-core:5.8.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/3e078f5040f05b1721c775cbdc529e71/jetified-facebook-core-5.8.0/AndroidManifest.xml:44:9-50:20
+116-->[com.facebook.android:facebook-core:5.8.0] C:\Users\Kenton\.gradle\caches\transforms-2\files-2.1\9c6f09921ba16e2b04aab6c4ca38daf0\jetified-facebook-core-5.8.0\AndroidManifest.xml:44:9-50:20
 117            android:name="com.facebook.CurrentAccessTokenExpirationBroadcastReceiver"
-117-->[com.facebook.android:facebook-core:5.8.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/3e078f5040f05b1721c775cbdc529e71/jetified-facebook-core-5.8.0/AndroidManifest.xml:45:13-86
+117-->[com.facebook.android:facebook-core:5.8.0] C:\Users\Kenton\.gradle\caches\transforms-2\files-2.1\9c6f09921ba16e2b04aab6c4ca38daf0\jetified-facebook-core-5.8.0\AndroidManifest.xml:45:13-86
 118            android:exported="false" >
-118-->[com.facebook.android:facebook-core:5.8.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/3e078f5040f05b1721c775cbdc529e71/jetified-facebook-core-5.8.0/AndroidManifest.xml:46:13-37
+118-->[com.facebook.android:facebook-core:5.8.0] C:\Users\Kenton\.gradle\caches\transforms-2\files-2.1\9c6f09921ba16e2b04aab6c4ca38daf0\jetified-facebook-core-5.8.0\AndroidManifest.xml:46:13-37
 119            <intent-filter>
-119-->[com.facebook.android:facebook-core:5.8.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/3e078f5040f05b1721c775cbdc529e71/jetified-facebook-core-5.8.0/AndroidManifest.xml:47:13-49:29
+119-->[com.facebook.android:facebook-core:5.8.0] C:\Users\Kenton\.gradle\caches\transforms-2\files-2.1\9c6f09921ba16e2b04aab6c4ca38daf0\jetified-facebook-core-5.8.0\AndroidManifest.xml:47:13-49:29
 120                <action android:name="com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED" />
-120-->[com.facebook.android:facebook-core:5.8.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/3e078f5040f05b1721c775cbdc529e71/jetified-facebook-core-5.8.0/AndroidManifest.xml:48:17-95
-120-->[com.facebook.android:facebook-core:5.8.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/3e078f5040f05b1721c775cbdc529e71/jetified-facebook-core-5.8.0/AndroidManifest.xml:48:25-92
+120-->[com.facebook.android:facebook-core:5.8.0] C:\Users\Kenton\.gradle\caches\transforms-2\files-2.1\9c6f09921ba16e2b04aab6c4ca38daf0\jetified-facebook-core-5.8.0\AndroidManifest.xml:48:17-95
+120-->[com.facebook.android:facebook-core:5.8.0] C:\Users\Kenton\.gradle\caches\transforms-2\files-2.1\9c6f09921ba16e2b04aab6c4ca38daf0\jetified-facebook-core-5.8.0\AndroidManifest.xml:48:25-92
 121            </intent-filter>
 122        </receiver>
 123        <receiver
-123-->[com.facebook.android:facebook-core:5.8.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/3e078f5040f05b1721c775cbdc529e71/jetified-facebook-core-5.8.0/AndroidManifest.xml:51:9-58:20
+123-->[com.facebook.android:facebook-core:5.8.0] C:\Users\Kenton\.gradle\caches\transforms-2\files-2.1\9c6f09921ba16e2b04aab6c4ca38daf0\jetified-facebook-core-5.8.0\AndroidManifest.xml:51:9-58:20
 124            android:name="com.facebook.CampaignTrackingReceiver"
-124-->[com.facebook.android:facebook-core:5.8.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/3e078f5040f05b1721c775cbdc529e71/jetified-facebook-core-5.8.0/AndroidManifest.xml:52:13-65
+124-->[com.facebook.android:facebook-core:5.8.0] C:\Users\Kenton\.gradle\caches\transforms-2\files-2.1\9c6f09921ba16e2b04aab6c4ca38daf0\jetified-facebook-core-5.8.0\AndroidManifest.xml:52:13-65
 125            android:exported="true"
-125-->[com.facebook.android:facebook-core:5.8.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/3e078f5040f05b1721c775cbdc529e71/jetified-facebook-core-5.8.0/AndroidManifest.xml:53:13-36
+125-->[com.facebook.android:facebook-core:5.8.0] C:\Users\Kenton\.gradle\caches\transforms-2\files-2.1\9c6f09921ba16e2b04aab6c4ca38daf0\jetified-facebook-core-5.8.0\AndroidManifest.xml:53:13-36
 126            android:permission="android.permission.INSTALL_PACKAGES" >
-126-->[com.facebook.android:facebook-core:5.8.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/3e078f5040f05b1721c775cbdc529e71/jetified-facebook-core-5.8.0/AndroidManifest.xml:54:13-69
+126-->[com.facebook.android:facebook-core:5.8.0] C:\Users\Kenton\.gradle\caches\transforms-2\files-2.1\9c6f09921ba16e2b04aab6c4ca38daf0\jetified-facebook-core-5.8.0\AndroidManifest.xml:54:13-69
 127            <intent-filter>
-127-->[com.google.android.gms:play-services-measurement:17.2.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/7c4237e0029812955685234cfce19139/play-services-measurement-17.2.0/AndroidManifest.xml:39:13-41:29
+127-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Kenton\.gradle\caches\transforms-2\files-2.1\7c4237e0029812955685234cfce19139\play-services-measurement-17.2.0\AndroidManifest.xml:39:13-41:29
 128                <action android:name="com.android.vending.INSTALL_REFERRER" />
-128-->[com.google.android.gms:play-services-measurement:17.2.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/7c4237e0029812955685234cfce19139/play-services-measurement-17.2.0/AndroidManifest.xml:40:17-79
-128-->[com.google.android.gms:play-services-measurement:17.2.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/7c4237e0029812955685234cfce19139/play-services-measurement-17.2.0/AndroidManifest.xml:40:25-76
+128-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Kenton\.gradle\caches\transforms-2\files-2.1\7c4237e0029812955685234cfce19139\play-services-measurement-17.2.0\AndroidManifest.xml:40:17-79
+128-->[com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Kenton\.gradle\caches\transforms-2\files-2.1\7c4237e0029812955685234cfce19139\play-services-measurement-17.2.0\AndroidManifest.xml:40:25-76
 129            </intent-filter>
 130        </receiver>
 131    </application>

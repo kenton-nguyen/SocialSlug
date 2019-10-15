@@ -1,7 +1,7 @@
-#Tue Oct 15 11:55:02 PDT 2019
-base.0=/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/dex/debug/mergeExtDexDebug/out/classes.dex
+#Tue Oct 15 12:50:53 PDT 2019
+base.0=C\:\\Users\\Kenton\\AndroidStudioProjects\\SocialSlugApp\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
 path.1=classes.dex
 renamed.1=classes2.dex
 path.0=classes.dex
 renamed.0=classes.dex
-base.1=/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/dex/debug/mergeProjectDexDebug/out/classes.dex
+base.1=C\:\\Users\\Kenton\\AndroidStudioProjects\\SocialSlugApp\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex

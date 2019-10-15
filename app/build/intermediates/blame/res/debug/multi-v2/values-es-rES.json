@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-es-rES/values-es-rES.xml",
+            "outputFile": "C:\\Users\\Kenton\\AndroidStudioProjects\\SocialSlugApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-es-rES\\values-es-rES.xml",
             "map": [
                 {
-                    "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/faddd1171bf76179ef07a8bd1a1728fb/jetified-facebook-login-5.8.0/res/values-es-rES/values-es-rES.xml",
+                    "source": "C:\\Users\\Kenton\\.gradle\\caches\\transforms-2\\files-2.1\\cc0f1fc3f950e96af983dbaf21dcd4cf\\jetified-facebook-login-5.8.0\\res\\values-es-rES\\values-es-rES.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
