@@ -3,5 +3,6 @@
     <string name="action_settings">Settings</string>
     <string name="facebook_app_id">465102864213907</string>
     <string name="fb_login_protocol_scheme">fb465102864213907</string>
-
+    <string name="storage_link">gs://socialslugapp-30387.appspot.com</string>
+    <string name="google_web_client_id">1057073088687-ib07qd3v5gfcf9fuuppmebgnbajooqvb.apps.googleusercontent.com</string>
 </resources>

@@ -1680,6 +1680,7 @@ int string path_password_strike_through 0x7f0e005d
 int string project_id 0x7f0e005e
 int string search_menu_title 0x7f0e005f
 int string status_bar_notification_info_overflow 0x7f0e0060
+int string storage_link 0x7f0e0061
 int style AlertDialog_AppCompat 0x7f0f0000
 int style AlertDialog_AppCompat_Light 0x7f0f0001
 int style Animation_AppCompat_Dialog 0x7f0f0002

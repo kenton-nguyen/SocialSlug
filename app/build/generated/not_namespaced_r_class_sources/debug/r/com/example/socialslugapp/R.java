@@ -6049,6 +6049,7 @@ public final class R {
     public static final int project_id=0x7f0e005e;
     public static final int search_menu_title=0x7f0e005f;
     public static final int status_bar_notification_info_overflow=0x7f0e0060;
+    public static final int storage_link=0x7f0e0061;
   }
   public static final class style {
     public static final int AlertDialog_AppCompat=0x7f0f0000;
