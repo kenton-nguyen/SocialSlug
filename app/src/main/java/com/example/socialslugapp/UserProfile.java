@@ -27,6 +27,7 @@ public class UserProfile extends AppCompatActivity {
     TextView nameTV;
     TextView emailTV;
     TextView idTV;
+    ImageView PhotoIV;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -37,6 +38,7 @@ public class UserProfile extends AppCompatActivity {
         nameTV = findViewById(R.id.name);
         emailTV = findViewById(R.id.email);
         idTV = findViewById(R.id.id);
+
         // Configure sign-in to request the user's ID, email address, and basic
         // profile. ID and basic profile are included in DEFAULT_SIGN_IN.
         GoogleSignInOptions gso = new GoogleSignInOptions.Builder(GoogleSignInOptions.DEFAULT_SIGN_IN)
@@ -58,6 +60,7 @@ public class UserProfile extends AppCompatActivity {
             nameTV.setText("Name: "+personName);
             emailTV.setText("Email: "+personEmail);
             idTV.setText("ID: "+personId);
+
         }
 
         sign_out.setOnClickListener(new View.OnClickListener() {
