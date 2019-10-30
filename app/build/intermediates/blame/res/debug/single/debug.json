@@ -32,10 +32,6 @@
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/eed87e4dcfbcde902e796102c3d722f2/jetified-firebase-ui-auth-4.3.1/res/drawable/fui_ic_phone_white_24dp.xml"
     },
     {
-        "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable_com_facebook_button_send_background.xml.flat",
-        "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/b6511cdd16a9d98394fc754088ac0dbb/jetified-facebook-share-5.8.0/res/drawable/com_facebook_button_send_background.xml"
-    },
-    {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_light_focused.xml.flat",
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/c6ed24259e187418524151309c91ad64/play-services-base-17.1.0/res/drawable/common_google_signin_btn_icon_light_focused.xml"
     },
@@ -50,10 +46,6 @@
     {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-ldrtl-mdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/f8ccfb448ba3545203b2c9319e236e39/appcompat-1.1.0/res/drawable-ldrtl-mdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
-    },
-    {
-        "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_messenger_bubble_small_blue.png.flat",
-        "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/e4e877097d3ee433bcca0c680a407e01/facebook-messenger-5.8.0/res/drawable-hdpi-v4/messenger_bubble_small_blue.png"
     },
     {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
@@ -76,10 +68,6 @@
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/eed87e4dcfbcde902e796102c3d722f2/jetified-firebase-ui-auth-4.3.1/res/drawable-v21/fui_idp_button_background_facebook.xml"
     },
     {
-        "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_com_facebook_tooltip_black_background.9.png.flat",
-        "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/faddd1171bf76179ef07a8bd1a1728fb/jetified-facebook-login-5.8.0/res/drawable-mdpi-v4/com_facebook_tooltip_black_background.9.png"
-    },
-    {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable_notification_bg.xml.flat",
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/56b6cdfbd80af409835a31a4470c49f0/core-1.1.0/res/drawable/notification_bg.xml"
     },
@@ -100,16 +88,12 @@
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/f8ccfb448ba3545203b2c9319e236e39/appcompat-1.1.0/res/drawable/abc_text_cursor_material.xml"
     },
     {
-        "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/color_com_facebook_send_button_text_color.xml.flat",
-        "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/b6511cdd16a9d98394fc754088ac0dbb/jetified-facebook-share-5.8.0/res/color/com_facebook_send_button_text_color.xml"
-    },
-    {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/f8ccfb448ba3545203b2c9319e236e39/appcompat-1.1.0/res/drawable-hdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
     },
     {
-        "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_com_facebook_tooltip_black_xout.png.flat",
-        "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/faddd1171bf76179ef07a8bd1a1728fb/jetified-facebook-login-5.8.0/res/drawable-mdpi-v4/com_facebook_tooltip_black_xout.png"
+        "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/layout_activity_add_post.xml.flat",
+        "source": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/res/layout/activity_add_post.xml"
     },
     {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/anim_btn_radio_to_on_mtrl_dot_group_animation.xml.flat",
@@ -196,10 +180,6 @@
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/56b6cdfbd80af409835a31a4470c49f0/core-1.1.0/res/layout-v21/notification_action.xml"
     },
     {
-        "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable_messenger_button_white_bg_round.xml.flat",
-        "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/e4e877097d3ee433bcca0c680a407e01/facebook-messenger-5.8.0/res/drawable/messenger_button_white_bg_round.xml"
-    },
-    {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/anim_design_snackbar_in.xml.flat",
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/3df2fd68af0236fb7b1a24eeed8b503b/material-1.0.0/res/anim/design_snackbar_in.xml"
     },
@@ -210,10 +190,6 @@
     {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/layout_fui_register_email_layout.xml.flat",
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/eed87e4dcfbcde902e796102c3d722f2/jetified-firebase-ui-auth-4.3.1/res/layout/fui_register_email_layout.xml"
-    },
-    {
-        "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_com_facebook_profile_picture_blank_portrait.png.flat",
-        "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/faddd1171bf76179ef07a8bd1a1728fb/jetified-facebook-login-5.8.0/res/drawable-mdpi-v4/com_facebook_profile_picture_blank_portrait.png"
     },
     {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/color-v23_abc_tint_spinner.xml.flat",
@@ -238,10 +214,6 @@
     {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/color_mtrl_btn_ripple_color.xml.flat",
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/3df2fd68af0236fb7b1a24eeed8b503b/material-1.0.0/res/color/mtrl_btn_ripple_color.xml"
-    },
-    {
-        "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_messenger_bubble_small_white.png.flat",
-        "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/e4e877097d3ee433bcca0c680a407e01/facebook-messenger-5.8.0/res/drawable-hdpi-v4/messenger_bubble_small_white.png"
     },
     {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_dark_normal.xml.flat",
@@ -292,6 +264,10 @@
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/56b6cdfbd80af409835a31a4470c49f0/core-1.1.0/res/layout-v21/notification_template_icon_group.xml"
     },
     {
+        "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_add_icon.png.flat",
+        "source": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/res/drawable-xxhdpi/ic_add_icon.png"
+    },
+    {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_pressed_holo_light.9.png.flat",
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/f8ccfb448ba3545203b2c9319e236e39/appcompat-1.1.0/res/drawable-xhdpi-v4/abc_list_pressed_holo_light.9.png"
     },
@@ -306,10 +282,6 @@
     {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/f8ccfb448ba3545203b2c9319e236e39/appcompat-1.1.0/res/drawable-hdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/layout_messenger_button_send_white_large.xml.flat",
-        "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/e4e877097d3ee433bcca0c680a407e01/facebook-messenger-5.8.0/res/layout/messenger_button_send_white_large.xml"
     },
     {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
@@ -332,10 +304,6 @@
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/f8ccfb448ba3545203b2c9319e236e39/appcompat-1.1.0/res/drawable-hdpi-v4/abc_ic_star_black_48dp.png"
     },
     {
-        "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_messenger_button_send_round_shadow.png.flat",
-        "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/e4e877097d3ee433bcca0c680a407e01/facebook-messenger-5.8.0/res/drawable-mdpi-v4/messenger_button_send_round_shadow.png"
-    },
-    {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_star_black_36dp.png.flat",
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/f8ccfb448ba3545203b2c9319e236e39/appcompat-1.1.0/res/drawable-xxhdpi-v4/abc_ic_star_black_36dp.png"
     },
@@ -344,24 +312,8 @@
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/eed87e4dcfbcde902e796102c3d722f2/jetified-firebase-ui-auth-4.3.1/res/layout/fui_confirmation_code_layout.xml"
     },
     {
-        "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/layout_com_facebook_smart_device_dialog_fragment.xml.flat",
-        "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/ce4e2c46c1c929707d2996ea82d69bbf/jetified-facebook-common-5.8.0/res/layout/com_facebook_smart_device_dialog_fragment.xml"
-    },
-    {
-        "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_messenger_bubble_small_white.png.flat",
-        "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/e4e877097d3ee433bcca0c680a407e01/facebook-messenger-5.8.0/res/drawable-xxhdpi-v4/messenger_bubble_small_white.png"
-    },
-    {
-        "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_facebook_button_like_icon_selected.png.flat",
-        "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/ce4e2c46c1c929707d2996ea82d69bbf/jetified-facebook-common-5.8.0/res/drawable-xhdpi-v4/com_facebook_button_like_icon_selected.png"
-    },
-    {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/f8ccfb448ba3545203b2c9319e236e39/appcompat-1.1.0/res/drawable-hdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
-    },
-    {
-        "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_com_facebook_tooltip_blue_topnub.png.flat",
-        "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/faddd1171bf76179ef07a8bd1a1728fb/jetified-facebook-login-5.8.0/res/drawable-hdpi-v4/com_facebook_tooltip_blue_topnub.png"
     },
     {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_disabled.xml.flat",
@@ -384,8 +336,8 @@
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/f8ccfb448ba3545203b2c9319e236e39/appcompat-1.1.0/res/drawable-xxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
-        "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/layout_com_facebook_tooltip_bubble.xml.flat",
-        "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/faddd1171bf76179ef07a8bd1a1728fb/jetified-facebook-login-5.8.0/res/layout/com_facebook_tooltip_bubble.xml"
+        "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_add_icon.png.flat",
+        "source": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/res/drawable-mdpi/ic_add_icon.png"
     },
     {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
@@ -480,20 +432,12 @@
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/f8ccfb448ba3545203b2c9319e236e39/appcompat-1.1.0/res/drawable-xxhdpi-v4/abc_ic_star_half_black_36dp.png"
     },
     {
-        "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_messenger_bubble_small_white.png.flat",
-        "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/e4e877097d3ee433bcca0c680a407e01/facebook-messenger-5.8.0/res/drawable-xhdpi-v4/messenger_bubble_small_white.png"
-    },
-    {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-v23_abc_control_background_material.xml.flat",
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/f8ccfb448ba3545203b2c9319e236e39/appcompat-1.1.0/res/drawable-v23/abc_control_background_material.xml"
     },
     {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/layout_abc_alert_dialog_title_material.xml.flat",
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/f8ccfb448ba3545203b2c9319e236e39/appcompat-1.1.0/res/layout/abc_alert_dialog_title_material.xml"
-    },
-    {
-        "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable_com_facebook_auth_dialog_header_background.xml.flat",
-        "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/ce4e2c46c1c929707d2996ea82d69bbf/jetified-facebook-common-5.8.0/res/drawable/com_facebook_auth_dialog_header_background.xml"
     },
     {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
@@ -504,20 +448,12 @@
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/f8ccfb448ba3545203b2c9319e236e39/appcompat-1.1.0/res/drawable-xhdpi-v4/abc_ic_star_black_16dp.png"
     },
     {
-        "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_messenger_bubble_small_blue.png.flat",
-        "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/e4e877097d3ee433bcca0c680a407e01/facebook-messenger-5.8.0/res/drawable-mdpi-v4/messenger_bubble_small_blue.png"
-    },
-    {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/f8ccfb448ba3545203b2c9319e236e39/appcompat-1.1.0/res/drawable-hdpi-v4/abc_list_selector_disabled_holo_light.9.png"
     },
     {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/f8ccfb448ba3545203b2c9319e236e39/appcompat-1.1.0/res/drawable-xhdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
-    },
-    {
-        "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_com_facebook_profile_picture_blank_square.png.flat",
-        "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/faddd1171bf76179ef07a8bd1a1728fb/jetified-facebook-login-5.8.0/res/drawable-mdpi-v4/com_facebook_profile_picture_blank_square.png"
     },
     {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/layout-sw600dp-v13_mtrl_layout_snackbar.xml.flat",
@@ -554,10 +490,6 @@
     {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable_ic_mtrl_chip_checked_black.xml.flat",
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/3df2fd68af0236fb7b1a24eeed8b503b/material-1.0.0/res/drawable/ic_mtrl_chip_checked_black.xml"
-    },
-    {
-        "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/layout_com_facebook_activity_layout.xml.flat",
-        "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/ce4e2c46c1c929707d2996ea82d69bbf/jetified-facebook-common-5.8.0/res/layout/com_facebook_activity_layout.xml"
     },
     {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
@@ -600,28 +532,12 @@
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/f8ccfb448ba3545203b2c9319e236e39/appcompat-1.1.0/res/drawable-mdpi-v4/abc_list_longpressed_holo.9.png"
     },
     {
-        "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_facebook_tooltip_blue_background.9.png.flat",
-        "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/faddd1171bf76179ef07a8bd1a1728fb/jetified-facebook-login-5.8.0/res/drawable-xhdpi-v4/com_facebook_tooltip_blue_background.9.png"
-    },
-    {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/f8ccfb448ba3545203b2c9319e236e39/appcompat-1.1.0/res/drawable-xxhdpi-v4/abc_text_select_handle_right_mtrl_light.png"
     },
     {
-        "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_facebook_tooltip_black_topnub.png.flat",
-        "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/faddd1171bf76179ef07a8bd1a1728fb/jetified-facebook-login-5.8.0/res/drawable-xhdpi-v4/com_facebook_tooltip_black_topnub.png"
-    },
-    {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/layout_notification_template_media.xml.flat",
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/f73554407891e5f42b5a27997e9f0ce3/media-1.0.0/res/layout/notification_template_media.xml"
-    },
-    {
-        "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_com_facebook_tooltip_black_bottomnub.png.flat",
-        "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/faddd1171bf76179ef07a8bd1a1728fb/jetified-facebook-login-5.8.0/res/drawable-mdpi-v4/com_facebook_tooltip_black_bottomnub.png"
-    },
-    {
-        "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_com_facebook_button_like_icon_selected.png.flat",
-        "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/ce4e2c46c1c929707d2996ea82d69bbf/jetified-facebook-common-5.8.0/res/drawable-xxhdpi-v4/com_facebook_button_like_icon_selected.png"
     },
     {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
@@ -656,16 +572,8 @@
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/f8ccfb448ba3545203b2c9319e236e39/appcompat-1.1.0/res/anim/btn_checkbox_to_checked_icon_null_animation.xml"
     },
     {
-        "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_com_facebook_close.png.flat",
-        "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/ce4e2c46c1c929707d2996ea82d69bbf/jetified-facebook-common-5.8.0/res/drawable-hdpi-v4/com_facebook_close.png"
-    },
-    {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/interpolator_btn_checkbox_checked_mtrl_animation_interpolator_1.xml.flat",
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/f8ccfb448ba3545203b2c9319e236e39/appcompat-1.1.0/res/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_1.xml"
-    },
-    {
-        "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/color_com_facebook_button_text_color.xml.flat",
-        "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/ce4e2c46c1c929707d2996ea82d69bbf/jetified-facebook-common-5.8.0/res/color/com_facebook_button_text_color.xml"
     },
     {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_design_ic_visibility_off.png.flat",
@@ -722,10 +630,6 @@
     {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/f8ccfb448ba3545203b2c9319e236e39/appcompat-1.1.0/res/drawable-xhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
-    },
-    {
-        "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_com_facebook_tooltip_blue_background.9.png.flat",
-        "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/faddd1171bf76179ef07a8bd1a1728fb/jetified-facebook-login-5.8.0/res/drawable-mdpi-v4/com_facebook_tooltip_blue_background.9.png"
     },
     {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/interpolator_btn_checkbox_checked_mtrl_animation_interpolator_0.xml.flat",
@@ -816,16 +720,8 @@
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/eed87e4dcfbcde902e796102c3d722f2/jetified-firebase-ui-auth-4.3.1/res/anim/fui_slide_in_right.xml"
     },
     {
-        "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable_com_facebook_button_background.xml.flat",
-        "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/ce4e2c46c1c929707d2996ea82d69bbf/jetified-facebook-common-5.8.0/res/drawable/com_facebook_button_background.xml"
-    },
-    {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/layout_fui_forgot_password_layout.xml.flat",
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/eed87e4dcfbcde902e796102c3d722f2/jetified-firebase-ui-auth-4.3.1/res/layout/fui_forgot_password_layout.xml"
-    },
-    {
-        "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable_com_facebook_send_button_icon.xml.flat",
-        "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/b6511cdd16a9d98394fc754088ac0dbb/jetified-facebook-share-5.8.0/res/drawable/com_facebook_send_button_icon.xml"
     },
     {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_googleg_standard_color_18.png.flat",
@@ -850,6 +746,10 @@
     {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable_btn_checkbox_checked_to_unchecked_mtrl_animation.xml.flat",
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/f8ccfb448ba3545203b2c9319e236e39/appcompat-1.1.0/res/drawable/btn_checkbox_checked_to_unchecked_mtrl_animation.xml"
+    },
+    {
+        "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-anydpi_ic_add_icon.xml.flat",
+        "source": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/res/drawable-anydpi/ic_add_icon.xml"
     },
     {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-v21_design_bottom_navigation_item_background.xml.flat",
@@ -880,20 +780,12 @@
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/c6ed24259e187418524151309c91ad64/play-services-base-17.1.0/res/drawable/common_google_signin_btn_text_light_focused.xml"
     },
     {
-        "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_com_facebook_tooltip_blue_xout.png.flat",
-        "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/faddd1171bf76179ef07a8bd1a1728fb/jetified-facebook-login-5.8.0/res/drawable-hdpi-v4/com_facebook_tooltip_blue_xout.png"
-    },
-    {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_light.xml.flat",
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/c6ed24259e187418524151309c91ad64/play-services-base-17.1.0/res/drawable/common_google_signin_btn_icon_light.xml"
     },
     {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/layout_abc_select_dialog_material.xml.flat",
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/f8ccfb448ba3545203b2c9319e236e39/appcompat-1.1.0/res/layout/abc_select_dialog_material.xml"
-    },
-    {
-        "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_messenger_button_send_round_shadow.png.flat",
-        "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/e4e877097d3ee433bcca0c680a407e01/facebook-messenger-5.8.0/res/drawable-hdpi-v4/messenger_button_send_round_shadow.png"
     },
     {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/anim_abc_fade_out.xml.flat",
@@ -952,10 +844,6 @@
         "source": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
     },
     {
-        "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_facebook_tooltip_black_xout.png.flat",
-        "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/faddd1171bf76179ef07a8bd1a1728fb/jetified-facebook-login-5.8.0/res/drawable-xhdpi-v4/com_facebook_tooltip_black_xout.png"
-    },
-    {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_pressed_holo_light.9.png.flat",
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/f8ccfb448ba3545203b2c9319e236e39/appcompat-1.1.0/res/drawable-mdpi-v4/abc_list_pressed_holo_light.9.png"
     },
@@ -1004,6 +892,10 @@
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/56b6cdfbd80af409835a31a4470c49f0/core-1.1.0/res/layout-v21/notification_template_custom_big.xml"
     },
     {
+        "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_add_icon.png.flat",
+        "source": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/res/drawable-xhdpi/ic_add_icon.png"
+    },
+    {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/f8ccfb448ba3545203b2c9319e236e39/appcompat-1.1.0/res/drawable-mdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
     },
@@ -1014,10 +906,6 @@
     {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/f8ccfb448ba3545203b2c9319e236e39/appcompat-1.1.0/res/drawable-hdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_com_facebook_button_send_icon_white.png.flat",
-        "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/b6511cdd16a9d98394fc754088ac0dbb/jetified-facebook-share-5.8.0/res/drawable-mdpi-v4/com_facebook_button_send_icon_white.png"
     },
     {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
@@ -1064,20 +952,12 @@
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/c6ed24259e187418524151309c91ad64/play-services-base-17.1.0/res/drawable/common_google_signin_btn_icon_dark.xml"
     },
     {
-        "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_facebook_button_send_icon_blue.png.flat",
-        "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/b6511cdd16a9d98394fc754088ac0dbb/jetified-facebook-share-5.8.0/res/drawable-xhdpi-v4/com_facebook_button_send_icon_blue.png"
-    },
-    {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_dark.xml.flat",
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/c6ed24259e187418524151309c91ad64/play-services-base-17.1.0/res/drawable/common_google_signin_btn_text_dark.xml"
     },
     {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/f8ccfb448ba3545203b2c9319e236e39/appcompat-1.1.0/res/drawable-xhdpi-v4/abc_switch_track_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_messenger_bubble_large_blue.png.flat",
-        "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/e4e877097d3ee433bcca0c680a407e01/facebook-messenger-5.8.0/res/drawable-xxhdpi-v4/messenger_bubble_large_blue.png"
     },
     {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_design_ic_visibility.png.flat",
@@ -1092,16 +972,8 @@
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/f8ccfb448ba3545203b2c9319e236e39/appcompat-1.1.0/res/anim/abc_fade_in.xml"
     },
     {
-        "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_com_facebook_tooltip_black_xout.png.flat",
-        "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/faddd1171bf76179ef07a8bd1a1728fb/jetified-facebook-login-5.8.0/res/drawable-hdpi-v4/com_facebook_tooltip_black_xout.png"
-    },
-    {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_star_half_black_36dp.png.flat",
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/f8ccfb448ba3545203b2c9319e236e39/appcompat-1.1.0/res/drawable-mdpi-v4/abc_ic_star_half_black_36dp.png"
-    },
-    {
-        "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_com_facebook_close.png.flat",
-        "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/ce4e2c46c1c929707d2996ea82d69bbf/jetified-facebook-common-5.8.0/res/drawable-mdpi-v4/com_facebook_close.png"
     },
     {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-watch-v20_common_google_signin_btn_text_dark_normal.xml.flat",
@@ -1144,10 +1016,6 @@
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/f8ccfb448ba3545203b2c9319e236e39/appcompat-1.1.0/res/drawable-mdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
     },
     {
-        "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_com_facebook_button_like_icon_selected.png.flat",
-        "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/ce4e2c46c1c929707d2996ea82d69bbf/jetified-facebook-common-5.8.0/res/drawable-mdpi-v4/com_facebook_button_like_icon_selected.png"
-    },
-    {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/f8ccfb448ba3545203b2c9319e236e39/appcompat-1.1.0/res/drawable-hdpi-v4/abc_text_select_handle_right_mtrl_light.png"
     },
@@ -1184,10 +1052,6 @@
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/f8ccfb448ba3545203b2c9319e236e39/appcompat-1.1.0/res/layout/abc_dialog_title_material.xml"
     },
     {
-        "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_com_facebook_tooltip_blue_background.9.png.flat",
-        "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/faddd1171bf76179ef07a8bd1a1728fb/jetified-facebook-login-5.8.0/res/drawable-hdpi-v4/com_facebook_tooltip_blue_background.9.png"
-    },
-    {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/f8ccfb448ba3545203b2c9319e236e39/appcompat-1.1.0/res/drawable-hdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
     },
@@ -1210,10 +1074,6 @@
     {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/layout_fui_activity_register_email.xml.flat",
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/eed87e4dcfbcde902e796102c3d722f2/jetified-firebase-ui-auth-4.3.1/res/layout/fui_activity_register_email.xml"
-    },
-    {
-        "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_com_facebook_tooltip_blue_bottomnub.png.flat",
-        "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/faddd1171bf76179ef07a8bd1a1728fb/jetified-facebook-login-5.8.0/res/drawable-hdpi-v4/com_facebook_tooltip_blue_bottomnub.png"
     },
     {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_normal.9.png.flat",
@@ -1244,10 +1104,6 @@
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/f8ccfb448ba3545203b2c9319e236e39/appcompat-1.1.0/res/color/abc_background_cache_hint_selector_material_dark.xml"
     },
     {
-        "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_com_facebook_button_like_icon_selected.png.flat",
-        "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/ce4e2c46c1c929707d2996ea82d69bbf/jetified-facebook-common-5.8.0/res/drawable-hdpi-v4/com_facebook_button_like_icon_selected.png"
-    },
-    {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/f8ccfb448ba3545203b2c9319e236e39/appcompat-1.1.0/res/drawable-xxhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
     },
@@ -1272,10 +1128,6 @@
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/f8ccfb448ba3545203b2c9319e236e39/appcompat-1.1.0/res/color/abc_background_cache_hint_selector_material_light.xml"
     },
     {
-        "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable_messenger_button_blue_bg_round.xml.flat",
-        "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/e4e877097d3ee433bcca0c680a407e01/facebook-messenger-5.8.0/res/drawable/messenger_button_blue_bg_round.xml"
-    },
-    {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable_abc_cab_background_top_material.xml.flat",
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/f8ccfb448ba3545203b2c9319e236e39/appcompat-1.1.0/res/drawable/abc_cab_background_top_material.xml"
     },
@@ -1298,10 +1150,6 @@
     {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/interpolator_btn_radio_to_off_mtrl_animation_interpolator_0.xml.flat",
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/f8ccfb448ba3545203b2c9319e236e39/appcompat-1.1.0/res/interpolator/btn_radio_to_off_mtrl_animation_interpolator_0.xml"
-    },
-    {
-        "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_com_facebook_tooltip_black_background.9.png.flat",
-        "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/faddd1171bf76179ef07a8bd1a1728fb/jetified-facebook-login-5.8.0/res/drawable-hdpi-v4/com_facebook_tooltip_black_background.9.png"
     },
     {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/color_mtrl_tabs_ripple_color.xml.flat",
@@ -1360,20 +1208,12 @@
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/56b6cdfbd80af409835a31a4470c49f0/core-1.1.0/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
     },
     {
-        "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_facebook_tooltip_blue_xout.png.flat",
-        "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/faddd1171bf76179ef07a8bd1a1728fb/jetified-facebook-login-5.8.0/res/drawable-xhdpi-v4/com_facebook_tooltip_blue_xout.png"
-    },
-    {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/anim_btn_radio_to_on_mtrl_ring_outer_path_animation.xml.flat",
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/f8ccfb448ba3545203b2c9319e236e39/appcompat-1.1.0/res/anim/btn_radio_to_on_mtrl_ring_outer_path_animation.xml"
     },
     {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/f8ccfb448ba3545203b2c9319e236e39/appcompat-1.1.0/res/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
-    },
-    {
-        "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable_com_facebook_button_icon.xml.flat",
-        "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/ce4e2c46c1c929707d2996ea82d69bbf/jetified-facebook-common-5.8.0/res/drawable/com_facebook_button_icon.xml"
     },
     {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
@@ -1390,10 +1230,6 @@
     {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_design_ic_visibility_off.png.flat",
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/3df2fd68af0236fb7b1a24eeed8b503b/material-1.0.0/res/drawable-xxhdpi-v4/design_ic_visibility_off.png"
-    },
-    {
-        "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_com_facebook_button_send_icon_white.png.flat",
-        "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/b6511cdd16a9d98394fc754088ac0dbb/jetified-facebook-share-5.8.0/res/drawable-hdpi-v4/com_facebook_button_send_icon_white.png"
     },
     {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
@@ -1432,10 +1268,6 @@
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/f8ccfb448ba3545203b2c9319e236e39/appcompat-1.1.0/res/layout/abc_cascading_menu_item_layout.xml"
     },
     {
-        "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/layout_activity_feed_page.xml.flat",
-        "source": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/res/layout/activity_feed_page.xml"
-    },
-    {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable_btn_checkbox_unchecked_to_checked_mtrl_animation.xml.flat",
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/f8ccfb448ba3545203b2c9319e236e39/appcompat-1.1.0/res/drawable/btn_checkbox_unchecked_to_checked_mtrl_animation.xml"
     },
@@ -1468,6 +1300,10 @@
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/f8ccfb448ba3545203b2c9319e236e39/appcompat-1.1.0/res/layout/abc_action_menu_item_layout.xml"
     },
     {
+        "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_add_icon.png.flat",
+        "source": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/res/drawable-hdpi/ic_add_icon.png"
+    },
+    {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/f8ccfb448ba3545203b2c9319e236e39/appcompat-1.1.0/res/drawable-xxxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
     },
@@ -1478,10 +1314,6 @@
     {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/layout_fui_phone_layout.xml.flat",
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/eed87e4dcfbcde902e796102c3d722f2/jetified-firebase-ui-auth-4.3.1/res/layout/fui_phone_layout.xml"
-    },
-    {
-        "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_com_facebook_tooltip_blue_topnub.png.flat",
-        "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/faddd1171bf76179ef07a8bd1a1728fb/jetified-facebook-login-5.8.0/res/drawable-mdpi-v4/com_facebook_tooltip_blue_topnub.png"
     },
     {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_longpressed_holo.9.png.flat",
@@ -1516,14 +1348,6 @@
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/f8ccfb448ba3545203b2c9319e236e39/appcompat-1.1.0/res/drawable-xhdpi-v4/abc_text_select_handle_middle_mtrl_light.png"
     },
     {
-        "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_messenger_bubble_large_blue.png.flat",
-        "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/e4e877097d3ee433bcca0c680a407e01/facebook-messenger-5.8.0/res/drawable-xhdpi-v4/messenger_bubble_large_blue.png"
-    },
-    {
-        "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_facebook_tooltip_blue_bottomnub.png.flat",
-        "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/faddd1171bf76179ef07a8bd1a1728fb/jetified-facebook-login-5.8.0/res/drawable-xhdpi-v4/com_facebook_tooltip_blue_bottomnub.png"
-    },
-    {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/f8ccfb448ba3545203b2c9319e236e39/appcompat-1.1.0/res/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_015.png"
     },
@@ -1550,10 +1374,6 @@
     {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/f8ccfb448ba3545203b2c9319e236e39/appcompat-1.1.0/res/drawable-xxhdpi-v4/abc_text_select_handle_left_mtrl_dark.png"
-    },
-    {
-        "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/layout_com_facebook_device_auth_dialog_fragment.xml.flat",
-        "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/ce4e2c46c1c929707d2996ea82d69bbf/jetified-facebook-common-5.8.0/res/layout/com_facebook_device_auth_dialog_fragment.xml"
     },
     {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
@@ -1656,10 +1476,6 @@
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/f8ccfb448ba3545203b2c9319e236e39/appcompat-1.1.0/res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_light.9.png"
     },
     {
-        "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_com_facebook_tooltip_black_topnub.png.flat",
-        "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/faddd1171bf76179ef07a8bd1a1728fb/jetified-facebook-login-5.8.0/res/drawable-hdpi-v4/com_facebook_tooltip_black_topnub.png"
-    },
-    {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/color-v23_abc_color_highlight_material.xml.flat",
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/f8ccfb448ba3545203b2c9319e236e39/appcompat-1.1.0/res/color-v23/abc_color_highlight_material.xml"
     },
@@ -1690,10 +1506,6 @@
     {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/f8ccfb448ba3545203b2c9319e236e39/appcompat-1.1.0/res/drawable-xhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable_com_facebook_auth_dialog_cancel_background.xml.flat",
-        "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/ce4e2c46c1c929707d2996ea82d69bbf/jetified-facebook-common-5.8.0/res/drawable/com_facebook_auth_dialog_cancel_background.xml"
     },
     {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/color_mtrl_tabs_legacy_text_color_selector.xml.flat",
@@ -1728,10 +1540,6 @@
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/f8ccfb448ba3545203b2c9319e236e39/appcompat-1.1.0/res/drawable-xxxhdpi-v4/abc_ic_star_black_16dp.png"
     },
     {
-        "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_com_facebook_button_send_icon_blue.png.flat",
-        "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/b6511cdd16a9d98394fc754088ac0dbb/jetified-facebook-share-5.8.0/res/drawable-mdpi-v4/com_facebook_button_send_icon_blue.png"
-    },
-    {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/f8ccfb448ba3545203b2c9319e236e39/appcompat-1.1.0/res/drawable-xxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
     },
@@ -1742,10 +1550,6 @@
     {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/anim_abc_tooltip_enter.xml.flat",
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/f8ccfb448ba3545203b2c9319e236e39/appcompat-1.1.0/res/anim/abc_tooltip_enter.xml"
-    },
-    {
-        "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_messenger_bubble_large_blue.png.flat",
-        "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/e4e877097d3ee433bcca0c680a407e01/facebook-messenger-5.8.0/res/drawable-hdpi-v4/messenger_bubble_large_blue.png"
     },
     {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable_abc_list_selector_holo_light.xml.flat",
@@ -1760,10 +1564,6 @@
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/eed87e4dcfbcde902e796102c3d722f2/jetified-firebase-ui-auth-4.3.1/res/drawable/fui_ic_anonymous_white_24dp.xml"
     },
     {
-        "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable_messenger_button_white_bg_selector.xml.flat",
-        "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/e4e877097d3ee433bcca0c680a407e01/facebook-messenger-5.8.0/res/drawable/messenger_button_white_bg_selector.xml"
-    },
-    {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/f8ccfb448ba3545203b2c9319e236e39/appcompat-1.1.0/res/drawable-hdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
     },
@@ -1774,10 +1574,6 @@
     {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-ldrtl-hdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/f8ccfb448ba3545203b2c9319e236e39/appcompat-1.1.0/res/drawable-ldrtl-hdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
-    },
-    {
-        "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_com_facebook_tooltip_black_bottomnub.png.flat",
-        "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/faddd1171bf76179ef07a8bd1a1728fb/jetified-facebook-login-5.8.0/res/drawable-hdpi-v4/com_facebook_tooltip_black_bottomnub.png"
     },
     {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/layout_abc_search_view.xml.flat",
@@ -1804,14 +1600,6 @@
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/f8ccfb448ba3545203b2c9319e236e39/appcompat-1.1.0/res/drawable-mdpi-v4/abc_text_select_handle_left_mtrl_dark.png"
     },
     {
-        "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_facebook_tooltip_blue_topnub.png.flat",
-        "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/faddd1171bf76179ef07a8bd1a1728fb/jetified-facebook-login-5.8.0/res/drawable-xhdpi-v4/com_facebook_tooltip_blue_topnub.png"
-    },
-    {
-        "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable_messenger_button_blue_bg_selector.xml.flat",
-        "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/e4e877097d3ee433bcca0c680a407e01/facebook-messenger-5.8.0/res/drawable/messenger_button_blue_bg_selector.xml"
-    },
-    {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/layout_design_navigation_menu.xml.flat",
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/3df2fd68af0236fb7b1a24eeed8b503b/material-1.0.0/res/layout/design_navigation_menu.xml"
     },
@@ -1824,16 +1612,8 @@
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/f8ccfb448ba3545203b2c9319e236e39/appcompat-1.1.0/res/anim/btn_checkbox_to_unchecked_box_inner_merged_animation.xml"
     },
     {
-        "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/layout_messenger_button_send_white_small.xml.flat",
-        "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/e4e877097d3ee433bcca0c680a407e01/facebook-messenger-5.8.0/res/layout/messenger_button_send_white_small.xml"
-    },
-    {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/color_common_google_signin_btn_text_light.xml.flat",
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/c6ed24259e187418524151309c91ad64/play-services-base-17.1.0/res/color/common_google_signin_btn_text_light.xml"
-    },
-    {
-        "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_messenger_bubble_large_white.png.flat",
-        "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/e4e877097d3ee433bcca0c680a407e01/facebook-messenger-5.8.0/res/drawable-mdpi-v4/messenger_bubble_large_white.png"
     },
     {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/layout_abc_list_menu_item_checkbox.xml.flat",
@@ -1864,10 +1644,6 @@
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/f8ccfb448ba3545203b2c9319e236e39/appcompat-1.1.0/res/color-v23/abc_tint_default.xml"
     },
     {
-        "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/layout_messenger_button_send_white_round.xml.flat",
-        "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/e4e877097d3ee433bcca0c680a407e01/facebook-messenger-5.8.0/res/layout/messenger_button_send_white_round.xml"
-    },
-    {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/layout_custom_dialog.xml.flat",
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/56b6cdfbd80af409835a31a4470c49f0/core-1.1.0/res/layout/custom_dialog.xml"
     },
@@ -1878,10 +1654,6 @@
     {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/f8ccfb448ba3545203b2c9319e236e39/appcompat-1.1.0/res/drawable-mdpi-v4/abc_switch_track_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_com_facebook_button_send_icon_white.png.flat",
-        "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/b6511cdd16a9d98394fc754088ac0dbb/jetified-facebook-share-5.8.0/res/drawable-xxhdpi-v4/com_facebook_button_send_icon_white.png"
     },
     {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-v21_fui_idp_button_background_google.xml.flat",
@@ -1952,16 +1724,8 @@
         "source": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
     },
     {
-        "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_messenger_bubble_large_white.png.flat",
-        "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/e4e877097d3ee433bcca0c680a407e01/facebook-messenger-5.8.0/res/drawable-hdpi-v4/messenger_bubble_large_white.png"
-    },
-    {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_pressed_holo_light.9.png.flat",
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/f8ccfb448ba3545203b2c9319e236e39/appcompat-1.1.0/res/drawable-hdpi-v4/abc_list_pressed_holo_light.9.png"
-    },
-    {
-        "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_com_facebook_tooltip_black_topnub.png.flat",
-        "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/faddd1171bf76179ef07a8bd1a1728fb/jetified-facebook-login-5.8.0/res/drawable-mdpi-v4/com_facebook_tooltip_black_topnub.png"
     },
     {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
@@ -2016,10 +1780,6 @@
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/f8ccfb448ba3545203b2c9319e236e39/appcompat-1.1.0/res/drawable-xhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
     },
     {
-        "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_messenger_button_send_round_shadow.png.flat",
-        "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/e4e877097d3ee433bcca0c680a407e01/facebook-messenger-5.8.0/res/drawable-xhdpi-v4/messenger_button_send_round_shadow.png"
-    },
-    {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
         "source": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
     },
@@ -2038,10 +1798,6 @@
     {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_star_half_black_16dp.png.flat",
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/f8ccfb448ba3545203b2c9319e236e39/appcompat-1.1.0/res/drawable-mdpi-v4/abc_ic_star_half_black_16dp.png"
-    },
-    {
-        "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_com_facebook_tooltip_blue_bottomnub.png.flat",
-        "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/faddd1171bf76179ef07a8bd1a1728fb/jetified-facebook-login-5.8.0/res/drawable-mdpi-v4/com_facebook_tooltip_blue_bottomnub.png"
     },
     {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/layout_fui_welcome_back_idp_prompt_layout.xml.flat",
@@ -2076,20 +1832,12 @@
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/2e03c2f92899d54dc944727484d22c64/appcompat-resources-1.1.0/res/drawable/abc_vector_test.xml"
     },
     {
-        "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_com_facebook_button_send_icon_blue.png.flat",
-        "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/b6511cdd16a9d98394fc754088ac0dbb/jetified-facebook-share-5.8.0/res/drawable-hdpi-v4/com_facebook_button_send_icon_blue.png"
-    },
-    {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/color_abc_search_url_text.xml.flat",
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/f8ccfb448ba3545203b2c9319e236e39/appcompat-1.1.0/res/color/abc_search_url_text.xml"
     },
     {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable_abc_btn_default_mtrl_shape.xml.flat",
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/f8ccfb448ba3545203b2c9319e236e39/appcompat-1.1.0/res/drawable/abc_btn_default_mtrl_shape.xml"
-    },
-    {
-        "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_com_facebook_tooltip_blue_xout.png.flat",
-        "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/faddd1171bf76179ef07a8bd1a1728fb/jetified-facebook-login-5.8.0/res/drawable-mdpi-v4/com_facebook_tooltip_blue_xout.png"
     },
     {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/layout_abc_popup_menu_item_layout.xml.flat",
@@ -2128,16 +1876,8 @@
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/f8ccfb448ba3545203b2c9319e236e39/appcompat-1.1.0/res/drawable-hdpi-v4/abc_text_select_handle_middle_mtrl_light.png"
     },
     {
-        "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_messenger_bubble_large_white.png.flat",
-        "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/e4e877097d3ee433bcca0c680a407e01/facebook-messenger-5.8.0/res/drawable-xxhdpi-v4/messenger_bubble_large_white.png"
-    },
-    {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/layout_notification_media_action.xml.flat",
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/f73554407891e5f42b5a27997e9f0ce3/media-1.0.0/res/layout/notification_media_action.xml"
-    },
-    {
-        "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_messenger_bubble_large_blue.png.flat",
-        "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/e4e877097d3ee433bcca0c680a407e01/facebook-messenger-5.8.0/res/drawable-mdpi-v4/messenger_bubble_large_blue.png"
     },
     {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable_abc_item_background_holo_light.xml.flat",
@@ -2178,10 +1918,6 @@
     {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/color_mtrl_btn_stroke_color_selector.xml.flat",
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/3df2fd68af0236fb7b1a24eeed8b503b/material-1.0.0/res/color/mtrl_btn_stroke_color_selector.xml"
-    },
-    {
-        "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_messenger_bubble_small_blue.png.flat",
-        "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/e4e877097d3ee433bcca0c680a407e01/facebook-messenger-5.8.0/res/drawable-xxhdpi-v4/messenger_bubble_small_blue.png"
     },
     {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/color_mtrl_tabs_icon_color_selector_colored.xml.flat",
@@ -2276,10 +2012,6 @@
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/f8ccfb448ba3545203b2c9319e236e39/appcompat-1.1.0/res/drawable-xxxhdpi-v4/abc_text_select_handle_left_mtrl_light.png"
     },
     {
-        "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_facebook_tooltip_black_background.9.png.flat",
-        "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/faddd1171bf76179ef07a8bd1a1728fb/jetified-facebook-login-5.8.0/res/drawable-xhdpi-v4/com_facebook_tooltip_black_background.9.png"
-    },
-    {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/f8ccfb448ba3545203b2c9319e236e39/appcompat-1.1.0/res/drawable-hdpi-v4/abc_text_select_handle_right_mtrl_dark.png"
     },
@@ -2340,8 +2072,8 @@
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/f8ccfb448ba3545203b2c9319e236e39/appcompat-1.1.0/res/layout-v26/abc_screen_toolbar.xml"
     },
     {
-        "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_messenger_button_send_round_shadow.png.flat",
-        "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/e4e877097d3ee433bcca0c680a407e01/facebook-messenger-5.8.0/res/drawable-xxhdpi-v4/messenger_button_send_round_shadow.png"
+        "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/layout_activity_main_menu.xml.flat",
+        "source": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/res/layout/activity_main_menu.xml"
     },
     {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/layout_fui_activity_register_phone.xml.flat",
@@ -2364,14 +2096,6 @@
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/f8ccfb448ba3545203b2c9319e236e39/appcompat-1.1.0/res/drawable/tooltip_frame_light.xml"
     },
     {
-        "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_facebook_button_send_icon_white.png.flat",
-        "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/b6511cdd16a9d98394fc754088ac0dbb/jetified-facebook-share-5.8.0/res/drawable-xhdpi-v4/com_facebook_button_send_icon_white.png"
-    },
-    {
-        "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/layout_messenger_button_send_blue_round.xml.flat",
-        "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/e4e877097d3ee433bcca0c680a407e01/facebook-messenger-5.8.0/res/layout/messenger_button_send_blue_round.xml"
-    },
-    {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable_abc_ic_voice_search_api_material.xml.flat",
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/f8ccfb448ba3545203b2c9319e236e39/appcompat-1.1.0/res/drawable/abc_ic_voice_search_api_material.xml"
     },
@@ -2390,10 +2114,6 @@
     {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
         "source": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
-    },
-    {
-        "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_messenger_bubble_small_blue.png.flat",
-        "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/e4e877097d3ee433bcca0c680a407e01/facebook-messenger-5.8.0/res/drawable-xhdpi-v4/messenger_bubble_small_blue.png"
     },
     {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable_tooltip_frame_dark.xml.flat",
@@ -2424,10 +2144,6 @@
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/f8ccfb448ba3545203b2c9319e236e39/appcompat-1.1.0/res/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_0.xml"
     },
     {
-        "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable_com_facebook_button_like_background.xml.flat",
-        "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/ce4e2c46c1c929707d2996ea82d69bbf/jetified-facebook-common-5.8.0/res/drawable/com_facebook_button_like_background.xml"
-    },
-    {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/f8ccfb448ba3545203b2c9319e236e39/appcompat-1.1.0/res/drawable-hdpi-v4/abc_list_pressed_holo_dark.9.png"
     },
@@ -2456,10 +2172,6 @@
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/f8ccfb448ba3545203b2c9319e236e39/appcompat-1.1.0/res/drawable-xhdpi-v4/abc_text_select_handle_right_mtrl_dark.png"
     },
     {
-        "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_messenger_bubble_small_white.png.flat",
-        "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/e4e877097d3ee433bcca0c680a407e01/facebook-messenger-5.8.0/res/drawable-mdpi-v4/messenger_bubble_small_white.png"
-    },
-    {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable_abc_ic_menu_overflow_material.xml.flat",
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/f8ccfb448ba3545203b2c9319e236e39/appcompat-1.1.0/res/drawable/abc_ic_menu_overflow_material.xml"
     },
@@ -2480,24 +2192,12 @@
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/f8ccfb448ba3545203b2c9319e236e39/appcompat-1.1.0/res/anim/btn_radio_to_off_mtrl_dot_group_animation.xml"
     },
     {
-        "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/layout_com_facebook_login_fragment.xml.flat",
-        "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/ce4e2c46c1c929707d2996ea82d69bbf/jetified-facebook-common-5.8.0/res/layout/com_facebook_login_fragment.xml"
-    },
-    {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/anim_abc_popup_exit.xml.flat",
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/f8ccfb448ba3545203b2c9319e236e39/appcompat-1.1.0/res/anim/abc_popup_exit.xml"
     },
     {
-        "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_facebook_tooltip_black_bottomnub.png.flat",
-        "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/faddd1171bf76179ef07a8bd1a1728fb/jetified-facebook-login-5.8.0/res/drawable-xhdpi-v4/com_facebook_tooltip_black_bottomnub.png"
-    },
-    {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/f8ccfb448ba3545203b2c9319e236e39/appcompat-1.1.0/res/drawable-xhdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_messenger_bubble_large_white.png.flat",
-        "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/e4e877097d3ee433bcca0c680a407e01/facebook-messenger-5.8.0/res/drawable-xhdpi-v4/messenger_bubble_large_white.png"
     },
     {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/color-v23_design_tint_password_toggle.xml.flat",
@@ -2514,10 +2214,6 @@
     {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/animator_mtrl_btn_state_list_anim.xml.flat",
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/3df2fd68af0236fb7b1a24eeed8b503b/material-1.0.0/res/animator/mtrl_btn_state_list_anim.xml"
-    },
-    {
-        "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_facebook_close.png.flat",
-        "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/ce4e2c46c1c929707d2996ea82d69bbf/jetified-facebook-common-5.8.0/res/drawable-xhdpi-v4/com_facebook_close.png"
     },
     {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
@@ -2556,10 +2252,6 @@
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/f8ccfb448ba3545203b2c9319e236e39/appcompat-1.1.0/res/drawable-xhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
-        "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/layout_messenger_button_send_blue_large.xml.flat",
-        "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/e4e877097d3ee433bcca0c680a407e01/facebook-messenger-5.8.0/res/layout/messenger_button_send_blue_large.xml"
-    },
-    {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/color_mtrl_chip_background_color.xml.flat",
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/3df2fd68af0236fb7b1a24eeed8b503b/material-1.0.0/res/color/mtrl_chip_background_color.xml"
     },
@@ -2574,10 +2266,6 @@
     {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/animator_design_fab_hide_motion_spec.xml.flat",
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/3df2fd68af0236fb7b1a24eeed8b503b/material-1.0.0/res/animator/design_fab_hide_motion_spec.xml"
-    },
-    {
-        "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable_com_facebook_auth_dialog_background.xml.flat",
-        "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/ce4e2c46c1c929707d2996ea82d69bbf/jetified-facebook-common-5.8.0/res/drawable/com_facebook_auth_dialog_background.xml"
     },
     {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
@@ -2606,10 +2294,6 @@
     {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/layout_design_layout_tab_icon.xml.flat",
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/3df2fd68af0236fb7b1a24eeed8b503b/material-1.0.0/res/layout/design_layout_tab_icon.xml"
-    },
-    {
-        "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/layout_messenger_button_send_blue_small.xml.flat",
-        "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/e4e877097d3ee433bcca0c680a407e01/facebook-messenger-5.8.0/res/layout/messenger_button_send_blue_small.xml"
     },
     {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/layout_user_profile.xml.flat",
@@ -2660,12 +2344,12 @@
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/f8ccfb448ba3545203b2c9319e236e39/appcompat-1.1.0/res/drawable-mdpi-v4/abc_text_select_handle_right_mtrl_dark.png"
     },
     {
-        "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/interpolator_btn_checkbox_unchecked_mtrl_animation_interpolator_1.xml.flat",
-        "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/f8ccfb448ba3545203b2c9319e236e39/appcompat-1.1.0/res/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_1.xml"
-    },
-    {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/f8ccfb448ba3545203b2c9319e236e39/appcompat-1.1.0/res/drawable-xxhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/interpolator_btn_checkbox_unchecked_mtrl_animation_interpolator_1.xml.flat",
+        "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/f8ccfb448ba3545203b2c9319e236e39/appcompat-1.1.0/res/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_1.xml"
     },
     {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable_abc_list_selector_background_transition_holo_dark.xml.flat",
@@ -2686,10 +2370,6 @@
     {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable_fui_ic_mail_white_24dp.xml.flat",
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/eed87e4dcfbcde902e796102c3d722f2/jetified-firebase-ui-auth-4.3.1/res/drawable/fui_ic_mail_white_24dp.xml"
-    },
-    {
-        "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable_com_facebook_favicon_blue.xml.flat",
-        "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/ce4e2c46c1c929707d2996ea82d69bbf/jetified-facebook-common-5.8.0/res/drawable/com_facebook_favicon_blue.xml"
     },
     {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-v21_fui_idp_button_background_phone.xml.flat",

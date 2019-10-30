@@ -6,28 +6,25 @@ INJECTED from /Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidM
 INJECTED from /Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml:2:1-29:12
 MERGED from [com.firebaseui:firebase-ui-auth:4.3.1] /Users/duy/.gradle/caches/transforms-2/files-2.1/eed87e4dcfbcde902e796102c3d722f2/jetified-firebase-ui-auth-4.3.1/AndroidManifest.xml:2:1-109:12
 MERGED from [com.google.android.material:material:1.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/3df2fd68af0236fb7b1a24eeed8b503b/material-1.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [com.facebook.android:facebook-android-sdk:5.8.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/7f4d18c50b1a875d7c6dee28f9e6d56e/facebook-android-sdk-5.8.0/AndroidManifest.xml:21:1-31:12
-MERGED from [com.facebook.android:facebook-login:5.8.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/faddd1171bf76179ef07a8bd1a1728fb/jetified-facebook-login-5.8.0/AndroidManifest.xml:21:1-31:12
-MERGED from [com.facebook.android:facebook-share:5.8.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/b6511cdd16a9d98394fc754088ac0dbb/jetified-facebook-share-5.8.0/AndroidManifest.xml:21:1-31:12
-MERGED from [com.facebook.android:facebook-common:5.8.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/ce4e2c46c1c929707d2996ea82d69bbf/jetified-facebook-common-5.8.0/AndroidManifest.xml:21:1-37:12
 MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.2] /Users/duy/.gradle/caches/transforms-2/files-2.1/221e0576717f31d6d37ef67b3ad29665/jetified-library-1.4.2/AndroidManifest.xml:6:1-16:12
 MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/f8ccfb448ba3545203b2c9319e236e39/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/duy/.gradle/caches/transforms-2/files-2.1/c77d2d7d2a36a76ceff3be3a10064bf2/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/5ed713a0ff70c0fa26615302da95891f/play-services-auth-17.0.0/AndroidManifest.xml:17:1-39:12
 MERGED from [com.google.firebase:firebase-analytics:17.2.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/5360419d4f2c78ee0a1ab88a2bb93fad/firebase-analytics-17.2.0/AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.firebase:firebase-auth:19.1.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/4bf5ad23fb8b48603baac97e97e245fe/firebase-auth-19.1.0/AndroidManifest.xml:17:1-42:12
-MERGED from [com.google.android.gms:play-services-auth:17.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/5ed713a0ff70c0fa26615302da95891f/play-services-auth-17.0.0/AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.firebase:firebase-database:19.2.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/463da60977420e86b3b59aa784a805a0/firebase-database-19.2.0/AndroidManifest.xml:15:1-38:12
 MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/1f593e23298a131a31b804b9a06f00d2/jetified-glide-4.9.0/AndroidManifest.xml:2:1-12:12
-MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/c6759f075f7dacd9a34f2c4cacd81c5f/firebase-auth-interop-18.0.0/AndroidManifest.xml:2:1-10:12
 MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/4602c29df7b006232f5efb35d6255c8d/play-services-auth-api-phone-17.0.0/AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/79d66041664fe3ddb1cbd7dd8942cb08/play-services-auth-base-17.0.0/AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/28c1ceda9eb72d23d1907429a7dd5035/play-services-measurement-api-17.2.0/AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/c6759f075f7dacd9a34f2c4cacd81c5f/firebase-auth-interop-18.0.0/AndroidManifest.xml:2:1-10:12
 MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/6cfe46f408152b0cf1be5d6c31bb25ab/firebase-iid-19.0.0/AndroidManifest.xml:17:1-47:12
 MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/520fa26dea95f0288ec40036950ce805/firebase-iid-interop-17.0.0/AndroidManifest.xml:2:1-10:12
 MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/c6ed24259e187418524151309c91ad64/play-services-base-17.1.0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:19.2.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/61c47ccf880e44b6c829a8c9a48ba20d/firebase-common-19.2.0/AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/6845c69e263908bca8ab45d7c39a1b20/play-services-tasks-17.0.0/AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/7c4237e0029812955685234cfce19139/play-services-measurement-17.2.0/AndroidManifest.xml:17:1-55:12
 MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/9326e9e8a0637b55d704c27a024dac58/play-services-measurement-sdk-17.2.0/AndroidManifest.xml:17:1-25:12
-MERGED from [com.google.firebase:firebase-common:19.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/e306355be855e8d08fa629ba35e00000/firebase-common-19.0.0/AndroidManifest.xml:2:1-19:12
-MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/6845c69e263908bca8ab45d7c39a1b20/play-services-tasks-17.0.0/AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/7b6b88ecf3a259024a45d2a41b617e9c/play-services-measurement-impl-17.2.0/AndroidManifest.xml:17:1-40:12
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/7f05f94b4641f7f51c8a5c4e3ed4099f/play-services-measurement-sdk-api-17.2.0/AndroidManifest.xml:17:1-27:12
 MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/56bf2de506167a1d817f8e5bf8125ea4/play-services-measurement-base-17.2.0/AndroidManifest.xml:2:1-9:12
@@ -43,10 +40,6 @@ MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/duy/.gradle/caches
 MERGED from [androidx.browser:browser:1.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/c2d3966f4637a5ae78c8a6ab897a8b79/browser-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/77f38ede50d86bb3bde02e7424569968/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/2215b7515dd4dbb7a4b19b0c72864742/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [com.facebook.android:facebook-places:5.8.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/364cd3ae76e4704c70dc36d5f3bde1bf/facebook-places-5.8.0/AndroidManifest.xml:21:1-31:12
-MERGED from [com.facebook.android:facebook-applinks:5.8.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/59c88afdff5e36a87abdef50696f9590/facebook-applinks-5.8.0/AndroidManifest.xml:21:1-31:12
-MERGED from [com.facebook.android:facebook-messenger:5.8.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/e4e877097d3ee433bcca0c680a407e01/facebook-messenger-5.8.0/AndroidManifest.xml:21:1-31:12
-MERGED from [com.facebook.android:facebook-core:5.8.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/3e078f5040f05b1721c775cbdc529e71/jetified-facebook-core-5.8.0/AndroidManifest.xml:21:1-61:12
 MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/a2812e63738b1c43d88b94e2e3e83098/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.transition:transition:1.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/c6b5b70b38f5af6285523b36939a61d7/transition-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.loader:loader:1.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/8b9f96df1a219288d5310a3f5ee0b475/loader-1.0.0/AndroidManifest.xml:17:1-22:12
@@ -77,6 +70,7 @@ MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /Users/duy/.gradle/cach
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/a1ff7fca937c69d0a5a696d95188aa63/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/2cbf8d7cb802848068f0a2d09c242a96/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/be0257405f31b1e356e15dc58d0cb3de/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-database-collection:17.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/a1c42ee6a43c1fec1cd0f12b759d080b/firebase-database-collection-17.0.0/AndroidManifest.xml:2:1-7:12
 INJECTED from /Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml:2:1-29:12
 INJECTED from /Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml:2:1-29:12
 INJECTED from /Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml:2:1-29:12
@@ -98,6 +92,8 @@ uses-permission#android.permission.INTERNET
 ADDED from /Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml:5:5-67
 MERGED from [com.firebaseui:firebase-ui-auth:4.3.1] /Users/duy/.gradle/caches/transforms-2/files-2.1/eed87e4dcfbcde902e796102c3d722f2/jetified-firebase-ui-auth-4.3.1/AndroidManifest.xml:13:5-67
 MERGED from [com.firebaseui:firebase-ui-auth:4.3.1] /Users/duy/.gradle/caches/transforms-2/files-2.1/eed87e4dcfbcde902e796102c3d722f2/jetified-firebase-ui-auth-4.3.1/AndroidManifest.xml:13:5-67
+MERGED from [com.google.firebase:firebase-database:19.2.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/463da60977420e86b3b59aa784a805a0/firebase-database-19.2.0/AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-database:19.2.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/463da60977420e86b3b59aa784a805a0/firebase-database-19.2.0/AndroidManifest.xml:26:5-67
 MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/28c1ceda9eb72d23d1907429a7dd5035/play-services-measurement-api-17.2.0/AndroidManifest.xml:22:5-67
 MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/28c1ceda9eb72d23d1907429a7dd5035/play-services-measurement-api-17.2.0/AndroidManifest.xml:22:5-67
 MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/6cfe46f408152b0cf1be5d6c31bb25ab/firebase-iid-19.0.0/AndroidManifest.xml:23:5-67
@@ -111,47 +107,41 @@ MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] /U
 	android:name
 		ADDED from /Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml:5:22-64
 application
-ADDED from /Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml:8:5-27:19
+ADDED from /Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml:7:5-27:19
 MERGED from [com.firebaseui:firebase-ui-auth:4.3.1] /Users/duy/.gradle/caches/transforms-2/files-2.1/eed87e4dcfbcde902e796102c3d722f2/jetified-firebase-ui-auth-4.3.1/AndroidManifest.xml:15:5-107:19
 MERGED from [com.firebaseui:firebase-ui-auth:4.3.1] /Users/duy/.gradle/caches/transforms-2/files-2.1/eed87e4dcfbcde902e796102c3d722f2/jetified-firebase-ui-auth-4.3.1/AndroidManifest.xml:15:5-107:19
 MERGED from [com.google.android.material:material:1.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/3df2fd68af0236fb7b1a24eeed8b503b/material-1.0.0/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/3df2fd68af0236fb7b1a24eeed8b503b/material-1.0.0/AndroidManifest.xml:22:5-20
-MERGED from [com.facebook.android:facebook-android-sdk:5.8.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/7f4d18c50b1a875d7c6dee28f9e6d56e/facebook-android-sdk-5.8.0/AndroidManifest.xml:28:5-29:19
-MERGED from [com.facebook.android:facebook-android-sdk:5.8.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/7f4d18c50b1a875d7c6dee28f9e6d56e/facebook-android-sdk-5.8.0/AndroidManifest.xml:28:5-29:19
-MERGED from [com.facebook.android:facebook-login:5.8.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/faddd1171bf76179ef07a8bd1a1728fb/jetified-facebook-login-5.8.0/AndroidManifest.xml:28:5-29:19
-MERGED from [com.facebook.android:facebook-login:5.8.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/faddd1171bf76179ef07a8bd1a1728fb/jetified-facebook-login-5.8.0/AndroidManifest.xml:28:5-29:19
-MERGED from [com.facebook.android:facebook-share:5.8.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/b6511cdd16a9d98394fc754088ac0dbb/jetified-facebook-share-5.8.0/AndroidManifest.xml:28:5-29:19
-MERGED from [com.facebook.android:facebook-share:5.8.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/b6511cdd16a9d98394fc754088ac0dbb/jetified-facebook-share-5.8.0/AndroidManifest.xml:28:5-29:19
-MERGED from [com.facebook.android:facebook-common:5.8.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/ce4e2c46c1c929707d2996ea82d69bbf/jetified-facebook-common-5.8.0/AndroidManifest.xml:28:5-35:19
-MERGED from [com.facebook.android:facebook-common:5.8.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/ce4e2c46c1c929707d2996ea82d69bbf/jetified-facebook-common-5.8.0/AndroidManifest.xml:28:5-35:19
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/duy/.gradle/caches/transforms-2/files-2.1/c77d2d7d2a36a76ceff3be3a10064bf2/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/duy/.gradle/caches/transforms-2/files-2.1/c77d2d7d2a36a76ceff3be3a10064bf2/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/5ed713a0ff70c0fa26615302da95891f/play-services-auth-17.0.0/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/5ed713a0ff70c0fa26615302da95891f/play-services-auth-17.0.0/AndroidManifest.xml:22:5-37:19
 MERGED from [com.google.firebase:firebase-analytics:17.2.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/5360419d4f2c78ee0a1ab88a2bb93fad/firebase-analytics-17.2.0/AndroidManifest.xml:7:5-20
 MERGED from [com.google.firebase:firebase-analytics:17.2.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/5360419d4f2c78ee0a1ab88a2bb93fad/firebase-analytics-17.2.0/AndroidManifest.xml:7:5-20
 MERGED from [com.google.firebase:firebase-auth:19.1.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/4bf5ad23fb8b48603baac97e97e245fe/firebase-auth-19.1.0/AndroidManifest.xml:23:5-40:19
 MERGED from [com.google.firebase:firebase-auth:19.1.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/4bf5ad23fb8b48603baac97e97e245fe/firebase-auth-19.1.0/AndroidManifest.xml:23:5-40:19
-MERGED from [com.google.android.gms:play-services-auth:17.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/5ed713a0ff70c0fa26615302da95891f/play-services-auth-17.0.0/AndroidManifest.xml:22:5-37:19
-MERGED from [com.google.android.gms:play-services-auth:17.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/5ed713a0ff70c0fa26615302da95891f/play-services-auth-17.0.0/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.firebase:firebase-database:19.2.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/463da60977420e86b3b59aa784a805a0/firebase-database-19.2.0/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-database:19.2.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/463da60977420e86b3b59aa784a805a0/firebase-database-19.2.0/AndroidManifest.xml:28:5-36:19
 MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/1f593e23298a131a31b804b9a06f00d2/jetified-glide-4.9.0/AndroidManifest.xml:10:5-20
 MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/1f593e23298a131a31b804b9a06f00d2/jetified-glide-4.9.0/AndroidManifest.xml:10:5-20
-MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/c6759f075f7dacd9a34f2c4cacd81c5f/firebase-auth-interop-18.0.0/AndroidManifest.xml:7:5-8:19
-MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/c6759f075f7dacd9a34f2c4cacd81c5f/firebase-auth-interop-18.0.0/AndroidManifest.xml:7:5-8:19
 MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/28c1ceda9eb72d23d1907429a7dd5035/play-services-measurement-api-17.2.0/AndroidManifest.xml:26:5-34:19
 MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/28c1ceda9eb72d23d1907429a7dd5035/play-services-measurement-api-17.2.0/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/c6759f075f7dacd9a34f2c4cacd81c5f/firebase-auth-interop-18.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/c6759f075f7dacd9a34f2c4cacd81c5f/firebase-auth-interop-18.0.0/AndroidManifest.xml:7:5-8:19
 MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/6cfe46f408152b0cf1be5d6c31bb25ab/firebase-iid-19.0.0/AndroidManifest.xml:28:5-45:19
 MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/6cfe46f408152b0cf1be5d6c31bb25ab/firebase-iid-19.0.0/AndroidManifest.xml:28:5-45:19
 MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/520fa26dea95f0288ec40036950ce805/firebase-iid-interop-17.0.0/AndroidManifest.xml:7:5-8:19
 MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/520fa26dea95f0288ec40036950ce805/firebase-iid-interop-17.0.0/AndroidManifest.xml:7:5-8:19
 MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/c6ed24259e187418524151309c91ad64/play-services-base-17.1.0/AndroidManifest.xml:22:5-27:19
 MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/c6ed24259e187418524151309c91ad64/play-services-base-17.1.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:19.2.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/61c47ccf880e44b6c829a8c9a48ba20d/firebase-common-19.2.0/AndroidManifest.xml:12:5-24:19
+MERGED from [com.google.firebase:firebase-common:19.2.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/61c47ccf880e44b6c829a8c9a48ba20d/firebase-common-19.2.0/AndroidManifest.xml:12:5-24:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/6845c69e263908bca8ab45d7c39a1b20/play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/6845c69e263908bca8ab45d7c39a1b20/play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/7c4237e0029812955685234cfce19139/play-services-measurement-17.2.0/AndroidManifest.xml:28:5-53:19
 MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/7c4237e0029812955685234cfce19139/play-services-measurement-17.2.0/AndroidManifest.xml:28:5-53:19
 MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/9326e9e8a0637b55d704c27a024dac58/play-services-measurement-sdk-17.2.0/AndroidManifest.xml:22:5-23:19
 MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/9326e9e8a0637b55d704c27a024dac58/play-services-measurement-sdk-17.2.0/AndroidManifest.xml:22:5-23:19
-MERGED from [com.google.firebase:firebase-common:19.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/e306355be855e8d08fa629ba35e00000/firebase-common-19.0.0/AndroidManifest.xml:11:5-17:19
-MERGED from [com.google.firebase:firebase-common:19.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/e306355be855e8d08fa629ba35e00000/firebase-common-19.0.0/AndroidManifest.xml:11:5-17:19
-MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/6845c69e263908bca8ab45d7c39a1b20/play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/6845c69e263908bca8ab45d7c39a1b20/play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/7b6b88ecf3a259024a45d2a41b617e9c/play-services-measurement-impl-17.2.0/AndroidManifest.xml:28:5-38:19
 MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/7b6b88ecf3a259024a45d2a41b617e9c/play-services-measurement-impl-17.2.0/AndroidManifest.xml:28:5-38:19
 MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/56bf2de506167a1d817f8e5bf8125ea4/play-services-measurement-base-17.2.0/AndroidManifest.xml:7:5-20
@@ -166,14 +156,6 @@ MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/duy/.g
 MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/0ed78d9ab94c4cc566ede8d514bf0803/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
 MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/34a0f958f1a5c529752420354af1e004/lifecycle-extensions-2.0.0/AndroidManifest.xml:22:5-23:19
 MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/34a0f958f1a5c529752420354af1e004/lifecycle-extensions-2.0.0/AndroidManifest.xml:22:5-23:19
-MERGED from [com.facebook.android:facebook-places:5.8.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/364cd3ae76e4704c70dc36d5f3bde1bf/facebook-places-5.8.0/AndroidManifest.xml:28:5-29:19
-MERGED from [com.facebook.android:facebook-places:5.8.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/364cd3ae76e4704c70dc36d5f3bde1bf/facebook-places-5.8.0/AndroidManifest.xml:28:5-29:19
-MERGED from [com.facebook.android:facebook-applinks:5.8.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/59c88afdff5e36a87abdef50696f9590/facebook-applinks-5.8.0/AndroidManifest.xml:28:5-29:19
-MERGED from [com.facebook.android:facebook-applinks:5.8.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/59c88afdff5e36a87abdef50696f9590/facebook-applinks-5.8.0/AndroidManifest.xml:28:5-29:19
-MERGED from [com.facebook.android:facebook-messenger:5.8.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/e4e877097d3ee433bcca0c680a407e01/facebook-messenger-5.8.0/AndroidManifest.xml:28:5-29:19
-MERGED from [com.facebook.android:facebook-messenger:5.8.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/e4e877097d3ee433bcca0c680a407e01/facebook-messenger-5.8.0/AndroidManifest.xml:28:5-29:19
-MERGED from [com.facebook.android:facebook-core:5.8.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/3e078f5040f05b1721c775cbdc529e71/jetified-facebook-core-5.8.0/AndroidManifest.xml:28:5-59:19
-MERGED from [com.facebook.android:facebook-core:5.8.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/3e078f5040f05b1721c775cbdc529e71/jetified-facebook-core-5.8.0/AndroidManifest.xml:28:5-59:19
 MERGED from [androidx.core:core:1.1.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/56b6cdfbd80af409835a31a4470c49f0/core-1.1.0/AndroidManifest.xml:24:5-89
 MERGED from [androidx.core:core:1.1.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/56b6cdfbd80af409835a31a4470c49f0/core-1.1.0/AndroidManifest.xml:24:5-89
 MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/10c9e3ede6b1323c7e0f09ab944992bc/jetified-gifdecoder-4.9.0/AndroidManifest.xml:9:5-20
@@ -185,21 +167,25 @@ MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/duy/.gradle/cach
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.1.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/56b6cdfbd80af409835a31a4470c49f0/core-1.1.0/AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from /Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml:13:9-35
+		ADDED from /Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml:12:9-35
 	android:label
-		ADDED from /Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml:11:9-41
+		ADDED from /Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml:10:9-41
 	android:roundIcon
-		ADDED from /Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml:12:9-54
+		ADDED from /Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml:11:9-54
 	android:icon
-		ADDED from /Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml:10:9-43
+		ADDED from /Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml:9:9-43
 	android:allowBackup
-		ADDED from /Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml:9:9-35
+		ADDED from /Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml:8:9-35
 	android:theme
-		ADDED from /Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml:14:9-40
-activity#com.example.socialslugapp.FeedPage
-ADDED from /Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml:15:9-55
+		ADDED from /Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml:13:9-40
+activity#com.example.socialslugapp.MainMenu
+ADDED from /Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml:14:9-55
 	android:name
-		ADDED from /Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml:15:19-43
+		ADDED from /Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml:14:19-43
+activity#com.example.socialslugapp.AddPost
+ADDED from /Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml:15:9-45
+	android:name
+		ADDED from /Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml:15:19-42
 activity#com.example.socialslugapp.UserProfile
 ADDED from /Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml:16:9-49
 	android:name
@@ -230,50 +216,44 @@ MERGED from [com.firebaseui:firebase-ui-auth:4.3.1] /Users/duy/.gradle/caches/tr
 MERGED from [com.firebaseui:firebase-ui-auth:4.3.1] /Users/duy/.gradle/caches/transforms-2/files-2.1/eed87e4dcfbcde902e796102c3d722f2/jetified-firebase-ui-auth-4.3.1/AndroidManifest.xml:8:5-10:41
 MERGED from [com.google.android.material:material:1.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/3df2fd68af0236fb7b1a24eeed8b503b/material-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.material:material:1.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/3df2fd68af0236fb7b1a24eeed8b503b/material-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.facebook.android:facebook-android-sdk:5.8.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/7f4d18c50b1a875d7c6dee28f9e6d56e/facebook-android-sdk-5.8.0/AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-android-sdk:5.8.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/7f4d18c50b1a875d7c6dee28f9e6d56e/facebook-android-sdk-5.8.0/AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-login:5.8.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/faddd1171bf76179ef07a8bd1a1728fb/jetified-facebook-login-5.8.0/AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-login:5.8.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/faddd1171bf76179ef07a8bd1a1728fb/jetified-facebook-login-5.8.0/AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-share:5.8.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/b6511cdd16a9d98394fc754088ac0dbb/jetified-facebook-share-5.8.0/AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-share:5.8.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/b6511cdd16a9d98394fc754088ac0dbb/jetified-facebook-share-5.8.0/AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-common:5.8.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/ce4e2c46c1c929707d2996ea82d69bbf/jetified-facebook-common-5.8.0/AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-common:5.8.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/ce4e2c46c1c929707d2996ea82d69bbf/jetified-facebook-common-5.8.0/AndroidManifest.xml:24:5-26:41
 MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.2] /Users/duy/.gradle/caches/transforms-2/files-2.1/221e0576717f31d6d37ef67b3ad29665/jetified-library-1.4.2/AndroidManifest.xml:12:5-14:41
 MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.2] /Users/duy/.gradle/caches/transforms-2/files-2.1/221e0576717f31d6d37ef67b3ad29665/jetified-library-1.4.2/AndroidManifest.xml:12:5-14:41
 MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/f8ccfb448ba3545203b2c9319e236e39/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/f8ccfb448ba3545203b2c9319e236e39/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/duy/.gradle/caches/transforms-2/files-2.1/c77d2d7d2a36a76ceff3be3a10064bf2/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/duy/.gradle/caches/transforms-2/files-2.1/c77d2d7d2a36a76ceff3be3a10064bf2/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/5ed713a0ff70c0fa26615302da95891f/play-services-auth-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/5ed713a0ff70c0fa26615302da95891f/play-services-auth-17.0.0/AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-analytics:17.2.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/5360419d4f2c78ee0a1ab88a2bb93fad/firebase-analytics-17.2.0/AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-analytics:17.2.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/5360419d4f2c78ee0a1ab88a2bb93fad/firebase-analytics-17.2.0/AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-auth:19.1.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/4bf5ad23fb8b48603baac97e97e245fe/firebase-auth-19.1.0/AndroidManifest.xml:21:5-44
 MERGED from [com.google.firebase:firebase-auth:19.1.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/4bf5ad23fb8b48603baac97e97e245fe/firebase-auth-19.1.0/AndroidManifest.xml:21:5-44
-MERGED from [com.google.android.gms:play-services-auth:17.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/5ed713a0ff70c0fa26615302da95891f/play-services-auth-17.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-auth:17.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/5ed713a0ff70c0fa26615302da95891f/play-services-auth-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database:19.2.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/463da60977420e86b3b59aa784a805a0/firebase-database-19.2.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-database:19.2.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/463da60977420e86b3b59aa784a805a0/firebase-database-19.2.0/AndroidManifest.xml:19:5-21:41
 MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/1f593e23298a131a31b804b9a06f00d2/jetified-glide-4.9.0/AndroidManifest.xml:6:5-8:41
 MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/1f593e23298a131a31b804b9a06f00d2/jetified-glide-4.9.0/AndroidManifest.xml:6:5-8:41
-MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/c6759f075f7dacd9a34f2c4cacd81c5f/firebase-auth-interop-18.0.0/AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/c6759f075f7dacd9a34f2c4cacd81c5f/firebase-auth-interop-18.0.0/AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/4602c29df7b006232f5efb35d6255c8d/play-services-auth-api-phone-17.0.0/AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/4602c29df7b006232f5efb35d6255c8d/play-services-auth-api-phone-17.0.0/AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/79d66041664fe3ddb1cbd7dd8942cb08/play-services-auth-base-17.0.0/AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/79d66041664fe3ddb1cbd7dd8942cb08/play-services-auth-base-17.0.0/AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/28c1ceda9eb72d23d1907429a7dd5035/play-services-measurement-api-17.2.0/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/28c1ceda9eb72d23d1907429a7dd5035/play-services-measurement-api-17.2.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/c6759f075f7dacd9a34f2c4cacd81c5f/firebase-auth-interop-18.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/c6759f075f7dacd9a34f2c4cacd81c5f/firebase-auth-interop-18.0.0/AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/6cfe46f408152b0cf1be5d6c31bb25ab/firebase-iid-19.0.0/AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/6cfe46f408152b0cf1be5d6c31bb25ab/firebase-iid-19.0.0/AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/520fa26dea95f0288ec40036950ce805/firebase-iid-interop-17.0.0/AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/520fa26dea95f0288ec40036950ce805/firebase-iid-interop-17.0.0/AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/c6ed24259e187418524151309c91ad64/play-services-base-17.1.0/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/c6ed24259e187418524151309c91ad64/play-services-base-17.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:19.2.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/61c47ccf880e44b6c829a8c9a48ba20d/firebase-common-19.2.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-common:19.2.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/61c47ccf880e44b6c829a8c9a48ba20d/firebase-common-19.2.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/6845c69e263908bca8ab45d7c39a1b20/play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/6845c69e263908bca8ab45d7c39a1b20/play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/7c4237e0029812955685234cfce19139/play-services-measurement-17.2.0/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/7c4237e0029812955685234cfce19139/play-services-measurement-17.2.0/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/9326e9e8a0637b55d704c27a024dac58/play-services-measurement-sdk-17.2.0/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/9326e9e8a0637b55d704c27a024dac58/play-services-measurement-sdk-17.2.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-common:19.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/e306355be855e8d08fa629ba35e00000/firebase-common-19.0.0/AndroidManifest.xml:6:5-8:41
-MERGED from [com.google.firebase:firebase-common:19.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/e306355be855e8d08fa629ba35e00000/firebase-common-19.0.0/AndroidManifest.xml:6:5-8:41
-MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/6845c69e263908bca8ab45d7c39a1b20/play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/6845c69e263908bca8ab45d7c39a1b20/play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/7b6b88ecf3a259024a45d2a41b617e9c/play-services-measurement-impl-17.2.0/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/7b6b88ecf3a259024a45d2a41b617e9c/play-services-measurement-impl-17.2.0/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/7f05f94b4641f7f51c8a5c4e3ed4099f/play-services-measurement-sdk-api-17.2.0/AndroidManifest.xml:20:5-44
@@ -304,14 +284,6 @@ MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/duy/.gradle/ca
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/77f38ede50d86bb3bde02e7424569968/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/2215b7515dd4dbb7a4b19b0c72864742/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/2215b7515dd4dbb7a4b19b0c72864742/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.facebook.android:facebook-places:5.8.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/364cd3ae76e4704c70dc36d5f3bde1bf/facebook-places-5.8.0/AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-places:5.8.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/364cd3ae76e4704c70dc36d5f3bde1bf/facebook-places-5.8.0/AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-applinks:5.8.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/59c88afdff5e36a87abdef50696f9590/facebook-applinks-5.8.0/AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-applinks:5.8.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/59c88afdff5e36a87abdef50696f9590/facebook-applinks-5.8.0/AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-messenger:5.8.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/e4e877097d3ee433bcca0c680a407e01/facebook-messenger-5.8.0/AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-messenger:5.8.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/e4e877097d3ee433bcca0c680a407e01/facebook-messenger-5.8.0/AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-core:5.8.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/3e078f5040f05b1721c775cbdc529e71/jetified-facebook-core-5.8.0/AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-core:5.8.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/3e078f5040f05b1721c775cbdc529e71/jetified-facebook-core-5.8.0/AndroidManifest.xml:24:5-26:41
 MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/a2812e63738b1c43d88b94e2e3e83098/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/a2812e63738b1c43d88b94e2e3e83098/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.transition:transition:1.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/c6b5b70b38f5af6285523b36939a61d7/transition-1.0.0/AndroidManifest.xml:20:5-44
@@ -372,6 +344,8 @@ MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/duy/.gradle/ca
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/2cbf8d7cb802848068f0a2d09c242a96/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/be0257405f31b1e356e15dc58d0cb3de/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/be0257405f31b1e356e15dc58d0cb3de/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-database-collection:17.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/a1c42ee6a43c1fec1cd0f12b759d080b/firebase-database-collection-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:17.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/a1c42ee6a43c1fec1cd0f12b759d080b/firebase-database-collection-17.0.0/AndroidManifest.xml:5:5-44
 INJECTED from /Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml
 INJECTED from /Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
@@ -384,6 +358,8 @@ INJECTED from /Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidM
 		INJECTED from /Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] /Users/duy/.gradle/caches/transforms-2/files-2.1/eed87e4dcfbcde902e796102c3d722f2/jetified-firebase-ui-auth-4.3.1/AndroidManifest.xml:12:5-79
+MERGED from [com.google.firebase:firebase-database:19.2.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/463da60977420e86b3b59aa784a805a0/firebase-database-19.2.0/AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-database:19.2.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/463da60977420e86b3b59aa784a805a0/firebase-database-19.2.0/AndroidManifest.xml:25:5-79
 MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/28c1ceda9eb72d23d1907429a7dd5035/play-services-measurement-api-17.2.0/AndroidManifest.xml:23:5-79
 MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/28c1ceda9eb72d23d1907429a7dd5035/play-services-measurement-api-17.2.0/AndroidManifest.xml:23:5-79
 MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/6cfe46f408152b0cf1be5d6c31bb25ab/firebase-iid-19.0.0/AndroidManifest.xml:22:5-79
@@ -532,22 +508,16 @@ ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] /Users/duy/.gradle/caches/tra
 		ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] /Users/duy/.gradle/caches/transforms-2/files-2.1/eed87e4dcfbcde902e796102c3d722f2/jetified-firebase-ui-auth-4.3.1/AndroidManifest.xml:80:13-80
 activity#com.facebook.FacebookActivity
 ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] /Users/duy/.gradle/caches/transforms-2/files-2.1/eed87e4dcfbcde902e796102c3d722f2/jetified-firebase-ui-auth-4.3.1/AndroidManifest.xml:83:9-87:48
-MERGED from [com.facebook.android:facebook-common:5.8.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/ce4e2c46c1c929707d2996ea82d69bbf/jetified-facebook-common-5.8.0/AndroidManifest.xml:29:9-32:66
-MERGED from [com.facebook.android:facebook-common:5.8.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/ce4e2c46c1c929707d2996ea82d69bbf/jetified-facebook-common-5.8.0/AndroidManifest.xml:29:9-32:66
 	android:label
 		ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] /Users/duy/.gradle/caches/transforms-2/files-2.1/eed87e4dcfbcde902e796102c3d722f2/jetified-firebase-ui-auth-4.3.1/AndroidManifest.xml:86:13-45
 	tools:ignore
 		ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] /Users/duy/.gradle/caches/transforms-2/files-2.1/eed87e4dcfbcde902e796102c3d722f2/jetified-firebase-ui-auth-4.3.1/AndroidManifest.xml:87:13-45
 	android:configChanges
 		ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] /Users/duy/.gradle/caches/transforms-2/files-2.1/eed87e4dcfbcde902e796102c3d722f2/jetified-firebase-ui-auth-4.3.1/AndroidManifest.xml:85:13-96
-	android:theme
-		ADDED from [com.facebook.android:facebook-common:5.8.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/ce4e2c46c1c929707d2996ea82d69bbf/jetified-facebook-common-5.8.0/AndroidManifest.xml:32:13-63
 	android:name
 		ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] /Users/duy/.gradle/caches/transforms-2/files-2.1/eed87e4dcfbcde902e796102c3d722f2/jetified-firebase-ui-auth-4.3.1/AndroidManifest.xml:84:13-57
 activity#com.facebook.CustomTabActivity
 ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] /Users/duy/.gradle/caches/transforms-2/files-2.1/eed87e4dcfbcde902e796102c3d722f2/jetified-firebase-ui-auth-4.3.1/AndroidManifest.xml:88:9-100:20
-MERGED from [com.facebook.android:facebook-common:5.8.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/ce4e2c46c1c929707d2996ea82d69bbf/jetified-facebook-common-5.8.0/AndroidManifest.xml:34:9-67
-MERGED from [com.facebook.android:facebook-common:5.8.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/ce4e2c46c1c929707d2996ea82d69bbf/jetified-facebook-common-5.8.0/AndroidManifest.xml:34:9-67
 	android:exported
 		ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] /Users/duy/.gradle/caches/transforms-2/files-2.1/eed87e4dcfbcde902e796102c3d722f2/jetified-firebase-ui-auth-4.3.1/AndroidManifest.xml:90:13-36
 	tools:ignore
@@ -582,42 +552,6 @@ ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] /Users/duy/.gradle/caches/tra
 		ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] /Users/duy/.gradle/caches/transforms-2/files-2.1/eed87e4dcfbcde902e796102c3d722f2/jetified-firebase-ui-auth-4.3.1/AndroidManifest.xml:106:13-35
 	android:name
 		ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] /Users/duy/.gradle/caches/transforms-2/files-2.1/eed87e4dcfbcde902e796102c3d722f2/jetified-firebase-ui-auth-4.3.1/AndroidManifest.xml:103:13-79
-activity#com.facebook.CustomTabMainActivity
-ADDED from [com.facebook.android:facebook-common:5.8.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/ce4e2c46c1c929707d2996ea82d69bbf/jetified-facebook-common-5.8.0/AndroidManifest.xml:33:9-71
-	android:name
-		ADDED from [com.facebook.android:facebook-common:5.8.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/ce4e2c46c1c929707d2996ea82d69bbf/jetified-facebook-common-5.8.0/AndroidManifest.xml:33:19-68
-activity#com.google.firebase.auth.internal.FederatedSignInActivity
-ADDED from [com.google.firebase:firebase-auth:19.1.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/4bf5ad23fb8b48603baac97e97e245fe/firebase-auth-19.1.0/AndroidManifest.xml:24:9-31:50
-	android:excludeFromRecents
-		ADDED from [com.google.firebase:firebase-auth:19.1.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/4bf5ad23fb8b48603baac97e97e245fe/firebase-auth-19.1.0/AndroidManifest.xml:26:13-46
-	android:launchMode
-		ADDED from [com.google.firebase:firebase-auth:19.1.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/4bf5ad23fb8b48603baac97e97e245fe/firebase-auth-19.1.0/AndroidManifest.xml:28:13-44
-	android:exported
-		ADDED from [com.google.firebase:firebase-auth:19.1.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/4bf5ad23fb8b48603baac97e97e245fe/firebase-auth-19.1.0/AndroidManifest.xml:27:13-36
-	android:permission
-		ADDED from [com.google.firebase:firebase-auth:19.1.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/4bf5ad23fb8b48603baac97e97e245fe/firebase-auth-19.1.0/AndroidManifest.xml:29:13-102
-	android:theme
-		ADDED from [com.google.firebase:firebase-auth:19.1.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/4bf5ad23fb8b48603baac97e97e245fe/firebase-auth-19.1.0/AndroidManifest.xml:30:13-72
-	tools:replace
-		ADDED from [com.google.firebase:firebase-auth:19.1.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/4bf5ad23fb8b48603baac97e97e245fe/firebase-auth-19.1.0/AndroidManifest.xml:31:13-47
-	android:name
-		ADDED from [com.google.firebase:firebase-auth:19.1.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/4bf5ad23fb8b48603baac97e97e245fe/firebase-auth-19.1.0/AndroidManifest.xml:25:13-85
-service#com.google.firebase.components.ComponentDiscoveryService
-ADDED from [com.google.firebase:firebase-auth:19.1.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/4bf5ad23fb8b48603baac97e97e245fe/firebase-auth-19.1.0/AndroidManifest.xml:33:9-39:19
-MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/28c1ceda9eb72d23d1907429a7dd5035/play-services-measurement-api-17.2.0/AndroidManifest.xml:27:9-33:19
-MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/28c1ceda9eb72d23d1907429a7dd5035/play-services-measurement-api-17.2.0/AndroidManifest.xml:27:9-33:19
-MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/6cfe46f408152b0cf1be5d6c31bb25ab/firebase-iid-19.0.0/AndroidManifest.xml:29:9-35:19
-MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/6cfe46f408152b0cf1be5d6c31bb25ab/firebase-iid-19.0.0/AndroidManifest.xml:29:9-35:19
-	android:exported
-		ADDED from [com.google.firebase:firebase-auth:19.1.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/4bf5ad23fb8b48603baac97e97e245fe/firebase-auth-19.1.0/AndroidManifest.xml:35:13-37
-	android:name
-		ADDED from [com.google.firebase:firebase-auth:19.1.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/4bf5ad23fb8b48603baac97e97e245fe/firebase-auth-19.1.0/AndroidManifest.xml:34:13-84
-meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
-ADDED from [com.google.firebase:firebase-auth:19.1.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/4bf5ad23fb8b48603baac97e97e245fe/firebase-auth-19.1.0/AndroidManifest.xml:36:13-38:85
-	android:value
-		ADDED from [com.google.firebase:firebase-auth:19.1.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/4bf5ad23fb8b48603baac97e97e245fe/firebase-auth-19.1.0/AndroidManifest.xml:38:17-82
-	android:name
-		ADDED from [com.google.firebase:firebase-auth:19.1.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/4bf5ad23fb8b48603baac97e97e245fe/firebase-auth-19.1.0/AndroidManifest.xml:37:17-109
 activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
 ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/5ed713a0ff70c0fa26615302da95891f/play-services-auth-17.0.0/AndroidManifest.xml:23:9-27:75
 	android:excludeFromRecents
@@ -636,6 +570,52 @@ ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/duy/.gradle
 		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/5ed713a0ff70c0fa26615302da95891f/play-services-auth-17.0.0/AndroidManifest.xml:36:13-107
 	android:name
 		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/5ed713a0ff70c0fa26615302da95891f/play-services-auth-17.0.0/AndroidManifest.xml:34:13-89
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:19.1.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/4bf5ad23fb8b48603baac97e97e245fe/firebase-auth-19.1.0/AndroidManifest.xml:24:9-31:50
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:19.1.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/4bf5ad23fb8b48603baac97e97e245fe/firebase-auth-19.1.0/AndroidManifest.xml:26:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:19.1.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/4bf5ad23fb8b48603baac97e97e245fe/firebase-auth-19.1.0/AndroidManifest.xml:28:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:19.1.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/4bf5ad23fb8b48603baac97e97e245fe/firebase-auth-19.1.0/AndroidManifest.xml:27:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:19.1.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/4bf5ad23fb8b48603baac97e97e245fe/firebase-auth-19.1.0/AndroidManifest.xml:29:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:19.1.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/4bf5ad23fb8b48603baac97e97e245fe/firebase-auth-19.1.0/AndroidManifest.xml:30:13-72
+	tools:replace
+		ADDED from [com.google.firebase:firebase-auth:19.1.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/4bf5ad23fb8b48603baac97e97e245fe/firebase-auth-19.1.0/AndroidManifest.xml:31:13-47
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:19.1.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/4bf5ad23fb8b48603baac97e97e245fe/firebase-auth-19.1.0/AndroidManifest.xml:25:13-85
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth:19.1.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/4bf5ad23fb8b48603baac97e97e245fe/firebase-auth-19.1.0/AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.firebase:firebase-database:19.2.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/463da60977420e86b3b59aa784a805a0/firebase-database-19.2.0/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-database:19.2.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/463da60977420e86b3b59aa784a805a0/firebase-database-19.2.0/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/28c1ceda9eb72d23d1907429a7dd5035/play-services-measurement-api-17.2.0/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/28c1ceda9eb72d23d1907429a7dd5035/play-services-measurement-api-17.2.0/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/6cfe46f408152b0cf1be5d6c31bb25ab/firebase-iid-19.0.0/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/6cfe46f408152b0cf1be5d6c31bb25ab/firebase-iid-19.0.0/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-common:19.2.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/61c47ccf880e44b6c829a8c9a48ba20d/firebase-common-19.2.0/AndroidManifest.xml:13:9-17:35
+MERGED from [com.google.firebase:firebase-common:19.2.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/61c47ccf880e44b6c829a8c9a48ba20d/firebase-common-19.2.0/AndroidManifest.xml:13:9-17:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:19.1.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/4bf5ad23fb8b48603baac97e97e245fe/firebase-auth-19.1.0/AndroidManifest.xml:35:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:19.2.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/61c47ccf880e44b6c829a8c9a48ba20d/firebase-common-19.2.0/AndroidManifest.xml:17:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.2.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/61c47ccf880e44b6c829a8c9a48ba20d/firebase-common-19.2.0/AndroidManifest.xml:15:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:19.1.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/4bf5ad23fb8b48603baac97e97e245fe/firebase-auth-19.1.0/AndroidManifest.xml:34:13-84
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:19.1.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/4bf5ad23fb8b48603baac97e97e245fe/firebase-auth-19.1.0/AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:19.1.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/4bf5ad23fb8b48603baac97e97e245fe/firebase-auth-19.1.0/AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:19.1.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/4bf5ad23fb8b48603baac97e97e245fe/firebase-auth-19.1.0/AndroidManifest.xml:37:17-109
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from [com.google.firebase:firebase-database:19.2.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/463da60977420e86b3b59aa784a805a0/firebase-database-19.2.0/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:19.2.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/463da60977420e86b3b59aa784a805a0/firebase-database-19.2.0/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:19.2.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/463da60977420e86b3b59aa784a805a0/firebase-database-19.2.0/AndroidManifest.xml:33:17-109
 uses-permission#android.permission.WAKE_LOCK
 ADDED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/28c1ceda9eb72d23d1907429a7dd5035/play-services-measurement-api-17.2.0/AndroidManifest.xml:24:5-68
 MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/6cfe46f408152b0cf1be5d6c31bb25ab/firebase-iid-19.0.0/AndroidManifest.xml:24:5-68
@@ -686,6 +666,16 @@ ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/duy/.gradle
 		ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/c6ed24259e187418524151309c91ad64/play-services-base-17.1.0/AndroidManifest.xml:26:13-72
 	android:name
 		ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/c6ed24259e187418524151309c91ad64/play-services-base-17.1.0/AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.2.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/61c47ccf880e44b6c829a8c9a48ba20d/firebase-common-19.2.0/AndroidManifest.xml:19:9-23:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.2.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/61c47ccf880e44b6c829a8c9a48ba20d/firebase-common-19.2.0/AndroidManifest.xml:21:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.2.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/61c47ccf880e44b6c829a8c9a48ba20d/firebase-common-19.2.0/AndroidManifest.xml:22:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.2.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/61c47ccf880e44b6c829a8c9a48ba20d/firebase-common-19.2.0/AndroidManifest.xml:23:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.2.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/61c47ccf880e44b6c829a8c9a48ba20d/firebase-common-19.2.0/AndroidManifest.xml:20:13-77
 uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
 ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/7c4237e0029812955685234cfce19139/play-services-measurement-17.2.0/AndroidManifest.xml:26:5-110
 MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/7b6b88ecf3a259024a45d2a41b617e9c/play-services-measurement-impl-17.2.0/AndroidManifest.xml:26:5-110
@@ -736,44 +726,6 @@ ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/duy/
 		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/7c4237e0029812955685234cfce19139/play-services-measurement-17.2.0/AndroidManifest.xml:52:13-69
 	android:name
 		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/7c4237e0029812955685234cfce19139/play-services-measurement-17.2.0/AndroidManifest.xml:49:13-87
-provider#com.google.firebase.provider.FirebaseInitProvider
-ADDED from [com.google.firebase:firebase-common:19.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/e306355be855e8d08fa629ba35e00000/firebase-common-19.0.0/AndroidManifest.xml:12:9-16:39
-	android:authorities
-		ADDED from [com.google.firebase:firebase-common:19.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/e306355be855e8d08fa629ba35e00000/firebase-common-19.0.0/AndroidManifest.xml:14:13-72
-	android:exported
-		ADDED from [com.google.firebase:firebase-common:19.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/e306355be855e8d08fa629ba35e00000/firebase-common-19.0.0/AndroidManifest.xml:15:13-37
-	android:initOrder
-		ADDED from [com.google.firebase:firebase-common:19.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/e306355be855e8d08fa629ba35e00000/firebase-common-19.0.0/AndroidManifest.xml:16:13-36
-	android:name
-		ADDED from [com.google.firebase:firebase-common:19.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/e306355be855e8d08fa629ba35e00000/firebase-common-19.0.0/AndroidManifest.xml:13:13-77
-provider#com.facebook.internal.FacebookInitProvider
-ADDED from [com.facebook.android:facebook-core:5.8.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/3e078f5040f05b1721c775cbdc529e71/jetified-facebook-core-5.8.0/AndroidManifest.xml:39:9-42:40
-	android:authorities
-		ADDED from [com.facebook.android:facebook-core:5.8.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/3e078f5040f05b1721c775cbdc529e71/jetified-facebook-core-5.8.0/AndroidManifest.xml:41:13-72
-	android:exported
-		ADDED from [com.facebook.android:facebook-core:5.8.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/3e078f5040f05b1721c775cbdc529e71/jetified-facebook-core-5.8.0/AndroidManifest.xml:42:13-37
-	android:name
-		ADDED from [com.facebook.android:facebook-core:5.8.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/3e078f5040f05b1721c775cbdc529e71/jetified-facebook-core-5.8.0/AndroidManifest.xml:40:13-70
-receiver#com.facebook.CurrentAccessTokenExpirationBroadcastReceiver
-ADDED from [com.facebook.android:facebook-core:5.8.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/3e078f5040f05b1721c775cbdc529e71/jetified-facebook-core-5.8.0/AndroidManifest.xml:44:9-50:20
-	android:exported
-		ADDED from [com.facebook.android:facebook-core:5.8.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/3e078f5040f05b1721c775cbdc529e71/jetified-facebook-core-5.8.0/AndroidManifest.xml:46:13-37
-	android:name
-		ADDED from [com.facebook.android:facebook-core:5.8.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/3e078f5040f05b1721c775cbdc529e71/jetified-facebook-core-5.8.0/AndroidManifest.xml:45:13-86
-intent-filter#action:name:com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
-ADDED from [com.facebook.android:facebook-core:5.8.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/3e078f5040f05b1721c775cbdc529e71/jetified-facebook-core-5.8.0/AndroidManifest.xml:47:13-49:29
-action#com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
-ADDED from [com.facebook.android:facebook-core:5.8.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/3e078f5040f05b1721c775cbdc529e71/jetified-facebook-core-5.8.0/AndroidManifest.xml:48:17-95
-	android:name
-		ADDED from [com.facebook.android:facebook-core:5.8.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/3e078f5040f05b1721c775cbdc529e71/jetified-facebook-core-5.8.0/AndroidManifest.xml:48:25-92
-receiver#com.facebook.CampaignTrackingReceiver
-ADDED from [com.facebook.android:facebook-core:5.8.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/3e078f5040f05b1721c775cbdc529e71/jetified-facebook-core-5.8.0/AndroidManifest.xml:51:9-58:20
-	android:exported
-		ADDED from [com.facebook.android:facebook-core:5.8.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/3e078f5040f05b1721c775cbdc529e71/jetified-facebook-core-5.8.0/AndroidManifest.xml:53:13-36
-	android:permission
-		ADDED from [com.facebook.android:facebook-core:5.8.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/3e078f5040f05b1721c775cbdc529e71/jetified-facebook-core-5.8.0/AndroidManifest.xml:54:13-69
-	android:name
-		ADDED from [com.facebook.android:facebook-core:5.8.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/3e078f5040f05b1721c775cbdc529e71/jetified-facebook-core-5.8.0/AndroidManifest.xml:52:13-65
 provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
 ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/020ca84081f1b5abc9c268e6cb8b944f/lifecycle-process-2.0.0/AndroidManifest.xml:23:9-27:43
 	android:authorities
