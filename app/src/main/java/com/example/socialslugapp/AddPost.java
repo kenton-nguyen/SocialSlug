@@ -13,6 +13,7 @@ import android.content.ContentValues;
 import android.content.DialogInterface;
 import android.content.Intent;
 import android.content.pm.PackageManager;
+import android.icu.text.CaseMap;
 import android.net.Uri;
 import android.os.Bundle;
 import android.provider.MediaStore;
@@ -25,6 +26,12 @@ import android.widget.ProgressBar;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.google.android.gms.auth.api.signin.GoogleSignIn;
+import com.google.android.gms.auth.api.signin.GoogleSignInAccount;
+import com.google.android.gms.tasks.OnFailureListener;
+import com.google.android.gms.tasks.OnSuccessListener;
+import com.google.android.gms.tasks.Task;
+import com.google.android.gms.tasks.Tasks;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
 import com.google.firebase.database.DataSnapshot;
@@ -33,9 +40,15 @@ import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.Query;
 import com.google.firebase.database.ValueEventListener;
+import com.google.firebase.storage.FirebaseStorage;
+import com.google.firebase.storage.StorageReference;
+import com.google.firebase.storage.UploadTask;
 
 
 import org.w3c.dom.Text;
+
+import java.net.URI;
+import java.util.HashMap;
 
 public class AddPost extends AppCompatActivity {
     ActionBar actionbar;
@@ -63,6 +76,7 @@ public class AddPost extends AppCompatActivity {
 
 
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -80,6 +94,10 @@ public class AddPost extends AppCompatActivity {
 
         cameraPermissions = new String[] {Manifest.permission.CAMERA, Manifest.permission.WRITE_EXTERNAL_STORAGE};
         storagePermissions = new String[] {Manifest.permission.WRITE_EXTERNAL_STORAGE};
+
+
+        actionbar.setSubtitle(email);
+
 
         userDB = FirebaseDatabase.getInstance().getReference("Users");
         Query query =  userDB.orderByChild("email").equalTo(email);
@@ -119,7 +137,7 @@ public class AddPost extends AppCompatActivity {
                     Toast.makeText(AddPost.this, "Enter description....", Toast.LENGTH_SHORT).show();
                     return;
                 }
-                if (image_rui ==null){
+                if (image_rui == null){
                     // post without image
                     uploadData(title1,description1, "noImage");
                 }
@@ -140,14 +158,116 @@ public class AddPost extends AppCompatActivity {
     }
 
 
-    private void uploadData (String title, String description, String uri){
-        String timestamp = String.valueOf(System.currentTimeMillis());
+    private void uploadData (final String s_title, final String s_description, String uri){
+        final String timestamp = String.valueOf(System.currentTimeMillis());
 
-        String filePathAndName = "Post/" + "post_" + timestamp;
+        String filePathAndName = "Posts/" + "posts_" + timestamp;
 
-//        if (!uri.equals("noImage")){
-//            StorageReference ref =
-//        }
+
+        if (!uri.equals("noImage")){
+            //post with image
+            StorageReference ref = FirebaseStorage.getInstance().getReference().child(filePathAndName);
+
+            ref.putFile(Uri.parse(uri))
+                    .addOnSuccessListener(new OnSuccessListener<UploadTask.TaskSnapshot>() {
+                        @Override
+                        public void onSuccess(UploadTask.TaskSnapshot taskSnapshot) {
+                            Task<Uri> uriTask = taskSnapshot.getStorage().getDownloadUrl();
+                            while (!uriTask.isSuccessful());
+
+                            String downloadUri = uriTask.getResult().toString();
+
+                            if (uriTask.isSuccessful()){ // uri is received upload post to firebase database
+                                GoogleSignInAccount acct = GoogleSignIn.getLastSignedInAccount(AddPost.this);
+                                //put post info
+                                HashMap<Object, String> hashMap = new HashMap<>();
+                                hashMap.put("uid", acct.getId());
+                                hashMap.put("uname", acct.getDisplayName());
+                                hashMap.put("uEmail",acct.getEmail());
+                                hashMap.put("uDp", dp);
+                                hashMap.put("pId", timestamp);
+                                hashMap.put("pTittle", s_title);
+                                hashMap.put("pDescr", s_description);
+                                hashMap.put("pImage", downloadUri);
+                                hashMap.put("pTime", timestamp);
+
+                                //path to store post data
+                                DatabaseReference ref = FirebaseDatabase.getInstance().getReference("Posts");
+
+                                //put data in this ref
+                                ref.child(timestamp).setValue(hashMap)
+                                    .addOnSuccessListener(new OnSuccessListener<Void>() {
+                                        @Override
+                                        public void onSuccess(Void aVoid) {
+                                            //added in the data base
+                                            Toast.makeText(AddPost.this, "Post Published", Toast.LENGTH_SHORT).show();
+                                            //reset views
+                                            title.setText("");
+                                            description.setText("");
+                                            imageView.setImageURI(null);
+                                            image_rui = null;
+                                        }
+                                    })
+                                    .addOnFailureListener(new OnFailureListener() {
+                                        @Override
+                                        public void onFailure(@NonNull Exception e) {
+                                            //failed to added in the database
+                                            Toast.makeText(AddPost.this, "Failed adding into the database", Toast.LENGTH_SHORT).show();
+                                        }
+                                    });
+
+
+                            }
+
+                        }
+                    })
+                    .addOnFailureListener(new OnFailureListener() {
+                        @Override
+                        public void onFailure(@NonNull Exception e) {
+                            //failed uploading image
+                            Toast.makeText(AddPost.this, "Failed uploading image", Toast.LENGTH_SHORT).show();
+                        }
+                    });
+
+
+        }
+        else{
+            GoogleSignInAccount acct = GoogleSignIn.getLastSignedInAccount(AddPost.this);
+            HashMap<Object, String> hashMap = new HashMap<>();
+            hashMap.put("uid", acct.getId());
+            hashMap.put("uname", acct.getDisplayName());
+            hashMap.put("uEmail",acct.getEmail());
+//            hashMap.put("uDp", acct.getPhotoUrl());
+            hashMap.put("pId", timestamp);
+            hashMap.put("pTittle", s_title);
+            hashMap.put("pDescr", s_description);
+            hashMap.put("pImage", "no Image");
+            hashMap.put("pTime", timestamp);
+
+            //path to store post data
+            DatabaseReference ref = FirebaseDatabase.getInstance().getReference("Posts");
+
+            //put data in this ref
+            ref.child(timestamp).setValue(hashMap)
+                    .addOnSuccessListener(new OnSuccessListener<Void>() {
+                        @Override
+                        public void onSuccess(Void aVoid) {
+                            //added in the data base
+                            Toast.makeText(AddPost.this, "Post Published", Toast.LENGTH_SHORT).show();
+                            title.setText("");
+                            description.setText("");
+                            imageView.setImageURI(null);
+                            image_rui = null;
+                        }
+                    })
+                    .addOnFailureListener(new OnFailureListener() {
+                        @Override
+                        public void onFailure(@NonNull Exception e) {
+                            //failed to added in the database
+                            Toast.makeText(AddPost.this, "Failed adding to data base", Toast.LENGTH_SHORT).show();
+                        }
+                    });
+        }
 
     }
 
@@ -186,26 +306,6 @@ public class AddPost extends AppCompatActivity {
     }
 
 
-
-
-
-    private void pickFromCamera (){
-        ContentValues cv = new ContentValues();
-        cv.put(MediaStore.Images.Media.TITLE,"Temp Pick");
-        cv.put(MediaStore.Images.Media.DESCRIPTION,"Temp Descr");
-        image_rui = getContentResolver().insert(MediaStore.Images.Media.EXTERNAL_CONTENT_URI, cv);
-
-        Intent intent = new Intent(MediaStore.ACTION_IMAGE_CAPTURE);
-        intent.putExtra(MediaStore.EXTRA_OUTPUT, image_rui);
-        startActivityForResult(intent, IMAGE_PICK_CAMERA_CODE);
-    }
-
-    private void pickFromGallery(){
-        Intent intent = new Intent(Intent.ACTION_PICK);
-        intent.setType("image/*");
-        startActivityForResult(intent,IMAGE_PICK_GALLERY_CODE);
-
-    }
 
     private boolean checkStoragePermission(){
         boolean result = ContextCompat.checkSelfPermission(this, Manifest.permission.WRITE_EXTERNAL_STORAGE) == (PackageManager.PERMISSION_GRANTED);
@@ -273,9 +373,6 @@ public class AddPost extends AppCompatActivity {
                         Toast.makeText(this, "Camera and Storage both permissions are necessary", Toast.LENGTH_SHORT).show();
                     }
                 }
-                else{
-
-                }
             }
             break;
             case STORAGE_REQUEST_CODE:{
@@ -293,7 +390,23 @@ public class AddPost extends AppCompatActivity {
         }
     }
 
+    private void pickFromCamera (){
+        ContentValues cv = new ContentValues();
+        cv.put(MediaStore.Images.Media.TITLE,"Temp Pick");
+        cv.put(MediaStore.Images.Media.DESCRIPTION,"Temp Descr");
+        image_rui = getContentResolver().insert(MediaStore.Images.Media.EXTERNAL_CONTENT_URI, cv);
 
+        Intent intent = new Intent(MediaStore.ACTION_IMAGE_CAPTURE);
+        intent.putExtra(MediaStore.EXTRA_OUTPUT, image_rui);
+        startActivityForResult(intent, IMAGE_PICK_CAMERA_CODE);
+    }
+
+    private void pickFromGallery(){
+        Intent intent = new Intent(Intent.ACTION_PICK);
+        intent.setType("image/*");
+        startActivityForResult(intent,IMAGE_PICK_GALLERY_CODE);
+
+    }
 
     @Override
     protected void onActivityResult (int requestCode, int resultCode, Intent data){
