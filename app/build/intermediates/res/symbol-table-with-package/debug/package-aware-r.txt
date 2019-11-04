@@ -1226,6 +1226,7 @@ id action_text
 id actions
 id activity_chooser_view_content
 id add
+id addPost
 id add_description
 id add_image
 id add_post
@@ -1382,6 +1383,7 @@ id pin
 id progress_circular
 id progress_horizontal
 id radio
+id relativeLayout
 id resend_barrier
 id resend_code
 id right
@@ -1477,6 +1479,7 @@ id uniform
 id unlabeled
 id up
 id useLogo
+id viewPost
 id view_offset_helper
 id visible
 id welcome_back_email_link_body
