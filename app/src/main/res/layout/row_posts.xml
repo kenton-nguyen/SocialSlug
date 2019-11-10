@@ -9,7 +9,7 @@
     app:cardElevation="3dp"
     app:contentPadding="5dp"
     app:cardUseCompatPadding="true"
-    app:cardBackgroundColor="@color/white">
+    app:cardBackgroundColor="@color/White">
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -24,9 +24,9 @@
 
             <com.blogspot.atifsoftwares.circularimageview.CircularImageView
 
-                android:id="+@/id/uPictureIv"
+                android:id="@+id/uPictureIv"
                 android:scaleType="centerCrop"
-                android:src="drawable/ic_default_img"
+                android:src="@drawable/ic_add_icon"
                 android:layout_width="50dp"
                 android:layout_height="50dp" />
             <LinearLayout
@@ -37,17 +37,19 @@
 
                 <TextView
                 android:id="@+id/uNameTv"
-                android:text="Name"
+                android:text="@string/name"
                 android:textColor="@color/colorPrimaryDark"
                 android:textSize="20sp"
                 android:layout_width="wrap_content"
-                android:layout_height="wrap_content" />
+                android:layout_height="wrap_content"
+                android:autoLink="all"/>
 
                 <TextView
-                    android:id="@+id/pTimeTv"
-                    android:text="minutes ago"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content" />
+                android:id="@+id/pTimeTv"
+                android:text="@string/minutes_ago"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:autoLink="all"/>
 
             </LinearLayout>
 
@@ -77,7 +79,7 @@
             android:id="@+id/pImageIv"
             android:layout_width="match_parent"
             android:layout_height="200dp"
-            android:background="@color/white"/>
+            android:background="@color/White"/>
         <TextView
             android:id="@+id/pLikesTv"
             android:textColor="@color/colorPrimary"
@@ -104,7 +106,7 @@
                 android:drawablePadding="5dp"
                 android:drawableLeft="@drawable/ic_like_black"
                 android:drawableStart="@drawable/ic_like_black"
-                android:background="@color/white"/>
+                android:background="@color/White"/>
              <Button
                 android:id="@+id/commentBtn"
                 android:layout_width="wrap_content"
@@ -114,7 +116,7 @@
                 android:drawablePadding="5dp"
                 android:drawableLeft="@drawable/ic_comment_black"
                 android:drawableStart="@drawable/ic_comment_black"
-                android:background="@color/white"/>
+                 android:background="@color/White"/>
             <Button
                 android:id="@+id/shareBtn"
                 android:layout_width="wrap_content"
@@ -124,7 +126,7 @@
                 android:drawablePadding="5dp"
                 android:drawableLeft="@drawable/ic_share_black"
                 android:drawableStart="@drawable/ic_share_black"
-                android:background="@color/white"/>
+                android:background="@color/White"/>
 
         </LinearLayout>
 
