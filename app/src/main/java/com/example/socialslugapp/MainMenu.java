@@ -31,7 +31,8 @@ public class MainMenu extends AppCompatActivity {
 
     }
 
-//    public void viewViewPost(View view){
-//        Intent intent = new Intent(this, ViewPost.class); // view post class to be created
-//    }
+    public void viewViewPost(View view){
+        Intent intent = new Intent(this, viewPosts.class);
+        startActivity(intent);
+    }
 }
