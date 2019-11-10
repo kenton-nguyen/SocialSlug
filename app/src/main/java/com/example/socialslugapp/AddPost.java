@@ -237,7 +237,7 @@ public class AddPost extends AppCompatActivity {
             hashMap.put("uid", acct.getId());
             hashMap.put("uname", acct.getDisplayName());
             hashMap.put("uEmail",acct.getEmail());
-//            hashMap.put("uDp", acct.getPhotoUrl());
+//          hashMap.put("uDp", acct.getPhotoUrl());
             hashMap.put("pId", timestamp);
             hashMap.put("pTittle", s_title);
             hashMap.put("pDescr", s_description);
