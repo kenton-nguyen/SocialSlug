@@ -1186,6 +1186,7 @@ id ALT
 id CTRL
 id FUNCTION
 id META
+id MainMenu
 id SHIFT
 id SYM
 id accessibility_action_clickable_span
@@ -1330,6 +1331,7 @@ id fill_vertical
 id filled
 id fixed
 id forever
+id fragment_frame
 id fragment_phone
 id fragment_register_email
 id ghost_view
@@ -1409,7 +1411,6 @@ id postsRecyclerview
 id progress_circular
 id progress_horizontal
 id radio
-id relativeLayout
 id resend_barrier
 id resend_code
 id right

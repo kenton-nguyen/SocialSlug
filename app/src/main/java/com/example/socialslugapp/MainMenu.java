@@ -1,6 +1,7 @@
 package com.example.socialslugapp;
 
 import androidx.appcompat.app.AppCompatActivity;
+import androidx.fragment.app.Fragment;
 import androidx.fragment.app.FragmentManager;
 import androidx.fragment.app.FragmentTransaction;
 
@@ -18,7 +19,7 @@ public class MainMenu extends AppCompatActivity {
 
     Button addPost;
     Button viewPost;
-    
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -27,7 +28,12 @@ public class MainMenu extends AppCompatActivity {
 
         addPost = (Button)findViewById(R.id.addPost);
         viewPost = (Button)findViewById(R.id.viewPost);
-
+        viewPost.setOnClickListener(new View.OnClickListener(){
+            @Override
+            public void onClick(View v){
+                view_Posts();
+            }
+        });
 
     }
 
@@ -37,10 +43,11 @@ public class MainMenu extends AppCompatActivity {
 
     }
 
-//    public void view_Posts (View view){
-//        Intent intent = new Intent(MainMenu.this, viewPosts.class);
-//        startActivity(intent);
-//    }
+    public void view_Posts(){
+        Intent intent = new Intent(MainMenu.this, DisplayPosts.class);
+        startActivity(intent);
+    }
+
 
 
 

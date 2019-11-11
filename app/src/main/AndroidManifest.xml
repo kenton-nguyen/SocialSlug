@@ -18,7 +18,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".AdapterPosts"></activity>
+        <activity android:name=".DisplayPosts"></activity>
+        <activity android:name=".AdapterPosts" />
         <activity android:name=".ModelPost" />
         <activity android:name=".MainMenu" />
         <activity android:name=".AddPost" />

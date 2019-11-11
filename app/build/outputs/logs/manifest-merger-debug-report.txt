@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml:2:1-38:12
-INJECTED from /Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml:2:1-38:12
-INJECTED from /Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml:2:1-38:12
-INJECTED from /Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml:2:1-38:12
+ADDED from /Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml:2:1-39:12
 MERGED from [com.firebaseui:firebase-ui-auth:4.3.1] /Users/duy/.gradle/caches/transforms-2/files-2.1/eed87e4dcfbcde902e796102c3d722f2/jetified-firebase-ui-auth-4.3.1/AndroidManifest.xml:2:1-109:12
 MERGED from [com.google.android.material:material:1.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/3df2fd68af0236fb7b1a24eeed8b503b/material-1.0.0/AndroidManifest.xml:17:1-24:12
 MERGED from [com.github.mohammadatif:CircularImageView:1.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/2b3adfea4f1d9e65eed862c66e149574/jetified-CircularImageView-1.0.0/AndroidManifest.xml:2:1-11:12
@@ -81,20 +81,20 @@ MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/duy/.gradle/caches/tra
 MERGED from [com.google.firebase:firebase-database-collection:17.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/a1c42ee6a43c1fec1cd0f12b759d080b/firebase-database-collection-17.0.0/AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.firebase:protolite-well-known-types:17.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/ebd322c0583c6030709dae3e64a76843/protolite-well-known-types-17.0.0/AndroidManifest.xml:2:1-11:12
 MERGED from [io.grpc:grpc-android:1.21.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/67e9f1b819e44694c17fe36b0eb68630/grpc-android-1.21.0/AndroidManifest.xml:2:1-13:12
-INJECTED from /Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml:2:1-38:12
-INJECTED from /Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml:2:1-38:12
-INJECTED from /Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml:2:1-39:12
 	package
 		ADDED from /Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml:3:5-40
 		INJECTED from /Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml
-		ADDED from /Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml:2:1-38:12
+		ADDED from /Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml:2:1-39:12
 		INJECTED from /Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml
-		ADDED from /Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml:2:1-38:12
+		ADDED from /Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml:2:1-39:12
 		INJECTED from /Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml:2:11-69
@@ -165,7 +165,7 @@ ADDED from /Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidMani
 	android:name
 		ADDED from /Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml:12:19-67
 application
-ADDED from /Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml:14:5-36:19
+ADDED from /Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml:14:5-37:19
 MERGED from [com.firebaseui:firebase-ui-auth:4.3.1] /Users/duy/.gradle/caches/transforms-2/files-2.1/eed87e4dcfbcde902e796102c3d722f2/jetified-firebase-ui-auth-4.3.1/AndroidManifest.xml:15:5-107:19
 MERGED from [com.firebaseui:firebase-ui-auth:4.3.1] /Users/duy/.gradle/caches/transforms-2/files-2.1/eed87e4dcfbcde902e796102c3d722f2/jetified-firebase-ui-auth-4.3.1/AndroidManifest.xml:15:5-107:19
 MERGED from [com.google.android.material:material:1.0.0] /Users/duy/.gradle/caches/transforms-2/files-2.1/3df2fd68af0236fb7b1a24eeed8b503b/material-1.0.0/AndroidManifest.xml:22:5-20
@@ -248,44 +248,48 @@ MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/duy/.gradle/cach
 		ADDED from /Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml:15:9-35
 	android:theme
 		ADDED from /Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml:20:9-40
-activity#com.example.socialslugapp.AdapterPosts
+activity#com.example.socialslugapp.DisplayPosts
 ADDED from /Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml:21:9-59
 	android:name
 		ADDED from /Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml:21:19-47
+activity#com.example.socialslugapp.AdapterPosts
+ADDED from /Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml:22:9-50
+	android:name
+		ADDED from /Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml:22:19-47
 activity#com.example.socialslugapp.ModelPost
-ADDED from /Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml:22:9-47
+ADDED from /Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml:23:9-47
 	android:name
-		ADDED from /Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml:22:19-44
+		ADDED from /Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml:23:19-44
 activity#com.example.socialslugapp.MainMenu
-ADDED from /Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml:23:9-46
+ADDED from /Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml:24:9-46
 	android:name
-		ADDED from /Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml:23:19-43
+		ADDED from /Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml:24:19-43
 activity#com.example.socialslugapp.AddPost
-ADDED from /Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml:24:9-45
+ADDED from /Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml:25:9-45
 	android:name
-		ADDED from /Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml:24:19-42
+		ADDED from /Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml:25:19-42
 activity#com.example.socialslugapp.UserProfile
-ADDED from /Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml:25:9-49
+ADDED from /Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml:26:9-49
 	android:name
-		ADDED from /Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml:25:19-46
+		ADDED from /Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml:26:19-46
 activity#com.example.socialslugapp.MainActivity
-ADDED from /Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml:26:9-35:20
+ADDED from /Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml:27:9-36:20
 	android:label
-		ADDED from /Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml:28:13-45
+		ADDED from /Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml:29:13-45
 	android:theme
-		ADDED from /Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml:29:13-56
+		ADDED from /Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml:30:13-56
 	android:name
-		ADDED from /Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml:27:13-41
+		ADDED from /Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml:28:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml:30:13-34:29
+ADDED from /Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml:31:13-35:29
 action#android.intent.action.MAIN
-ADDED from /Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml:31:17-69
+ADDED from /Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml:32:17-69
 	android:name
-		ADDED from /Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml:31:25-66
+		ADDED from /Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml:32:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml:33:17-77
+ADDED from /Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml:34:17-77
 	android:name
-		ADDED from /Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml:33:27-74
+		ADDED from /Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml:34:27-74
 uses-sdk
 INJECTED from /Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/src/main/AndroidManifest.xml
