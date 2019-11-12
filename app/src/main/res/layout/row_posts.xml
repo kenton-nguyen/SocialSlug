@@ -2,14 +2,14 @@
 <androidx.cardview.widget.CardView
 
     xmlns:android="http://schemas.android.com/apk/res/android"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent"
     xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    app:cardBackgroundColor="@color/White"
     app:cardCornerRadius="3dp"
     app:cardElevation="3dp"
-    app:contentPadding="5dp"
     app:cardUseCompatPadding="true"
-    app:cardBackgroundColor="@color/White">
+    app:contentPadding="5dp">
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -19,37 +19,38 @@
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:orientation="horizontal"
-            android:gravity="center_vertical">
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
 
             <com.blogspot.atifsoftwares.circularimageview.CircularImageView
 
                 android:id="@+id/uPictureIv"
-                android:scaleType="centerCrop"
-                android:src="@drawable/ic_add_icon"
                 android:layout_width="50dp"
-                android:layout_height="50dp" />
+                android:layout_height="50dp"
+                android:scaleType="centerCrop"
+                android:src="@mipmap/ic_default_img" />
+
             <LinearLayout
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
-                android:orientation="vertical"
-                android:layout_weight="1">
+                android:layout_weight="1"
+                android:orientation="vertical">
 
                 <TextView
-                android:id="@+id/uNameTv"
-                android:text="@string/name"
-                android:textColor="@color/colorPrimaryDark"
-                android:textSize="20sp"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:autoLink="all"/>
+                    android:id="@+id/uNameTv"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:autoLink="all"
+                    android:text="@string/name"
+                    android:textColor="@color/colorPrimaryDark"
+                    android:textSize="20sp" />
 
                 <TextView
-                android:id="@+id/pTimeTv"
-                android:text="@string/minutes_ago"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:autoLink="all"/>
+                    android:id="@+id/pTimeTv"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:autoLink="all"
+                    android:text="@string/minutes_ago" />
 
             </LinearLayout>
 
@@ -58,7 +59,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:background="@null"
-                android:src="@drawable/ic_more_black"/>
+                android:src="@drawable/ic_more_black" />
 
         </LinearLayout>
 
@@ -66,26 +67,30 @@
             android:id="@+id/pTitleTv"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:text="Title"
             android:textSize="16sp"
-            android:textStyle="bold"
-            android:text="Title"/>
+            android:textStyle="bold" />
+
         <TextView
             android:id="@+id/pDescriptionTv"
-            android:text="Post description"
-            android:textColor="@color/colorPrimaryDark"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" />
+            android:layout_height="wrap_content"
+            android:text="Post description"
+            android:textColor="@color/colorPrimaryDark" />
+
         <ImageView
             android:id="@+id/pImageIv"
             android:layout_width="match_parent"
             android:layout_height="200dp"
-            android:background="@color/White"/>
+            android:background="@color/White" />
+
         <TextView
             android:id="@+id/pLikesTv"
-            android:textColor="@color/colorPrimary"
-            android:text="Likes"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" />
+            android:layout_height="wrap_content"
+            android:text="Likes"
+            android:textColor="@color/colorPrimary" />
+
         <View
             android:layout_width="match_parent"
             android:layout_height="1dp"
@@ -94,39 +99,41 @@
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:orientation="horizontal"
-            android:gravity="center" >
+            android:gravity="center"
+            android:orientation="horizontal">
 
             <Button
                 android:id="@+id/likeBtn"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
-                android:text="LIKE"
-                android:drawablePadding="5dp"
-                android:drawableLeft="@drawable/ic_like_black"
+                android:background="@color/White"
                 android:drawableStart="@drawable/ic_like_black"
-                android:background="@color/White"/>
-             <Button
+                android:drawableLeft="@drawable/ic_like_black"
+                android:drawablePadding="5dp"
+                android:text="LIKE" />
+
+            <Button
                 android:id="@+id/commentBtn"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
-                android:text="COMMENT"
-                android:drawablePadding="5dp"
-                android:drawableLeft="@drawable/ic_comment_black"
+                android:background="@color/White"
                 android:drawableStart="@drawable/ic_comment_black"
-                 android:background="@color/White"/>
+                android:drawableLeft="@drawable/ic_comment_black"
+                android:drawablePadding="5dp"
+                android:text="COMMENT" />
+
             <Button
                 android:id="@+id/shareBtn"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
-                android:text="SHARE"
-                android:drawablePadding="5dp"
-                android:drawableLeft="@drawable/ic_share_black"
+                android:background="@color/White"
                 android:drawableStart="@drawable/ic_share_black"
-                android:background="@color/White"/>
+                android:drawableLeft="@drawable/ic_share_black"
+                android:drawablePadding="5dp"
+                android:text="SHARE" />
 
         </LinearLayout>
 

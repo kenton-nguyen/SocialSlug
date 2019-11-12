@@ -65,7 +65,7 @@ public class AdapterPosts extends RecyclerView.Adapter<AdapterPosts.MyHolder> {
         //set user dp
         //need to fix user PICTuRE
         try {
-            Picasso.get().load(uDp).placeholder(R.drawable.ic_add_icon).into(myHolder.uPictureIv);
+            Picasso.get().load(uDp).placeholder(R.mipmap.ic_default_img).into(myHolder.uPictureIv);
         }catch (Exception e){
 
         }
