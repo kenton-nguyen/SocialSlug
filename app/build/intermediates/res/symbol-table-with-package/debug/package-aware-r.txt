@@ -131,6 +131,14 @@ attr buttonStyle
 attr buttonStyleSmall
 attr buttonTint
 attr buttonTintMode
+attr c_background_color
+attr c_border
+attr c_border_color
+attr c_border_width
+attr c_shadow
+attr c_shadow_color
+attr c_shadow_gravity
+attr c_shadow_radius
 attr cardBackgroundColor
 attr cardCornerRadius
 attr cardElevation
@@ -164,6 +172,10 @@ attr chipStrokeColor
 attr chipStrokeWidth
 attr chipStyle
 attr circleCrop
+attr civ_border_color
+attr civ_border_overlay
+attr civ_border_width
+attr civ_circle_background_color
 attr closeIcon
 attr closeIconEnabled
 attr closeIconEndPadding
@@ -611,6 +623,7 @@ bool abc_action_bar_embed_tabs
 bool abc_allow_stacked_button_bar
 bool abc_config_actionMenuItemAllCaps
 bool mtrl_btn_textappearance_all_caps
+color White
 color abc_background_cache_hint_selector_material_dark
 color abc_background_cache_hint_selector_material_light
 color abc_btn_colored_borderless_text_material
@@ -1143,11 +1156,15 @@ drawable fui_idp_button_background_twitter
 drawable googleg_disabled_color_18
 drawable googleg_standard_color_18
 drawable ic_add_icon
+drawable ic_comment_black
 drawable ic_launcher_background
 drawable ic_launcher_foreground
+drawable ic_like_black
+drawable ic_more_black
 drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
+drawable ic_share_black
 drawable mtrl_snackbar_background
 drawable mtrl_tabs_default_indicator
 drawable navigation_empty_icon
@@ -1169,6 +1186,7 @@ id ALT
 id CTRL
 id FUNCTION
 id META
+id MainMenu
 id SHIFT
 id SYM
 id accessibility_action_clickable_span
@@ -1226,6 +1244,7 @@ id action_text
 id actions
 id activity_chooser_view_content
 id add
+id addPost
 id add_description
 id add_image
 id add_post
@@ -1267,6 +1286,7 @@ id circular
 id clip_horizontal
 id clip_vertical
 id collapseActionView
+id commentBtn
 id confirmation_code
 id confirmation_code_layout
 id container
@@ -1311,6 +1331,7 @@ id fill_vertical
 id filled
 id fixed
 id forever
+id fragment_frame
 id fragment_phone
 id fragment_register_email
 id ghost_view
@@ -1339,6 +1360,7 @@ id labeled
 id largeLabel
 id left
 id light
+id likeBtn
 id line1
 id line3
 id listMode
@@ -1351,6 +1373,7 @@ id media_actions
 id message
 id middle
 id mini
+id moreBtn
 id mtrl_child_content_container
 id mtrl_internal_children_alpha_tag
 id multiply
@@ -1366,6 +1389,11 @@ id notification_main_column_container
 id off
 id on
 id outline
+id pDescriptionTv
+id pImageIv
+id pLikesTv
+id pTimeTv
+id pTitleTv
 id packed
 id parallax
 id parent
@@ -1379,6 +1407,7 @@ id phone_layout
 id phone_number
 id photo
 id pin
+id postsRecyclerview
 id progress_circular
 id progress_horizontal
 id radio
@@ -1411,6 +1440,7 @@ id select_dialog_listview
 id selected
 id send_code
 id send_sms_tos
+id shareBtn
 id shortcut
 id showCustom
 id showHome
@@ -1472,11 +1502,14 @@ id transition_scene_layoutid_cache
 id transition_transform
 id trouble_signing_in
 id trouble_signing_in_possible_fixes
+id uNameTv
+id uPictureIv
 id unchecked
 id uniform
 id unlabeled
 id up
 id useLogo
+id viewPost
 id view_offset_helper
 id visible
 id welcome_back_email_link_body
@@ -1563,6 +1596,7 @@ layout design_navigation_item_subheader
 layout design_navigation_menu
 layout design_navigation_menu_item
 layout design_text_input_password_icon
+layout fragment_view_posts
 layout fui_activity_invisible
 layout fui_activity_register_email
 layout fui_activity_register_phone
@@ -1603,12 +1637,14 @@ layout notification_template_media
 layout notification_template_media_custom
 layout notification_template_part_chronometer
 layout notification_template_part_time
+layout row_posts
 layout select_dialog_item_material
 layout select_dialog_multichoice_material
 layout select_dialog_singlechoice_material
 layout support_simple_spinner_dropdown_item
 layout user_profile
 menu menu_main
+mipmap ic_default_img
 mipmap ic_launcher
 mipmap ic_launcher_round
 plurals fui_error_weak_password
@@ -1640,6 +1676,7 @@ string abc_shareactionprovider_share_with
 string abc_shareactionprovider_share_with_application
 string abc_toolbar_collapse_description
 string action_settings
+string add_post
 string app_name
 string appbar_scrolling_view_behavior
 string bottom_sheet_behavior
@@ -1771,9 +1808,12 @@ string google_app_id
 string google_crash_reporting_api_key
 string google_storage_bucket
 string google_web_client_id
+string hello_blank_fragment
 string hide_bottom_view_on_scroll_behavior
 string logout
+string minutes_ago
 string mtrl_chip_close_icon_content_description
+string name
 string password_toggle_content_description
 string path_password_eye
 string path_password_eye_mask_strike_through
@@ -1786,6 +1826,7 @@ string status_bar_notification_info_overflow
 string storage_link
 string twitter_consumer_key
 string twitter_consumer_secret
+string view_feed
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light
 style Animation_AppCompat_Dialog
@@ -2372,6 +2413,8 @@ styleable ButtonBarLayout allowStacking
 styleable CardView android_minWidth android_minHeight cardBackgroundColor cardCornerRadius cardElevation cardMaxElevation cardPreventCornerOverlap cardUseCompatPadding contentPadding contentPaddingBottom contentPaddingLeft contentPaddingRight contentPaddingTop
 styleable Chip android_textAppearance android_ellipsize android_maxWidth android_text android_checkable checkedIcon checkedIconEnabled checkedIconVisible chipBackgroundColor chipCornerRadius chipEndPadding chipIcon chipIconEnabled chipIconSize chipIconTint chipIconVisible chipMinHeight chipStartPadding chipStrokeColor chipStrokeWidth closeIcon closeIconEnabled closeIconEndPadding closeIconSize closeIconStartPadding closeIconTint closeIconVisible hideMotionSpec iconEndPadding iconStartPadding rippleColor showMotionSpec textEndPadding textStartPadding
 styleable ChipGroup checkedChip chipSpacing chipSpacingHorizontal chipSpacingVertical singleLine singleSelection
+styleable CircleImageView civ_border_color civ_border_overlay civ_border_width civ_circle_background_color
+styleable CircularImageView c_background_color c_border c_border_color c_border_width c_shadow c_shadow_color c_shadow_gravity c_shadow_radius
 styleable CollapsingToolbarLayout collapsedTitleGravity collapsedTitleTextAppearance contentScrim expandedTitleGravity expandedTitleMargin expandedTitleMarginBottom expandedTitleMarginEnd expandedTitleMarginStart expandedTitleMarginTop expandedTitleTextAppearance scrimAnimationDuration scrimVisibleHeightTrigger statusBarScrim title titleEnabled toolbarId
 styleable CollapsingToolbarLayout_Layout layout_collapseMode layout_collapseParallaxMultiplier
 styleable ColorStateListItem android_color android_alpha alpha

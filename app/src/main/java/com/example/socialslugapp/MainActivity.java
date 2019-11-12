@@ -97,7 +97,7 @@ public class MainActivity extends AppCompatActivity {
         // the GoogleSignInAccount will be non-null.
         GoogleSignInAccount account = GoogleSignIn.getLastSignedInAccount(this);
         if(account != null) {
-            startActivity(new Intent(MainActivity.this, AddPost.class));
+            startActivity(new Intent(MainActivity.this, MainMenu.class));
         }
         super.onStart();
     }

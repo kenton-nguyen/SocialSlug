@@ -7,4 +7,11 @@
     <string name="google_web_client_id">1057073088687-ib07qd3v5gfcf9fuuppmebgnbajooqvb.apps.googleusercontent.com</string>
     <string name="logout" />
     <string name="sign_out">Sign out</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name">Name</string>
+    <string name="minutes_ago">minutes ago</string>
+    <string name="view_feed">View feed</string>
+    <string name="add_post">Add post</string>
 </resources>

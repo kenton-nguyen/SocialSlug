@@ -89,9 +89,6 @@ public class AddPost extends AppCompatActivity {
         actionbar.setDisplayHomeAsUpEnabled(true);
         actionbar.setDisplayShowHomeEnabled(true);
 
-//        firebaseAuth = firebaseAuth.getInstance();
-//        checkUserStatus();
-
         cameraPermissions = new String[] {Manifest.permission.CAMERA, Manifest.permission.WRITE_EXTERNAL_STORAGE};
         storagePermissions = new String[] {Manifest.permission.WRITE_EXTERNAL_STORAGE};
 
@@ -186,7 +183,7 @@ public class AddPost extends AppCompatActivity {
                                 hashMap.put("uEmail",acct.getEmail());
                                 hashMap.put("uDp", dp);
                                 hashMap.put("pId", timestamp);
-                                hashMap.put("pTittle", s_title);
+                                hashMap.put("pTitle", s_title);
                                 hashMap.put("pDescr", s_description);
                                 hashMap.put("pImage", downloadUri);
                                 hashMap.put("pTime", timestamp);
@@ -239,7 +236,7 @@ public class AddPost extends AppCompatActivity {
             hashMap.put("uEmail",acct.getEmail());
 //          hashMap.put("uDp", acct.getPhotoUrl());
             hashMap.put("pId", timestamp);
-            hashMap.put("pTittle", s_title);
+            hashMap.put("pTitle", s_title);
             hashMap.put("pDescr", s_description);
             hashMap.put("pImage", "no Image");
             hashMap.put("pTime", timestamp);
