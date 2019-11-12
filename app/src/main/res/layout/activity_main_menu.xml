@@ -6,28 +6,37 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context=".UserProfile">
+    tools:context=".UserProfile"
+    android:background="@color/yellow"
+    >
 
 
     <Button
         android:id="@+id/addPost"
         android:layout_width="197dp"
         android:layout_height="65dp"
-        android:layout_marginStart="100dp"
-        android:layout_marginTop="244dp"
+        android:layout_marginStart="110dp"
+        android:layout_marginTop="290dp"
         android:layout_marginBottom="122dp"
+        android:background="@drawable/button"
+        android:fontFamily="@font/sublime"
         android:onClick="viewAddPost"
-        android:text="@string/add_post" />
+        android:text="@string/add_post"
+        android:textColor="@color/white"
+        android:textSize="15sp" />
 
     <Button
         android:id="@+id/viewPost"
-        android:layout_width="185dp"
-        android:layout_height="66dp"
-        android:layout_marginStart="114dp"
+        android:layout_width="197dp"
+        android:layout_height="65dp"
+        android:layout_marginStart="110dp"
         android:layout_marginLeft="200dp"
-        android:layout_marginBottom="242dp"
-        android:text="@string/view_feed" />
-
+        android:layout_marginTop="-100dp"
+        android:background="@drawable/bordered_button"
+        android:fontFamily="@font/sublime"
+        android:text="@string/view_feed"
+        android:textColor="@color/navy"
+        android:textSize="15sp" />
 
 
 </LinearLayout>

@@ -14,4 +14,7 @@
     <string name="minutes_ago">minutes ago</string>
     <string name="view_feed">View feed</string>
     <string name="add_post">Add post</string>
+
+    <string name="slogan">FIND EVENTS MADE BY SLUGS, FOR SLUGS!</string>
+
 </resources>
