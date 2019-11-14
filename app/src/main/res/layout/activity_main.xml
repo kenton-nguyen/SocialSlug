@@ -7,6 +7,7 @@
     tools:context=".MainActivity"
     android:background="@drawable/login_background">
 
+
     <TextView
         android:id="@+id/slogan_message"
         android:layout_width="wrap_content"
@@ -16,14 +17,13 @@
         android:layout_alignParentEnd="true"
         android:layout_alignParentBottom="true"
         android:layout_marginStart="23dp"
-        android:layout_marginTop="251dp"
+        android:layout_marginTop="269dp"
         android:layout_marginEnd="36dp"
-        android:layout_marginBottom="195dp"
+        android:layout_marginBottom="203dp"
         android:fontFamily="@font/sublime"
         android:text="@string/slogan"
         android:textColor="@color/white"
-        android:textSize="32sp" />
-
+        android:textSize="30sp" />
 
     <com.google.android.gms.common.SignInButton
         android:id="@+id/sign_in_button"
@@ -31,7 +31,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="23dp"
         android:layout_marginLeft="21dp"
-        android:layout_marginTop="420dp"
+        android:layout_marginTop="430dp"
         android:layout_marginEnd="36dp"
         android:layout_marginBottom="195dp" />
 </RelativeLayout>

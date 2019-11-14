@@ -1,6 +1,7 @@
 package com.example.socialslugapp;
 
 import androidx.annotation.NonNull;
+import androidx.appcompat.app.ActionBar;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
@@ -22,16 +23,29 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class DisplayPosts extends AppCompatActivity {
-
+    ActionBar actionbar;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.fragment_view_posts);
 
+        actionbar = getSupportActionBar();
+        actionbar.setTitle("EVENT FEED");
+
+        // this is the back button
+        actionbar.setDisplayHomeAsUpEnabled(true);
+        actionbar.setDisplayShowHomeEnabled(true);
+
         viewPosts vP = new viewPosts();
         getSupportFragmentManager().beginTransaction().add(R.id.fragment_frame, vP).commitNow();
 
+    }
+
+    @Override
+    public boolean onSupportNavigateUp() {
+        onBackPressed(); // return back to the previous activity
+        return super.onSupportNavigateUp();
     }
 
 }

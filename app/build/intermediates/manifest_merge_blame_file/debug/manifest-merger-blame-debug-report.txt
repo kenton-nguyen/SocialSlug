@@ -76,8 +76,8 @@
 38-->/Users/vaniagunawan/School/UCSC 2019-2020/CSE 118/SocialSlugApp/app/src/main/AndroidManifest.xml:25:19-43
 39            android:label="@string/app_name"
 39-->/Users/vaniagunawan/School/UCSC 2019-2020/CSE 118/SocialSlugApp/app/src/main/AndroidManifest.xml:26:13-45
-40            android:theme="@style/AppTheme.NoActionBar" >
-40-->/Users/vaniagunawan/School/UCSC 2019-2020/CSE 118/SocialSlugApp/app/src/main/AndroidManifest.xml:27:13-56
+40            android:theme="@style/AppTheme" >
+40-->/Users/vaniagunawan/School/UCSC 2019-2020/CSE 118/SocialSlugApp/app/src/main/AndroidManifest.xml:27:13-44
 41        </activity>
 42        <activity android:name="com.example.socialslugapp.AddPost" />
 42-->/Users/vaniagunawan/School/UCSC 2019-2020/CSE 118/SocialSlugApp/app/src/main/AndroidManifest.xml:29:9-45

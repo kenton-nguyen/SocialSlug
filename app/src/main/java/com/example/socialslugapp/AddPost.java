@@ -83,7 +83,7 @@ public class AddPost extends AppCompatActivity {
         setContentView(R.layout.activity_add_post);
 
         actionbar = getSupportActionBar();
-        actionbar.setTitle("Add New Post");
+        actionbar.setTitle("ADD NEW POST");
 
         // this is the back button
         actionbar.setDisplayHomeAsUpEnabled(true);
@@ -406,18 +406,18 @@ public class AddPost extends AppCompatActivity {
     }
 
     @Override
-    protected void onActivityResult (int requestCode, int resultCode, Intent data){
+    protected void onActivityResult (int requestCode, int resultCode, Intent data) {
         //this method will be called after picking image from camera / gallery
-        if (resultCode == RESULT_OK){
-            if (requestCode == IMAGE_PICK_GALLERY_CODE){
+        super.onActivityResult(requestCode, resultCode, data);
+        if (resultCode == RESULT_OK) {
+            if (requestCode == IMAGE_PICK_GALLERY_CODE) {
                 //image is picked from gallery
                 image_rui = data.getData();
 
 
                 //set to imageView
                 imageView.setImageURI(image_rui);
-            }
-            else if (requestCode == IMAGE_PICK_CAMERA_CODE){
+            } else if (requestCode == IMAGE_PICK_CAMERA_CODE) {
                 //image is picked from camera
                 imageView.setImageURI(image_rui);
 

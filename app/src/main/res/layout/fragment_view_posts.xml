@@ -4,7 +4,8 @@
     android:id="@+id/fragment_frame"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".viewPosts">
+    tools:context=".viewPosts"
+    android:background="@color/yellow">
 
     <!-- TODO: Update blank fragment layout -->
 

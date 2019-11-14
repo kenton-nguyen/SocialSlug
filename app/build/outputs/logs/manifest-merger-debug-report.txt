@@ -265,7 +265,7 @@ ADDED from /Users/vaniagunawan/School/UCSC 2019-2020/CSE 118/SocialSlugApp/app/s
 	android:label
 		ADDED from /Users/vaniagunawan/School/UCSC 2019-2020/CSE 118/SocialSlugApp/app/src/main/AndroidManifest.xml:26:13-45
 	android:theme
-		ADDED from /Users/vaniagunawan/School/UCSC 2019-2020/CSE 118/SocialSlugApp/app/src/main/AndroidManifest.xml:27:13-56
+		ADDED from /Users/vaniagunawan/School/UCSC 2019-2020/CSE 118/SocialSlugApp/app/src/main/AndroidManifest.xml:27:13-44
 	android:name
 		ADDED from /Users/vaniagunawan/School/UCSC 2019-2020/CSE 118/SocialSlugApp/app/src/main/AndroidManifest.xml:25:19-43
 activity#com.example.socialslugapp.AddPost
