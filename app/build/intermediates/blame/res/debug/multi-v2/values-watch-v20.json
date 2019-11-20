@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/vaniagunawan/School/UCSC 2019-2020/CSE 118/SocialSlugApp/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v20/values-watch-v20.xml",
+            "outputFile": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v20/values-watch-v20.xml",
             "map": [
                 {
-                    "source": "/Users/vaniagunawan/.gradle/caches/transforms-2/files-2.1/5ed713a0ff70c0fa26615302da95891f/play-services-auth-17.0.0/res/values-watch-v20/values.xml",
+                    "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/5ed713a0ff70c0fa26615302da95891f/play-services-auth-17.0.0/res/values-watch-v20/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11",
                         "startColumns": "0,0,0,0,0,0,0,0",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/Users/vaniagunawan/.gradle/caches/transforms-2/files-2.1/f8ccfb448ba3545203b2c9319e236e39/appcompat-1.1.0/res/values-watch-v20/values-watch-v20.xml",
+                    "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/f8ccfb448ba3545203b2c9319e236e39/appcompat-1.1.0/res/values-watch-v20/values-watch-v20.xml",
                     "from": {
                         "startLines": "2,5,8",
                         "startColumns": "4,4,4",

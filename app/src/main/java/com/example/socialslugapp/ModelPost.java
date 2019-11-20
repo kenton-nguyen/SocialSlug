@@ -3,6 +3,10 @@ package com.example.socialslugapp;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+import android.view.Display;
+
+import com.google.android.gms.auth.api.signin.GoogleSignIn;
+import com.google.android.gms.auth.api.signin.GoogleSignInAccount;
 
 public class ModelPost{
     String pDescr;
@@ -14,20 +18,25 @@ public class ModelPost{
     String uid;
     String uname;
     String uDp;
+    String pLikes;
 
 
     public ModelPost(){
 
     }
 
-    public String getuDp() {
-        return uDp;
-    }
-
-    public void setuDp(String uDp) {
+    public ModelPost(String pDescr, String pId, String pImage, String pTime, String pTitle, String uEmail, String uid, String uname, String uDp, String pLikes) {
+        this.pDescr = pDescr;
+        this.pId = pId;
+        this.pImage = pImage;
+        this.pTime = pTime;
+        this.pTitle = pTitle;
+        this.uEmail = uEmail;
+        this.uid = uid;
+        this.uname = uname;
         this.uDp = uDp;
+        this.pLikes = pLikes;
     }
-
 
     public String getpDescr() {
         return pDescr;
@@ -93,15 +102,19 @@ public class ModelPost{
         this.uname = uname;
     }
 
-    public ModelPost(String pDescr, String pId, String pImage, String pTime, String pTitle, String uEmail, String uid, String uname, String uDp) {
-        this.pDescr = pDescr;
-        this.pId = pId;
-        this.pImage = pImage;
-        this.pTime = pTime;
-        this.pTitle = pTitle;
-        this.uEmail = uEmail;
-        this.uid = uid;
-        this.uname = uname;
+    public String getuDp() {
+        return uDp;
+    }
+
+    public void setuDp(String uDp) {
         this.uDp = uDp;
+    }
+
+    public String getpLikes() {
+        return pLikes;
+    }
+
+    public void setpLikes(String pLikes) {
+        this.pLikes = pLikes;
     }
 }

@@ -94,7 +94,7 @@ public class AddPost extends AppCompatActivity {
 
 
         actionbar.setSubtitle(email);
-
+//        checkUserStatus();
 
         userDB = FirebaseDatabase.getInstance().getReference("Users");
         Query query =  userDB.orderByChild("email").equalTo(email);
@@ -181,6 +181,7 @@ public class AddPost extends AppCompatActivity {
                                 hashMap.put("uid", acct.getId());
                                 hashMap.put("uname", acct.getDisplayName());
                                 hashMap.put("uEmail",acct.getEmail());
+                                hashMap.put("pLikes", "0");
                                 hashMap.put("uDp", dp);
                                 hashMap.put("pId", timestamp);
                                 hashMap.put("pTitle", s_title);
@@ -235,6 +236,7 @@ public class AddPost extends AppCompatActivity {
             hashMap.put("uname", acct.getDisplayName());
             hashMap.put("uEmail",acct.getEmail());
 //          hashMap.put("uDp", acct.getPhotoUrl());
+            hashMap.put("pLikes", "0");
             hashMap.put("pId", timestamp);
             hashMap.put("pTitle", s_title);
             hashMap.put("pDescr", s_description);
@@ -339,7 +341,8 @@ public class AddPost extends AppCompatActivity {
 //    private void checkUserStatus () {
 //        FirebaseUser user = firebaseAuth.getCurrentUser();
 //        if (user != null) { // if they are logged in then ...
-//
+//            email = user.getEmail();
+//            uid = user.getUid();
 //        }else {
 //            startActivity(new Intent(this, AddPost.class)); // if user is not logged in then direct them to MainMenu for now....
 //            finish();
