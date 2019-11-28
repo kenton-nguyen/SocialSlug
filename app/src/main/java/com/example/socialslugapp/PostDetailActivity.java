@@ -20,6 +20,8 @@ import android.widget.LinearLayout;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.google.android.gms.auth.api.signin.GoogleSignIn;
+import com.google.android.gms.auth.api.signin.GoogleSignInAccount;
 import com.google.android.gms.tasks.OnFailureListener;
 import com.google.android.gms.tasks.OnSuccessListener;
 import com.google.firebase.auth.FirebaseAuth;
@@ -103,11 +105,11 @@ public class PostDetailActivity extends AppCompatActivity {
         loadPostInfo();
 //        checkUserStatus();
 
-
+        GoogleSignInAccount acct = GoogleSignIn.getLastSignedInAccount(PostDetailActivity.this);
 //        setLikes();
 
         //set subtitle of actionbar
-        actionBar.setSubtitle("SignedIn as: "+ myEmail);
+        actionBar.setSubtitle("Signed In as: "+ acct.getEmail());
 
         loadComments();
 
@@ -230,14 +232,15 @@ public class PostDetailActivity extends AppCompatActivity {
 
         HashMap<String, Object> hashMap = new HashMap<>();
         //put info in hashmap
+        GoogleSignInAccount acct = GoogleSignIn.getLastSignedInAccount(PostDetailActivity.this);
 
         hashMap.put("cId", timeStamp);
         hashMap.put("comment", comment);
         hashMap.put("timestamp", timeStamp);
-        hashMap.put("uid", myUid);
-        hashMap.put("uEmail", myEmail);
+        hashMap.put("uid", acct.getId());
+        hashMap.put("uEmail",  acct.getEmail());
         hashMap.put("uDp", myDp);
-        hashMap.put("uName", myName);
+        hashMap.put("uName", acct.getDisplayName());
 
         //put this data in database
         ref.child(timeStamp).setValue(hashMap).addOnSuccessListener(new OnSuccessListener<Void>() {
@@ -348,10 +351,11 @@ public class PostDetailActivity extends AppCompatActivity {
 
     private void checkUserStatus(){
         FirebaseUser user = FirebaseAuth.getInstance().getCurrentUser();
+        GoogleSignInAccount acct = GoogleSignIn.getLastSignedInAccount(PostDetailActivity.this);
         if (user != null){
             //user is signed in
-            myEmail = user.getEmail();
-            myUid = user.getUid();
+            myEmail = acct.getEmail();
+            myUid = acct.getDisplayName();
         }
         else{
             //user not signed in, go to main activity
