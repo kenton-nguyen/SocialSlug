@@ -42,6 +42,7 @@ public class AdapterPosts extends RecyclerView.Adapter<AdapterPosts.MyHolder> {
     FirebaseAuth mAuth;
     private DatabaseReference likesRef;
     private DatabaseReference postsRef;
+    PostDetailActivity testing;
 
     public AdapterPosts(Context context, List<ModelPost> postList) {
         this.context = context;
@@ -73,6 +74,7 @@ public class AdapterPosts extends RecyclerView.Adapter<AdapterPosts.MyHolder> {
         String uDp = postList.get(position).getuDp();
         String pTimeStamp = postList.get(position).getpTime();
         String pLikes = postList.get(position).getpLikes();
+        String pComments = postList.get(position).getpComments();
 
         setLikes(myHolder, pId, uid);
         
@@ -88,6 +90,8 @@ public class AdapterPosts extends RecyclerView.Adapter<AdapterPosts.MyHolder> {
         myHolder.pTitleTv.setText(pTitle);
         myHolder.pDescriptionTv.setText(pDescription);
         myHolder.pLikesTv.setText(pLikes + " Likes");
+        myHolder.pCommentsTv.setText(pComments + " Comments");
+
         //set user dp
         //need to fix user PICTuRE
         try {
@@ -151,15 +155,8 @@ public class AdapterPosts extends RecyclerView.Adapter<AdapterPosts.MyHolder> {
                 //Toast.makeText(context, "Comment", Toast.LENGTH_SHORT).show();
                 // start PostDetailActivity
                 Intent intent = new Intent(context, PostDetailActivity.class);
-                intent.putExtra("postId", pId);
+                Intent postId = intent.putExtra("postId", pId);
                 context.startActivity(intent);
-            }
-        });
-
-        myHolder.shareBtn.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick (View v) {
-                Toast.makeText(context, "Share", Toast.LENGTH_SHORT).show();
             }
         });
 
@@ -204,6 +201,7 @@ public class AdapterPosts extends RecyclerView.Adapter<AdapterPosts.MyHolder> {
         TextView pTitleTv;
         TextView pDescriptionTv;
         TextView pLikesTv;
+        TextView pCommentsTv;
         ImageButton moreBtn;
         Button likeBtn, commentBtn, shareBtn;
 
@@ -217,10 +215,11 @@ public class AdapterPosts extends RecyclerView.Adapter<AdapterPosts.MyHolder> {
             pTitleTv = itemView.findViewById(R.id.pTitleTv);
             pDescriptionTv = itemView.findViewById(R.id.pDescriptionTv);
             pLikesTv = itemView.findViewById(R.id.pLikesTv);
+            pCommentsTv = itemView.findViewById(R.id.pCommentsTv);
             moreBtn = itemView.findViewById(R.id.moreBtn);
             likeBtn = itemView.findViewById(R.id.likeBtn);
             commentBtn = itemView.findViewById(R.id.commentBtn);
-            shareBtn = itemView.findViewById(R.id.shareBtn);
+
         }
     }
 }

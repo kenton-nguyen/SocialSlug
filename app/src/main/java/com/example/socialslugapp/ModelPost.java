@@ -19,13 +19,14 @@ public class ModelPost{
     String uname;
     String uDp;
     String pLikes;
+    String pComments;
 
 
     public ModelPost(){
 
     }
 
-    public ModelPost(String pDescr, String pId, String pImage, String pTime, String pTitle, String uEmail, String uid, String uname, String uDp, String pLikes) {
+    public ModelPost(String pDescr, String pId, String pImage, String pTime, String pTitle, String uEmail, String uid, String uname, String uDp, String pLikes, String pComments) {
         this.pDescr = pDescr;
         this.pId = pId;
         this.pImage = pImage;
@@ -36,6 +37,7 @@ public class ModelPost{
         this.uname = uname;
         this.uDp = uDp;
         this.pLikes = pLikes;
+        this.pComments = pComments;
     }
 
     public String getpDescr() {
@@ -116,5 +118,13 @@ public class ModelPost{
 
     public void setpLikes(String pLikes) {
         this.pLikes = pLikes;
+    }
+
+    public String getpComments() {
+        return pComments;
+    }
+
+    public void setpComments(String pComments) {
+        this.pComments = pComments;
     }
 }

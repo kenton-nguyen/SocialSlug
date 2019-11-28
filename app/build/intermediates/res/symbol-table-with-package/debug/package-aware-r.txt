@@ -653,6 +653,7 @@ color background_floating_material_dark
 color background_floating_material_light
 color background_material_dark
 color background_material_light
+color black
 color bright_foreground_disabled_material_dark
 color bright_foreground_disabled_material_light
 color bright_foreground_inverse_material_dark
@@ -1164,6 +1165,7 @@ drawable googleg_disabled_color_18
 drawable googleg_standard_color_18
 drawable ic_add_icon
 drawable ic_comment_black
+drawable ic_comments
 drawable ic_launcher_background
 drawable ic_launcher_foreground
 drawable ic_like_black
@@ -1191,6 +1193,7 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
+drawable sendbutton
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
 font fonts
@@ -1270,6 +1273,7 @@ id always
 id anonymous_button
 id async
 id auto
+id avatarIv
 id barrier
 id beginning
 id blocking
@@ -1287,6 +1291,7 @@ id button_done
 id button_next
 id button_resend_email
 id button_sign_in
+id cAvatarIv
 id cancel_action
 id center
 id center_horizontal
@@ -1300,6 +1305,9 @@ id clip_horizontal
 id clip_vertical
 id collapseActionView
 id commentBtn
+id commentEt
+id commentTv
+id commentsLayout
 id confirmation_code
 id confirmation_code_layout
 id container
@@ -1391,6 +1399,7 @@ id mtrl_child_content_container
 id mtrl_internal_children_alpha_tag
 id multiply
 id name
+id nameTv
 id name_layout
 id navigation_header_container
 id never
@@ -1402,6 +1411,7 @@ id notification_main_column_container
 id off
 id on
 id outline
+id pCommentsTv
 id pDescriptionTv
 id pImageIv
 id pLikesTv
@@ -1421,9 +1431,11 @@ id phone_number
 id photo
 id pin
 id postsRecyclerview
+id profileLayout
 id progress_circular
 id progress_horizontal
 id radio
+id recyclerView
 id resend_barrier
 id resend_code
 id right
@@ -1451,9 +1463,9 @@ id search_src_text
 id search_voice_btn
 id select_dialog_listview
 id selected
+id sendBtn
 id send_code
 id send_sms_tos
-id shareBtn
 id shortcut
 id showCustom
 id showHome
@@ -1501,6 +1513,7 @@ id textinput_error
 id textinput_helper_text
 id ticker
 id time
+id timeTv
 id title
 id titleDividerNoCustom
 id title_template
@@ -1593,6 +1606,7 @@ layout abc_tooltip
 layout activity_add_post
 layout activity_main
 layout activity_main_menu
+layout activity_post_detail
 layout browser_actions_context_menu_page
 layout browser_actions_context_menu_row
 layout custom_dialog
@@ -1651,6 +1665,7 @@ layout notification_template_media
 layout notification_template_media_custom
 layout notification_template_part_chronometer
 layout notification_template_part_time
+layout row_comments
 layout row_posts
 layout select_dialog_item_material
 layout select_dialog_multichoice_material
