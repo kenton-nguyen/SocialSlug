@@ -154,7 +154,7 @@ public class AddPost extends AppCompatActivity {
 
     }
 
-
+// issue when pressing like, the feed jumps back to the top of the feed
     private void uploadData (final String s_title, final String s_description, String uri){
         final String timestamp = String.valueOf(System.currentTimeMillis());
 

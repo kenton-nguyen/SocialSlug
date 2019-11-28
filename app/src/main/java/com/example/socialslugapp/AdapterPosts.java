@@ -5,6 +5,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.RecyclerView;
 
 import android.content.Context;
+import android.content.Intent;
 import android.os.Bundle;
 import android.text.format.DateFormat;
 import android.view.LayoutInflater;
@@ -65,7 +66,7 @@ public class AdapterPosts extends RecyclerView.Adapter<AdapterPosts.MyHolder> {
         final String uid = postList.get(position).getUid();
         String uEmail = postList.get(position).getuEmail();
         String uName = postList.get(position).getUname();
-        String pId = postList.get(position).getpId();
+        final String pId = postList.get(position).getpId();
         String pTitle = postList.get(position).getpTitle();
         String pDescription = postList.get(position).getpDescr();
         String pImage = postList.get(position).getpImage();
@@ -147,7 +148,11 @@ public class AdapterPosts extends RecyclerView.Adapter<AdapterPosts.MyHolder> {
         myHolder.commentBtn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick (View v) {
-                Toast.makeText(context, "Comment", Toast.LENGTH_SHORT).show();
+                //Toast.makeText(context, "Comment", Toast.LENGTH_SHORT).show();
+                // start PostDetailActivity
+                Intent intent = new Intent(context, PostDetailActivity.class);
+                intent.putExtra("postId", pId);
+                context.startActivity(intent);
             }
         });
 
