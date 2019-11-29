@@ -37,6 +37,13 @@ public class MainMenu extends AppCompatActivity {
 
     }
 
+    @Override
+    public void onBackPressed() {
+        Intent intent = new Intent(MainMenu.this, UserProfile.class);
+        startActivity(intent);
+        finish();
+    }
+
     public void viewAddPost (View view){
         Intent intent = new Intent(this, AddPost.class);
         startActivity(intent);
