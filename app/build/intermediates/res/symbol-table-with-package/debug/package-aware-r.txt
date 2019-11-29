@@ -1173,6 +1173,7 @@ drawable ic_more_black
 drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
+drawable ic_send
 drawable ic_share_black
 drawable ic_thumb_up
 drawable ic_thumb_up_2
@@ -1394,7 +1395,6 @@ id media_actions
 id message
 id middle
 id mini
-id moreBtn
 id mtrl_child_content_container
 id mtrl_internal_children_alpha_tag
 id multiply

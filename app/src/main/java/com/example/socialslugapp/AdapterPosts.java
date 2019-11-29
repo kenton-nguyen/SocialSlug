@@ -83,7 +83,6 @@ public class AdapterPosts extends RecyclerView.Adapter<AdapterPosts.MyHolder> {
         Calendar calendar = Calendar.getInstance(Locale.getDefault());
         calendar.setTimeInMillis(Long.parseLong(pTimeStamp));
         String pTime = DateFormat.format("dd/MM/yyyy hh:mm aa", calendar).toString();
-
         //set data
         myHolder.uNameTv.setText(uName);
         myHolder.pTimeTv.setText(pTime);
@@ -112,12 +111,12 @@ public class AdapterPosts extends RecyclerView.Adapter<AdapterPosts.MyHolder> {
         }
 
         //handle button clicks
-        myHolder.moreBtn.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick (View v) {
-                Toast.makeText(context, "More", Toast.LENGTH_SHORT).show();
-            }
-        });
+//        myHolder.moreBtn.setOnClickListener(new View.OnClickListener() {
+//            @Override
+//            public void onClick (View v) {
+//                Toast.makeText(context, "More", Toast.LENGTH_SHORT).show();
+//            }
+//        });
 
         myHolder.likeBtn.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -216,7 +215,6 @@ public class AdapterPosts extends RecyclerView.Adapter<AdapterPosts.MyHolder> {
             pDescriptionTv = itemView.findViewById(R.id.pDescriptionTv);
             pLikesTv = itemView.findViewById(R.id.pLikesTv);
             pCommentsTv = itemView.findViewById(R.id.pCommentsTv);
-            moreBtn = itemView.findViewById(R.id.moreBtn);
             likeBtn = itemView.findViewById(R.id.likeBtn);
             commentBtn = itemView.findViewById(R.id.commentBtn);
 

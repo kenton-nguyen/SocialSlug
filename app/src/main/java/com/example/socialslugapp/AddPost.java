@@ -276,7 +276,6 @@ public class AddPost extends AppCompatActivity {
     private void showImagePickDialog(){
         String [] options = {"Camera", "Gallery"};
 
-
         AlertDialog.Builder builder = new AlertDialog.Builder(this);
         builder.setTitle("Choose Image From");
 

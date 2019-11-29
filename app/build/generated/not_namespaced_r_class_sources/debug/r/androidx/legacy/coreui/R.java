@@ -71,18 +71,18 @@ public final class R {
     public static final class drawable {
         private drawable() {}
 
-        public static final int notification_action_background = 0x7f0700a7;
-        public static final int notification_bg = 0x7f0700a8;
-        public static final int notification_bg_low = 0x7f0700a9;
-        public static final int notification_bg_low_normal = 0x7f0700aa;
-        public static final int notification_bg_low_pressed = 0x7f0700ab;
-        public static final int notification_bg_normal = 0x7f0700ac;
-        public static final int notification_bg_normal_pressed = 0x7f0700ad;
-        public static final int notification_icon_background = 0x7f0700ae;
-        public static final int notification_template_icon_bg = 0x7f0700af;
-        public static final int notification_template_icon_low_bg = 0x7f0700b0;
-        public static final int notification_tile_bg = 0x7f0700b1;
-        public static final int notify_panel_notification_icon_bg = 0x7f0700b2;
+        public static final int notification_action_background = 0x7f0700a8;
+        public static final int notification_bg = 0x7f0700a9;
+        public static final int notification_bg_low = 0x7f0700aa;
+        public static final int notification_bg_low_normal = 0x7f0700ab;
+        public static final int notification_bg_low_pressed = 0x7f0700ac;
+        public static final int notification_bg_normal = 0x7f0700ad;
+        public static final int notification_bg_normal_pressed = 0x7f0700ae;
+        public static final int notification_icon_background = 0x7f0700af;
+        public static final int notification_template_icon_bg = 0x7f0700b0;
+        public static final int notification_template_icon_low_bg = 0x7f0700b1;
+        public static final int notification_tile_bg = 0x7f0700b2;
+        public static final int notify_panel_notification_icon_bg = 0x7f0700b3;
     }
     public static final class id {
         private id() {}
@@ -105,23 +105,23 @@ public final class R {
         public static final int left = 0x7f0900b5;
         public static final int line1 = 0x7f0900b8;
         public static final int line3 = 0x7f0900b9;
-        public static final int none = 0x7f0900cd;
-        public static final int normal = 0x7f0900ce;
-        public static final int notification_background = 0x7f0900cf;
-        public static final int notification_main_column = 0x7f0900d0;
-        public static final int notification_main_column_container = 0x7f0900d1;
-        public static final int right = 0x7f0900f0;
-        public static final int right_icon = 0x7f0900f1;
-        public static final int right_side = 0x7f0900f2;
-        public static final int start = 0x7f090121;
-        public static final int tag_transition_group = 0x7f09012d;
-        public static final int tag_unhandled_key_event_manager = 0x7f09012e;
-        public static final int tag_unhandled_key_listeners = 0x7f09012f;
-        public static final int text = 0x7f090130;
-        public static final int text2 = 0x7f090131;
-        public static final int time = 0x7f09013a;
-        public static final int title = 0x7f09013c;
-        public static final int top = 0x7f09013f;
+        public static final int none = 0x7f0900cc;
+        public static final int normal = 0x7f0900cd;
+        public static final int notification_background = 0x7f0900ce;
+        public static final int notification_main_column = 0x7f0900cf;
+        public static final int notification_main_column_container = 0x7f0900d0;
+        public static final int right = 0x7f0900ef;
+        public static final int right_icon = 0x7f0900f0;
+        public static final int right_side = 0x7f0900f1;
+        public static final int start = 0x7f090120;
+        public static final int tag_transition_group = 0x7f09012c;
+        public static final int tag_unhandled_key_event_manager = 0x7f09012d;
+        public static final int tag_unhandled_key_listeners = 0x7f09012e;
+        public static final int text = 0x7f09012f;
+        public static final int text2 = 0x7f090130;
+        public static final int time = 0x7f090139;
+        public static final int title = 0x7f09013b;
+        public static final int top = 0x7f09013e;
     }
     public static final class integer {
         private integer() {}

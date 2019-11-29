@@ -75,13 +75,6 @@
 
                         </LinearLayout>
 
-                        <ImageButton
-                            android:id="@+id/moreBtn"
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:background="@null"
-                            android:src="@drawable/ic_more_black" />
-
                     </LinearLayout>
 
                     <TextView
@@ -145,15 +138,6 @@
 
             </androidx.cardview.widget.CardView>
 
-            <TextView
-                android:text="Comments"
-                android:textColor="@color/black"
-                android:drawablePadding="5dp"
-                android:padding="2dp"
-                android:drawableStart="@drawable/ic_comment_black"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:drawableLeft="@drawable/ic_comment_black"/>
 
             <androidx.recyclerview.widget.RecyclerView
                 android:id="@+id/recyclerView"
@@ -196,7 +180,7 @@
             android:layout_height="wrap_content"
             android:id="@+id/sendBtn"
             android:layout_alignParentEnd="true"
-            android:src="@drawable/ic_comment_black"
+            android:src="@drawable/ic_send"
             android:background="@color/white"
             android:layout_alignParentRight="true"
             ></ImageButton>

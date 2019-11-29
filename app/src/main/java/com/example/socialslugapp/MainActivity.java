@@ -81,14 +81,13 @@ public class MainActivity extends AppCompatActivity {
         try {
             GoogleSignInAccount account = completedTask.getResult(ApiException.class);
             // Signed in successfully, show authenticated UI.
-            startActivity(new Intent(MainActivity.this, UserProfile.class));
+            startActivity(new Intent(MainActivity.this, MainMenu.class));
         } catch (ApiException e) {
             // The ApiException status code indicates the detailed failure reason.
             // Please refer to the GoogleSignInStatusCodes class reference for more information.
             Log.w("Google Sign In Error", "signInResult:failed code=" + e.getStatusCode());
             Toast.makeText(MainActivity.this, "Failed", Toast.LENGTH_LONG).show();
         }
-
     }
 
     @Override

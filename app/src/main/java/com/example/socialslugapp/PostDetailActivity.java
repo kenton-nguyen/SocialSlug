@@ -75,7 +75,7 @@ public class PostDetailActivity extends AppCompatActivity {
 
         // actionbar & its properties
         ActionBar actionBar = getSupportActionBar();
-        actionBar.setTitle("Post Detail");
+        actionBar.setTitle("COMMENTS");
         actionBar.setDisplayShowHomeEnabled(true);
         actionBar.setDisplayHomeAsUpEnabled(true);
 
@@ -92,7 +92,6 @@ public class PostDetailActivity extends AppCompatActivity {
         pCommentsTv = findViewById(R.id.pCommentsTv);
         pDescriptionTv = findViewById(R.id.pDescriptionTv);
         pLikesTv = findViewById(R.id.pLikesTv);
-        moreBtn = findViewById(R.id.moreBtn);
 //        likeBtn = findViewById(R.id.likeBtn);
 
         profileLayout = findViewById(R.id.profileLayout);
