@@ -43,13 +43,15 @@ public class AdapterPosts extends RecyclerView.Adapter<AdapterPosts.MyHolder> {
     private DatabaseReference likesRef;
     private DatabaseReference postsRef;
     PostDetailActivity testing;
+    String myUid;
 
     public AdapterPosts(Context context, List<ModelPost> postList) {
         this.context = context;
         this.postList = postList;
+        GoogleSignInAccount acct = GoogleSignIn.getLastSignedInAccount(context);
         likesRef = FirebaseDatabase.getInstance().getReference().child("Likes");
         postsRef = FirebaseDatabase.getInstance().getReference().child("Posts");
-
+        myUid = acct.getId();
     }
 
 
@@ -76,7 +78,7 @@ public class AdapterPosts extends RecyclerView.Adapter<AdapterPosts.MyHolder> {
         String pLikes = postList.get(position).getpLikes();
         String pComments = postList.get(position).getpComments();
 
-        setLikes(myHolder, pId, uid);
+        setLikes(myHolder, pId);
         
         
         //convert timestamp to dd/mm/yyyy hh:mm am/pm
@@ -121,6 +123,7 @@ public class AdapterPosts extends RecyclerView.Adapter<AdapterPosts.MyHolder> {
         myHolder.likeBtn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick (View v) {
+                String puid = postList.get(position).getUid();
                 final int pLikes = Integer.parseInt(postList.get(position).getpLikes());
                 mProcessLike = true;
                 final String postId = postList.get(position).getpId();
@@ -128,13 +131,13 @@ public class AdapterPosts extends RecyclerView.Adapter<AdapterPosts.MyHolder> {
                     @Override
                     public void onDataChange(@NonNull DataSnapshot dataSnapshot) {
                         if (mProcessLike){
-                            if (dataSnapshot.child(postId).hasChild(uid)){
+                            if (dataSnapshot.child(pId).hasChild(myUid)){
                                 postsRef.child(postId).child("pLikes").setValue(""+(pLikes - 1));
-                                likesRef.child(postId).child(uid).removeValue();
+                                likesRef.child(postId).child(myUid).removeValue();
                                 mProcessLike = false;
                             }else{
-                                postsRef.child(postId).child("pLikes").setValue(""+(pLikes+1));
-                                likesRef.child(postId).child(uid).setValue("Liked");
+                                postsRef.child(postId).child("pLikes").setValue(""+(pLikes + 1));
+                                likesRef.child(postId).child(myUid).setValue("Liked");
                                 mProcessLike = false;
                             }
                         }
@@ -162,18 +165,18 @@ public class AdapterPosts extends RecyclerView.Adapter<AdapterPosts.MyHolder> {
 
     }
 
-    private void setLikes(final MyHolder holder,  final String postKey, final String myUid) {
+    private void setLikes(final MyHolder holder,  final String postKey) {
         likesRef.addValueEventListener(new ValueEventListener() {
             @Override
             public void onDataChange(@NonNull DataSnapshot dataSnapshot) {
                 if (dataSnapshot.child(postKey).hasChild(myUid)){
                     holder.likeBtn.setCompoundDrawablesWithIntrinsicBounds(R.drawable.ic_thumb_up, 0, 0, 0);
-                    holder.likeBtn.setText("Liked");
+                    holder.likeBtn.setText("Like");
 
                 }
                 else{
                     holder.likeBtn.setCompoundDrawablesWithIntrinsicBounds(R.drawable.ic_thumb_up_2, 0, 0, 0);
-                    holder.likeBtn.setText("Liked");
+                    holder.likeBtn.setText("Like");
                 }
             }
 

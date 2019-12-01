@@ -105,7 +105,6 @@ public class PostDetailActivity extends AppCompatActivity {
 //        checkUserStatus();
 
         GoogleSignInAccount acct = GoogleSignIn.getLastSignedInAccount(PostDetailActivity.this);
-//        setLikes();
 
         //set subtitle of actionbar
         actionBar.setSubtitle("Signed In as: "+ acct.getEmail());
