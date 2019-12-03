@@ -20,7 +20,6 @@ public class MainMenu extends AppCompatActivity {
     Button addPost;
     Button viewPost;
 
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -54,8 +53,6 @@ public class MainMenu extends AppCompatActivity {
         Intent intent = new Intent(MainMenu.this, DisplayPosts.class);
         startActivity(intent);
     }
-
-
 
 
 }

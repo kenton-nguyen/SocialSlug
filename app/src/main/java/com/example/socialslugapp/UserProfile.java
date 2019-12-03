@@ -51,11 +51,8 @@ public class UserProfile extends AppCompatActivity {
         GoogleSignInAccount acct = GoogleSignIn.getLastSignedInAccount(UserProfile.this);
         if (acct != null) {
             String personName = acct.getDisplayName();
-            String personGivenName = acct.getGivenName();
-            String personFamilyName = acct.getFamilyName();
             String personEmail = acct.getEmail();
             String personId = acct.getId();
-            Uri personPhoto = acct.getPhotoUrl();
 
             nameTV.setText("Name: "+personName);
             emailTV.setText("Email: "+personEmail);
@@ -70,8 +67,6 @@ public class UserProfile extends AppCompatActivity {
             }
         });
     }
-
-
     private void signOut() {
         mGoogleSignInClient.signOut()
                 .addOnCompleteListener(this, new OnCompleteListener<Void>() {

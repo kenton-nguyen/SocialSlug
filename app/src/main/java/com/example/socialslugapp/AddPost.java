@@ -52,7 +52,6 @@ import java.util.HashMap;
 
 public class AddPost extends AppCompatActivity {
     ActionBar actionbar;
-    FirebaseAuth firebaseAuth;
     DatabaseReference userDB;
 
     EditText title, description;
@@ -72,7 +71,7 @@ public class AddPost extends AppCompatActivity {
     String [] storagePermissions;
 
     //user info
-    String name, email, uid, dp;
+    String name, email, dp;
 
 
 
@@ -94,7 +93,6 @@ public class AddPost extends AppCompatActivity {
 
 
         actionbar.setSubtitle(email);
-//        checkUserStatus();
 
         userDB = FirebaseDatabase.getInstance().getReference("Users");
         Query query =  userDB.orderByChild("email").equalTo(email);
@@ -214,10 +212,7 @@ public class AddPost extends AppCompatActivity {
                                             Toast.makeText(AddPost.this, "Failed adding into the database", Toast.LENGTH_SHORT).show();
                                         }
                                     });
-
-
                             }
-
                         }
                     })
                     .addOnFailureListener(new OnFailureListener() {
@@ -227,8 +222,6 @@ public class AddPost extends AppCompatActivity {
                             Toast.makeText(AddPost.this, "Failed uploading image", Toast.LENGTH_SHORT).show();
                         }
                     });
-
-
         }
         else{
             GoogleSignInAccount acct = GoogleSignIn.getLastSignedInAccount(AddPost.this);
@@ -236,7 +229,6 @@ public class AddPost extends AppCompatActivity {
             hashMap.put("uid", acct.getId());
             hashMap.put("uname", acct.getDisplayName());
             hashMap.put("uEmail",acct.getEmail());
-//          hashMap.put("uDp", acct.getPhotoUrl());
             hashMap.put("pLikes", "0");
             hashMap.put("pComments", "0");
             hashMap.put("pId", timestamp);
@@ -326,32 +318,6 @@ public class AddPost extends AppCompatActivity {
         ActivityCompat.requestPermissions(this, cameraPermissions, CAMERA_REQUEST_CODE);
     }
 
-//
-//    @Override
-//    protected void onStart() {
-//        super.onStart();
-//        checkUserStatus();
-//    }
-//
-//    @Override
-//    protected void onResume(){
-//        super.onResume();
-//        checkUserStatus();
-//    }
-//
-//    private void checkUserStatus () {
-//        FirebaseUser user = firebaseAuth.getCurrentUser();
-//        if (user != null) { // if they are logged in then ...
-//            email = user.getEmail();
-//            uid = user.getUid();
-//        }else {
-//            startActivity(new Intent(this, AddPost.class)); // if user is not logged in then direct them to MainMenu for now....
-//            finish();
-//        }
-//    }
-
-
-
     @Override
     public boolean onSupportNavigateUp(){
         onBackPressed(); // return back to the previous activity
@@ -417,8 +383,6 @@ public class AddPost extends AppCompatActivity {
             if (requestCode == IMAGE_PICK_GALLERY_CODE) {
                 //image is picked from gallery
                 image_rui = data.getData();
-
-
                 //set to imageView
                 imageView.setImageURI(image_rui);
             } else if (requestCode == IMAGE_PICK_CAMERA_CODE) {

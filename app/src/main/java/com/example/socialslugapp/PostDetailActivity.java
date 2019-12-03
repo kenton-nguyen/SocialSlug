@@ -55,7 +55,7 @@ public class PostDetailActivity extends AppCompatActivity {
     // views
     ImageView uPictureIv, pImageIv;
     TextView unameTv, pTimeTiv, pTitleTv, pDescriptionTv, pLikesTv, pCommentsTv;
-    ImageButton moreBtn;
+//    ImageButton moreBtn;
     Button likeBtn, shareBtn;
     LinearLayout profileLayout;
     RecyclerView recyclerView;
@@ -92,8 +92,7 @@ public class PostDetailActivity extends AppCompatActivity {
         pCommentsTv = findViewById(R.id.pCommentsTv);
         pDescriptionTv = findViewById(R.id.pDescriptionTv);
         pLikesTv = findViewById(R.id.pLikesTv);
-//        likeBtn = findViewById(R.id.likeBtn);
-
+//        moreBtn = findViewById(R.id.moreBtn);
         profileLayout = findViewById(R.id.profileLayout);
         recyclerView = findViewById(R.id.recyclerView);
 
@@ -102,7 +101,6 @@ public class PostDetailActivity extends AppCompatActivity {
         cAvatarIv = findViewById(R.id.cAvatarIv);
 
         loadPostInfo();
-//        checkUserStatus();
 
         GoogleSignInAccount acct = GoogleSignIn.getLastSignedInAccount(PostDetailActivity.this);
 
@@ -118,15 +116,6 @@ public class PostDetailActivity extends AppCompatActivity {
                 postComment();
             }
         });
-        //like button click handle
-//        likeBtn.setOnClickListener(new View.OnClickListener(){
-//            @Override
-//            public void onClick(View v){
-//                likePost();
-//            }
-//        });
-
-
     }
 
     public void loadComments(){
@@ -152,10 +141,7 @@ public class PostDetailActivity extends AppCompatActivity {
 
             }
         });
-
-
     }
-
 
     private void setLikes(){
         final DatabaseReference likesRef = FirebaseDatabase.getInstance().getReference().child("Likes");
@@ -261,7 +247,6 @@ public class PostDetailActivity extends AppCompatActivity {
 
     }
 
-
     private void updateCommentCount(){
         //increase comment count
         mProcessComment = true;
@@ -339,31 +324,10 @@ public class PostDetailActivity extends AppCompatActivity {
 
                 }
             }
-
             @Override
             public void onCancelled(@NonNull DatabaseError databaseError) {
 
             }
         });
-    }
-
-    private void checkUserStatus(){
-        FirebaseUser user = FirebaseAuth.getInstance().getCurrentUser();
-        GoogleSignInAccount acct = GoogleSignIn.getLastSignedInAccount(PostDetailActivity.this);
-        if (user != null){
-            //user is signed in
-            myEmail = acct.getEmail();
-            myUid = acct.getDisplayName();
-        }
-        else{
-            //user not signed in, go to main activity
-            startActivity(new Intent (this, MainActivity.class));
-            finish();
-        }
-    }
-    @Override
-    public boolean onSupportNavigateUp(){
-        onBackPressed();
-        return super.onSupportNavigateUp();
     }
 }
