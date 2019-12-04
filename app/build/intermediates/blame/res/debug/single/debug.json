@@ -8,12 +8,12 @@
         "source": "C:\\Users\\Kenton\\.gradle\\caches\\transforms-2\\files-2.1\\56b6cdfbd80af409835a31a4470c49f0\\core-1.1.0\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
     },
     {
-        "merged": "C:\\Users\\Kenton\\AndroidStudioProjects\\SocialSlugApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_custom.xml.flat",
-        "source": "C:\\Users\\Kenton\\.gradle\\caches\\transforms-2\\files-2.1\\f73554407891e5f42b5a27997e9f0ce3\\media-1.0.0\\res\\layout\\notification_template_big_media_custom.xml"
-    },
-    {
         "merged": "C:\\Users\\Kenton\\AndroidStudioProjects\\SocialSlugApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_longpressed_holo.9.png.flat",
         "source": "C:\\Users\\Kenton\\.gradle\\caches\\transforms-2\\files-2.1\\f8ccfb448ba3545203b2c9319e236e39\\appcompat-1.1.0\\res\\drawable-mdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Kenton\\AndroidStudioProjects\\SocialSlugApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_custom.xml.flat",
+        "source": "C:\\Users\\Kenton\\.gradle\\caches\\transforms-2\\files-2.1\\f73554407891e5f42b5a27997e9f0ce3\\media-1.0.0\\res\\layout\\notification_template_big_media_custom.xml"
     },
     {
         "merged": "C:\\Users\\Kenton\\AndroidStudioProjects\\SocialSlugApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_default_img.png.flat",
@@ -36,12 +36,12 @@
         "source": "C:\\Users\\Kenton\\AndroidStudioProjects\\SocialSlugApp\\app\\src\\main\\res\\menu\\menu_main.xml"
     },
     {
-        "merged": "C:\\Users\\Kenton\\AndroidStudioProjects\\SocialSlugApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_longpressed_holo.9.png.flat",
-        "source": "C:\\Users\\Kenton\\.gradle\\caches\\transforms-2\\files-2.1\\f8ccfb448ba3545203b2c9319e236e39\\appcompat-1.1.0\\res\\drawable-xxhdpi-v4\\abc_list_longpressed_holo.9.png"
-    },
-    {
         "merged": "C:\\Users\\Kenton\\AndroidStudioProjects\\SocialSlugApp\\app\\build\\intermediates\\res\\merged\\debug\\color_switch_thumb_material_dark.xml.flat",
         "source": "C:\\Users\\Kenton\\.gradle\\caches\\transforms-2\\files-2.1\\f8ccfb448ba3545203b2c9319e236e39\\appcompat-1.1.0\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kenton\\AndroidStudioProjects\\SocialSlugApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_longpressed_holo.9.png.flat",
+        "source": "C:\\Users\\Kenton\\.gradle\\caches\\transforms-2\\files-2.1\\f8ccfb448ba3545203b2c9319e236e39\\appcompat-1.1.0\\res\\drawable-xxhdpi-v4\\abc_list_longpressed_holo.9.png"
     },
     {
         "merged": "C:\\Users\\Kenton\\AndroidStudioProjects\\SocialSlugApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
@@ -76,12 +76,12 @@
         "source": "C:\\Users\\Kenton\\.gradle\\caches\\transforms-2\\files-2.1\\e32881a030a5fe2274b9633370fc0429\\jetified-firebase-ui-auth-4.3.1\\res\\layout\\fui_idp_button_facebook.xml"
     },
     {
-        "merged": "C:\\Users\\Kenton\\AndroidStudioProjects\\SocialSlugApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_item_separator.xml.flat",
-        "source": "C:\\Users\\Kenton\\.gradle\\caches\\transforms-2\\files-2.1\\3df2fd68af0236fb7b1a24eeed8b503b\\material-1.0.0\\res\\layout\\design_navigation_item_separator.xml"
-    },
-    {
         "merged": "C:\\Users\\Kenton\\AndroidStudioProjects\\SocialSlugApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_comments.xml.flat",
         "source": "C:\\Users\\Kenton\\AndroidStudioProjects\\SocialSlugApp\\app\\src\\main\\res\\layout\\row_comments.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kenton\\AndroidStudioProjects\\SocialSlugApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_item_separator.xml.flat",
+        "source": "C:\\Users\\Kenton\\.gradle\\caches\\transforms-2\\files-2.1\\3df2fd68af0236fb7b1a24eeed8b503b\\material-1.0.0\\res\\layout\\design_navigation_item_separator.xml"
     },
     {
         "merged": "C:\\Users\\Kenton\\AndroidStudioProjects\\SocialSlugApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
@@ -184,12 +184,12 @@
         "source": "C:\\Users\\Kenton\\.gradle\\caches\\transforms-2\\files-2.1\\f8ccfb448ba3545203b2c9319e236e39\\appcompat-1.1.0\\res\\color\\abc_background_cache_hint_selector_material_dark.xml"
     },
     {
-        "merged": "C:\\Users\\Kenton\\AndroidStudioProjects\\SocialSlugApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_popup_menu_item_layout.xml.flat",
-        "source": "C:\\Users\\Kenton\\.gradle\\caches\\transforms-2\\files-2.1\\f8ccfb448ba3545203b2c9319e236e39\\appcompat-1.1.0\\res\\layout\\abc_popup_menu_item_layout.xml"
-    },
-    {
         "merged": "C:\\Users\\Kenton\\AndroidStudioProjects\\SocialSlugApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\Kenton\\.gradle\\caches\\transforms-2\\files-2.1\\f8ccfb448ba3545203b2c9319e236e39\\appcompat-1.1.0\\res\\drawable-xxhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Kenton\\AndroidStudioProjects\\SocialSlugApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_popup_menu_item_layout.xml.flat",
+        "source": "C:\\Users\\Kenton\\.gradle\\caches\\transforms-2\\files-2.1\\f8ccfb448ba3545203b2c9319e236e39\\appcompat-1.1.0\\res\\layout\\abc_popup_menu_item_layout.xml"
     },
     {
         "merged": "C:\\Users\\Kenton\\AndroidStudioProjects\\SocialSlugApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_checkbox_unchecked_mtrl.xml.flat",

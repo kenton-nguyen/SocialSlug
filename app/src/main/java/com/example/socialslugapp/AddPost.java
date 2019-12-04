@@ -168,12 +168,12 @@ public class AddPost extends AppCompatActivity {
             }
         });
 
-//        imageView.setOnClickListener(new View.OnClickListener() {
-//            @Override
-//            public void onClick(View v) {
-//                showImagePickDialog();
-//            }
-//        });
+        imageView.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                showImagePickDialog();
+            }
+        });
 
     }
 
