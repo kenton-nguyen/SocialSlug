@@ -93,7 +93,7 @@ public class AdapterPosts extends RecyclerView.Adapter<AdapterPosts.MyHolder> {
         //convert timestamp to dd/mm/yyyy hh:mm am/pm
         Calendar calendar = Calendar.getInstance(Locale.getDefault());
         calendar.setTimeInMillis(Long.parseLong(pTimeStamp));
-        String pTime = DateFormat.format("dd/MM/yyyy hh:mm aa", calendar).toString();
+        String pTime = DateFormat.format("MM/dd/yyyy hh:mm aa", calendar).toString();
 
         //set data
         myHolder.uNameTv.setText(uName);
@@ -175,6 +175,7 @@ public class AdapterPosts extends RecyclerView.Adapter<AdapterPosts.MyHolder> {
 
         if (uid.equals(myUid)){
             popupMenu.getMenu().add(Menu.NONE, 0, 0, "Delete");
+            popupMenu.getMenu().add(Menu.NONE, 1, 0, "Edit");
         }
 
 
@@ -186,6 +187,11 @@ public class AdapterPosts extends RecyclerView.Adapter<AdapterPosts.MyHolder> {
                 if (id ==0){
                     //delete is clicked
                     startDelete(pId, pImage);
+                }else if(id == 1){ // edit option clicked
+                    Intent intent = new Intent(context, AddPost.class);
+                    intent.putExtra("key", "editPost");
+                    intent.putExtra("editPostId", pId);
+                    context.startActivity(intent);
                 }
                 return false;
             }

@@ -291,7 +291,7 @@ public class PostDetailActivity extends AppCompatActivity {
                     // convert timestamp to proper format
                     Calendar calendar = Calendar.getInstance(Locale.getDefault());
                     calendar.setTimeInMillis(Long.parseLong(pTimeStamp));
-                    String pTime = DateFormat.format("dd/MM/yyyy hh:mm aa", calendar).toString();
+                    String pTime = DateFormat.format("MM/dd/yyyy hh:mm aa", calendar).toString();
 
                     // set data
                     pTitleTv.setText(pTitle);

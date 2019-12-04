@@ -1,27 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-uk/values-uk.xml",
+            "outputFile": "C:\\Users\\Kenton\\AndroidStudioProjects\\SocialSlugApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-uk\\values-uk.xml",
             "map": [
                 {
-                    "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/0ed78d9ab94c4cc566ede8d514bf0803/jetified-play-services-basement-17.0.0/res/values-uk/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "247",
-                        "endColumns": "204",
-                        "endOffsets": "451"
-                    },
-                    "to": {
-                        "startLines": "38",
-                        "startColumns": "4",
-                        "startOffsets": "4517",
-                        "endColumns": "204",
-                        "endOffsets": "4717"
-                    }
-                },
-                {
-                    "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/33cedfec4527fa472984c01b8a522a5b/jetified-firebase-messaging-20.0.0/res/values-uk/values.xml",
+                    "source": "C:\\Users\\Kenton\\.gradle\\caches\\transforms-2\\files-2.1\\08a16498242282f2c3c3495ebb939a9c\\jetified-firebase-messaging-20.0.0\\res\\values-uk\\values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -38,24 +21,24 @@
                     }
                 },
                 {
-                    "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/f8ccfb448ba3545203b2c9319e236e39/appcompat-1.1.0/res/values-uk/values-uk.xml",
+                    "source": "C:\\Users\\Kenton\\.gradle\\caches\\transforms-2\\files-2.1\\56b6cdfbd80af409835a31a4470c49f0\\core-1.1.0\\res\\values-uk\\values-uk.xml",
                     "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,214,316,424,510,615,733,814,894,985,1077,1172,1266,1367,1460,1555,1650,1741,1832,1930,2036,2142,2240,2347,2454,2559,2729,2829",
-                        "endColumns": "108,101,107,85,104,117,80,79,90,91,94,93,100,92,94,94,90,90,97,105,105,97,106,106,104,169,99,80",
-                        "endOffsets": "209,311,419,505,610,728,809,889,980,1072,1167,1261,1362,1455,1550,1645,1736,1827,1925,2031,2137,2235,2342,2449,2554,2724,2824,2905"
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
                     },
                     "to": {
-                        "startLines": "3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,135",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "624,733,835,943,1029,1134,1252,1333,1413,1504,1596,1691,1785,1886,1979,2074,2169,2260,2351,2449,2555,2661,2759,2866,2973,3078,3248,14705",
-                        "endColumns": "108,101,107,85,104,117,80,79,90,91,94,93,100,92,94,94,90,90,97,105,105,97,106,106,104,169,99,80",
-                        "endOffsets": "728,830,938,1024,1129,1247,1328,1408,1499,1591,1686,1780,1881,1974,2069,2164,2255,2346,2444,2550,2656,2754,2861,2968,3073,3243,3343,14781"
+                        "startLines": "136",
+                        "startColumns": "4",
+                        "startOffsets": "14786",
+                        "endColumns": "100",
+                        "endOffsets": "14882"
                     }
                 },
                 {
-                    "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/c6ed24259e187418524151309c91ad64/play-services-base-17.1.0/res/values-uk/values.xml",
+                    "source": "C:\\Users\\Kenton\\.gradle\\caches\\transforms-2\\files-2.1\\c6ed24259e187418524151309c91ad64\\play-services-base-17.1.0\\res\\values-uk\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -72,7 +55,24 @@
                     }
                 },
                 {
-                    "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/eed87e4dcfbcde902e796102c3d722f2/jetified-firebase-ui-auth-4.3.1/res/values-uk/values-uk.xml",
+                    "source": "C:\\Users\\Kenton\\.gradle\\caches\\transforms-2\\files-2.1\\f8ccfb448ba3545203b2c9319e236e39\\appcompat-1.1.0\\res\\values-uk\\values-uk.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,214,316,424,510,615,733,814,894,985,1077,1172,1266,1367,1460,1555,1650,1741,1832,1930,2036,2142,2240,2347,2454,2559,2729,2829",
+                        "endColumns": "108,101,107,85,104,117,80,79,90,91,94,93,100,92,94,94,90,90,97,105,105,97,106,106,104,169,99,80",
+                        "endOffsets": "209,311,419,505,610,728,809,889,980,1072,1167,1261,1362,1455,1550,1645,1736,1827,1925,2031,2137,2235,2342,2449,2554,2724,2824,2905"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,135",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "624,733,835,943,1029,1134,1252,1333,1413,1504,1596,1691,1785,1886,1979,2074,2169,2260,2351,2449,2555,2661,2759,2866,2973,3078,3248,14705",
+                        "endColumns": "108,101,107,85,104,117,80,79,90,91,94,93,100,92,94,94,90,90,97,105,105,97,106,106,104,169,99,80",
+                        "endOffsets": "728,830,938,1024,1129,1247,1328,1408,1499,1591,1686,1780,1881,1974,2069,2164,2255,2346,2444,2550,2656,2754,2861,2968,3073,3243,3343,14781"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Kenton\\.gradle\\caches\\transforms-2\\files-2.1\\e32881a030a5fe2274b9633370fc0429\\jetified-firebase-ui-auth-4.3.1\\res\\values-uk\\values-uk.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -89,20 +89,20 @@
                     }
                 },
                 {
-                    "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/56b6cdfbd80af409835a31a4470c49f0/core-1.1.0/res/values-uk/values-uk.xml",
+                    "source": "C:\\Users\\Kenton\\.gradle\\caches\\transforms-2\\files-2.1\\a04d6026fdfb35d992c6ffcd1742d1cc\\jetified-play-services-basement-17.0.0\\res\\values-uk\\values.xml",
                     "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "204",
+                        "endOffsets": "451"
                     },
                     "to": {
-                        "startLines": "136",
+                        "startLines": "38",
                         "startColumns": "4",
-                        "startOffsets": "14786",
-                        "endColumns": "100",
-                        "endOffsets": "14882"
+                        "startOffsets": "4517",
+                        "endColumns": "204",
+                        "endOffsets": "4717"
                     }
                 }
             ]
