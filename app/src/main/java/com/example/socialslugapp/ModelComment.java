@@ -4,18 +4,24 @@ package com.example.socialslugapp;
 import android.os.Bundle;
 
 public class ModelComment {
-        String cId, comment, timestamp, uid, uEmail, udp, uName;
+    String cId;
+    String comment;
+    String timestamp;
+    String uid;
+    String uEmail;
+    String uDp;
+    String uName;
 
-        public ModelComment(){
-        }
+    public ModelComment(){
+    }
 
-    public ModelComment(String cId, String comment, String timestamp, String uid, String uEmail, String udp, String uName) {
+    public ModelComment(String cId, String comment, String timestamp, String uid, String uEmail, String uDp, String uName) {
         this.cId = cId;
         this.comment = comment;
         this.timestamp = timestamp;
         this.uid = uid;
         this.uEmail = uEmail;
-        this.udp = udp;
+        this.uDp = uDp;
         this.uName = uName;
     }
 
@@ -59,12 +65,12 @@ public class ModelComment {
         this.uEmail = uEmail;
     }
 
-    public String getUdp() {
-        return udp;
+    public String getuDp() {
+        return uDp;
     }
 
-    public void setUdp(String udp) {
-        this.udp = udp;
+    public void setuDp(String uDp) {
+        this.uDp = uDp;
     }
 
     public String getuName() {
@@ -74,4 +80,8 @@ public class ModelComment {
     public void setuName(String uName) {
         this.uName = uName;
     }
+
+
+
+
 }

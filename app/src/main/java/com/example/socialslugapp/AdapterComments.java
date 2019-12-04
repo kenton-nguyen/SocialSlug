@@ -43,7 +43,7 @@ public class AdapterComments extends RecyclerView.Adapter<AdapterComments.MyHold
         String uid = commentList.get(position).getUid();
         String name = commentList.get(position).getuName();
         String email = commentList.get(position).getuEmail();
-        String image = commentList.get(position).getUdp();
+        String image = commentList.get(position).getuDp();
         String cid = commentList.get(position).getcId();
         String comment = commentList.get(position).getComment();
         String timestamp = commentList.get(position).getTimestamp();

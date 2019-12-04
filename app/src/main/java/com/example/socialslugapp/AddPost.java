@@ -194,7 +194,6 @@ public class AddPost extends AppCompatActivity {
     private void updateWithoutImage(String title1, String description1, String editPostId) {
         GoogleSignInAccount acct = GoogleSignIn.getLastSignedInAccount(AddPost.this);
 
-
         // url is received, upload to firebase DB
         HashMap<String, Object> hashMap = new HashMap<>();
 

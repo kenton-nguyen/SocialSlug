@@ -116,12 +116,12 @@
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/56b6cdfbd80af409835a31a4470c49f0/core-1.1.0/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
     },
     {
-        "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_star_black_36dp.png.flat",
-        "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/f8ccfb448ba3545203b2c9319e236e39/appcompat-1.1.0/res/drawable-xhdpi-v4/abc_ic_star_black_36dp.png"
-    },
-    {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/f8ccfb448ba3545203b2c9319e236e39/appcompat-1.1.0/res/drawable-mdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/f8ccfb448ba3545203b2c9319e236e39/appcompat-1.1.0/res/drawable-xhdpi-v4/abc_ic_star_black_36dp.png"
     },
     {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/color_abc_primary_text_material_light.xml.flat",
@@ -168,12 +168,12 @@
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/f8ccfb448ba3545203b2c9319e236e39/appcompat-1.1.0/res/drawable-xxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
-        "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
-        "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/f8ccfb448ba3545203b2c9319e236e39/appcompat-1.1.0/res/drawable-xxhdpi-v4/abc_list_pressed_holo_dark.9.png"
-    },
-    {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/layout_mtrl_layout_snackbar.xml.flat",
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/3df2fd68af0236fb7b1a24eeed8b503b/material-1.0.0/res/layout/mtrl_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/f8ccfb448ba3545203b2c9319e236e39/appcompat-1.1.0/res/drawable-xxhdpi-v4/abc_list_pressed_holo_dark.9.png"
     },
     {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/layout_fui_idp_button_twitter.xml.flat",
@@ -192,16 +192,16 @@
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/56b6cdfbd80af409835a31a4470c49f0/core-1.1.0/res/layout-v21/notification_action.xml"
     },
     {
-        "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/layout_fui_register_email_layout.xml.flat",
-        "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/eed87e4dcfbcde902e796102c3d722f2/jetified-firebase-ui-auth-4.3.1/res/layout/fui_register_email_layout.xml"
+        "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/anim_design_snackbar_in.xml.flat",
+        "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/3df2fd68af0236fb7b1a24eeed8b503b/material-1.0.0/res/anim/design_snackbar_in.xml"
     },
     {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
         "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/f8ccfb448ba3545203b2c9319e236e39/appcompat-1.1.0/res/drawable-mdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
     },
     {
-        "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/anim_design_snackbar_in.xml.flat",
-        "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/3df2fd68af0236fb7b1a24eeed8b503b/material-1.0.0/res/anim/design_snackbar_in.xml"
+        "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/layout_fui_register_email_layout.xml.flat",
+        "source": "/Users/duy/.gradle/caches/transforms-2/files-2.1/eed87e4dcfbcde902e796102c3d722f2/jetified-firebase-ui-auth-4.3.1/res/layout/fui_register_email_layout.xml"
     },
     {
         "merged": "/Users/duy/Desktop/UCSC/CSE118/SocialSlugApp/app/build/intermediates/res/merged/debug/layout_activity_post_detail.xml.flat",

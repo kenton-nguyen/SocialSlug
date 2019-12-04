@@ -67,6 +67,7 @@ public class PostDetailActivity extends AppCompatActivity {
     EditText commentEt;
     ImageButton sendBtn;
     ImageView cAvatarIv;
+    ImageView avatarComment;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -224,7 +225,7 @@ public class PostDetailActivity extends AppCompatActivity {
         hashMap.put("timestamp", timeStamp);
         hashMap.put("uid", acct.getId());
         hashMap.put("uEmail",  acct.getEmail());
-        hashMap.put("uDp", myDp);
+        hashMap.put("uDp", acct.getPhotoUrl().toString());
         hashMap.put("uName", acct.getDisplayName());
 
         //put this data in database
@@ -297,7 +298,7 @@ public class PostDetailActivity extends AppCompatActivity {
                     // set data
                     pTitleTv.setText(pTitle);
                     pDescriptionTv.setText(pDescr);
-                    pLikesTv.setText(pLikes + "Likes");
+                    pLikesTv.setText(pLikes + " Likes");
                     pTimeTiv.setText(pTime);
                     pCommentsTv.setText(commentCount + " Comments");
 
@@ -320,6 +321,8 @@ public class PostDetailActivity extends AppCompatActivity {
                     try {
                         Picasso.get().load(hisDp).placeholder(R.mipmap.ic_default_img).into(uPictureIv);
                         Picasso.get().load(hisDp).placeholder(R.mipmap.ic_default_img).into(cAvatarIv);
+
+
                     }catch (Exception e){
 
                     }
