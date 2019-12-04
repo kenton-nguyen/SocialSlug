@@ -1,6 +1,8 @@
 package com.example.socialslugapp;
 
 import androidx.appcompat.app.AppCompatActivity;
+
+import android.content.Context;
 import android.content.Intent;
 import android.net.Uri;
 
@@ -18,6 +20,7 @@ import com.google.android.gms.auth.api.signin.GoogleSignInClient;
 import com.google.android.gms.auth.api.signin.GoogleSignInOptions;
 import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.Task;
+import com.squareup.picasso.Picasso;
 
 import android.os.Bundle;
 
@@ -38,6 +41,7 @@ public class UserProfile extends AppCompatActivity {
         nameTV = findViewById(R.id.name);
         emailTV = findViewById(R.id.email);
         idTV = findViewById(R.id.id);
+        PhotoIV = findViewById(R.id.photo);
 
         // Configure sign-in to request the user's ID, email address, and basic
         // profile. ID and basic profile are included in DEFAULT_SIGN_IN.
@@ -53,10 +57,13 @@ public class UserProfile extends AppCompatActivity {
             String personName = acct.getDisplayName();
             String personEmail = acct.getEmail();
             String personId = acct.getId();
+            Uri photo = acct.getPhotoUrl();
+
 
             nameTV.setText("Name: "+personName);
             emailTV.setText("Email: "+personEmail);
             idTV.setText("ID: "+personId);
+            Picasso.get().load(photo).into(PhotoIV);
 
         }
 

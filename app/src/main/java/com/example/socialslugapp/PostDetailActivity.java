@@ -104,6 +104,7 @@ public class PostDetailActivity extends AppCompatActivity {
 
         GoogleSignInAccount acct = GoogleSignIn.getLastSignedInAccount(PostDetailActivity.this);
 
+
         //set subtitle of actionbar
         actionBar.setSubtitle("Signed In as: "+ acct.getEmail());
 
@@ -316,10 +317,11 @@ public class PostDetailActivity extends AppCompatActivity {
                     }
 
                     // set user image in coment part
-                    try{
+                    try {
+                        Picasso.get().load(hisDp).placeholder(R.mipmap.ic_default_img).into(uPictureIv);
                         Picasso.get().load(hisDp).placeholder(R.mipmap.ic_default_img).into(cAvatarIv);
                     }catch (Exception e){
-                        Picasso.get().load(R.mipmap.ic_default_img).into(cAvatarIv);
+
                     }
 
                 }

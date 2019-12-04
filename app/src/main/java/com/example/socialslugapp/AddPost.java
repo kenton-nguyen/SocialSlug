@@ -164,7 +164,7 @@ public class AddPost extends AppCompatActivity {
                 else{
                     uploadData(title1, description1);
                 }
-
+                finish();
             }
         });
 
@@ -204,7 +204,7 @@ public class AddPost extends AppCompatActivity {
         hashMap.put("uEmail",acct.getEmail());
         hashMap.put("pLikes", "0");
         hashMap.put("pComments", "0");
-        hashMap.put("uDp", dp);
+        hashMap.put("uDp", acct.getPhotoUrl().toString());
         //hashMap.put("pId", timestamp);
         hashMap.put("pTitle", title1);
         hashMap.put("pDescr", description1);
@@ -265,7 +265,7 @@ public class AddPost extends AppCompatActivity {
                             hashMap.put("uEmail",acct.getEmail());
                             hashMap.put("pLikes", "0");
                             hashMap.put("pComments", "0");
-                            hashMap.put("uDp", dp);
+                            hashMap.put("uDp", acct.getPhotoUrl().toString());
                             //hashMap.put("pId", timestamp);
                             hashMap.put("pTitle", title1);
                             hashMap.put("pDescr", description1);
@@ -344,7 +344,7 @@ public class AddPost extends AppCompatActivity {
                                             hashMap.put("uEmail",acct.getEmail());
                                             hashMap.put("pLikes", "0");
                                             hashMap.put("pComments", "0");
-                                            hashMap.put("uDp", dp);
+                                            hashMap.put("uDp", acct.getPhotoUrl().toString());
                                             //hashMap.put("pId", timestamp);
                                             hashMap.put("pTitle", title1);
                                             hashMap.put("pDescr", description1);
@@ -464,7 +464,7 @@ public class AddPost extends AppCompatActivity {
                                 hashMap.put("uEmail",acct.getEmail());
                                 hashMap.put("pLikes", "0");
                                 hashMap.put("pComments", "0");
-                                hashMap.put("uDp", dp);
+                                hashMap.put("uDp", acct.getPhotoUrl().toString());
                                 hashMap.put("pId", timestamp);
                                 hashMap.put("pTitle", s_title);
                                 hashMap.put("pDescr", s_description);

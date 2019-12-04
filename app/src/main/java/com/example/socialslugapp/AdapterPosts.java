@@ -6,6 +6,7 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import android.content.Context;
 import android.content.Intent;
+import android.net.Uri;
 import android.os.Bundle;
 import android.text.format.DateFormat;
 import android.view.Gravity;
@@ -73,6 +74,8 @@ public class AdapterPosts extends RecyclerView.Adapter<AdapterPosts.MyHolder> {
     @Override
     public void onBindViewHolder(@NonNull final MyHolder myHolder, final int position) {
         //get data
+        GoogleSignInAccount acct = GoogleSignIn.getLastSignedInAccount(context);
+        myUid = acct.getId();
         final String uid = postList.get(position).getUid();
         String uEmail = postList.get(position).getuEmail();
         String uName = postList.get(position).getUname();
@@ -84,8 +87,7 @@ public class AdapterPosts extends RecyclerView.Adapter<AdapterPosts.MyHolder> {
         String pTimeStamp = postList.get(position).getpTime();
         String pLikes = postList.get(position).getpLikes();
         String pComments = postList.get(position).getpComments();
-        GoogleSignInAccount acct = GoogleSignIn.getLastSignedInAccount(context);
-        myUid = acct.getId();
+
 
         setLikes(myHolder, pId);
         
