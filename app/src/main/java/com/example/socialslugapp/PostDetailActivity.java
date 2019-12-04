@@ -100,7 +100,6 @@ public class PostDetailActivity extends AppCompatActivity {
         commentEt = findViewById(R.id.commentEt);
         sendBtn = findViewById(R.id.sendBtn);
         cAvatarIv = findViewById(R.id.cAvatarIv);
-
         loadPostInfo();
 
         GoogleSignInAccount acct = GoogleSignIn.getLastSignedInAccount(PostDetailActivity.this);
@@ -320,7 +319,6 @@ public class PostDetailActivity extends AppCompatActivity {
                     // set user image in coment part
                     try {
                         Picasso.get().load(hisDp).placeholder(R.mipmap.ic_default_img).into(uPictureIv);
-                        Picasso.get().load(hisDp).placeholder(R.mipmap.ic_default_img).into(cAvatarIv);
 
 
                     }catch (Exception e){
