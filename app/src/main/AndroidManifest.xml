@@ -20,7 +20,8 @@
         android:theme="@style/AppTheme">
         <activity android:name=".AdapterComments"></activity>
         <activity android:name=".ModelComment" />
-        <activity android:name=".PostDetailActivity" />
+        <activity android:name=".PostDetailActivity"
+            android:parentActivityName=".DisplayPosts"/>
         <activity android:name=".DisplayPosts" />
         <activity android:name=".AdapterPosts" />
         <activity android:name=".ModelPost" />
@@ -30,7 +31,8 @@
             android:label="@string/app_name"
             android:theme="@style/AppTheme" />
         <activity android:name=".AddPost" />
-        <activity android:name=".UserProfile" />
+        <activity android:name=".UserProfile"
+            android:parentActivityName=".DisplayPosts"/>
         <activity
             android:name=".MainActivity"
             android:label="@string/app_name"

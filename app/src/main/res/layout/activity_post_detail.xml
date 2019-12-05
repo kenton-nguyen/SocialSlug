@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@color/yellow"
     tools:context=".PostDetailActivity">
 
     <androidx.core.widget.NestedScrollView
@@ -71,7 +72,7 @@
                                 android:text="@string/minutes_ago"
                                 android:textColor="@color/navy"
                                 android:fontFamily="@font/sublime"
-                                android:textSize="15sp"/>
+                                android:textSize="10sp"/>
 
                         </LinearLayout>
 
@@ -86,7 +87,7 @@
                         android:text="Title"
                         android:textColor="@color/navy"
                         android:fontFamily="@font/sublime"
-                        android:textSize="40sp"
+                        android:textSize="18sp"
                         android:textStyle="bold" />
 
                     <TextView
@@ -96,7 +97,7 @@
                         android:text="Post description"
                         android:textColor="@color/navy"
                         android:fontFamily="@font/sublime"
-                        android:textSize="30sp"/>
+                        android:textSize="12sp"/>
 
                     <ImageView
                         android:id="@+id/pImageIv"

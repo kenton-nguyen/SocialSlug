@@ -10,13 +10,22 @@
     android:background="@color/yellow"
     >
 
+    <ImageButton
+        android:id="@+id/profile"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="9dp"
+        android:layout_marginStart="11dp"
+        android:background="@drawable/button"
+        android:textSize="15sp"
+        android:src="@drawable/face"/>
 
     <Button
         android:id="@+id/addPost"
         android:layout_width="197dp"
         android:layout_height="65dp"
         android:layout_marginStart="110dp"
-        android:layout_marginTop="280dp"
+        android:layout_marginTop="240dp"
         android:layout_marginBottom="122dp"
         android:background="@drawable/button"
         android:fontFamily="@font/sublime"

@@ -1,5 +1,6 @@
 package com.example.socialslugapp;
 
+import androidx.appcompat.app.ActionBar;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Context;
@@ -31,11 +32,19 @@ public class UserProfile extends AppCompatActivity {
     TextView emailTV;
     TextView idTV;
     ImageView PhotoIV;
+    ActionBar actionbar;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.user_profile);
+
+        actionbar = getSupportActionBar();
+        actionbar.setTitle("PROFILE");
+
+        // this is the back button
+        actionbar.setDisplayHomeAsUpEnabled(true);
+        actionbar.setDisplayShowHomeEnabled(true);
 
         sign_out = findViewById(R.id.log_out);
         nameTV = findViewById(R.id.name);
@@ -60,7 +69,7 @@ public class UserProfile extends AppCompatActivity {
             Uri photo = acct.getPhotoUrl();
 
 
-            nameTV.setText("Name: "+personName);
+            nameTV.setText(personName);
             emailTV.setText("Email: "+personEmail);
             idTV.setText("ID: "+personId);
             Picasso.get().load(photo).into(PhotoIV);

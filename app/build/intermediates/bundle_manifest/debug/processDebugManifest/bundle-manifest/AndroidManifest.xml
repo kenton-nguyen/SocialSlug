@@ -33,7 +33,9 @@
         android:theme="@style/AppTheme" >
         <activity android:name="com.example.socialslugapp.AdapterComments" />
         <activity android:name="com.example.socialslugapp.ModelComment" />
-        <activity android:name="com.example.socialslugapp.PostDetailActivity" />
+        <activity
+            android:name="com.example.socialslugapp.PostDetailActivity"
+            android:parentActivityName="com.example.socialslugapp.DisplayPosts" />
         <activity android:name="com.example.socialslugapp.DisplayPosts" />
         <activity android:name="com.example.socialslugapp.AdapterPosts" />
         <activity android:name="com.example.socialslugapp.ModelPost" />
@@ -42,7 +44,9 @@
             android:label="@string/app_name"
             android:theme="@style/AppTheme" />
         <activity android:name="com.example.socialslugapp.AddPost" />
-        <activity android:name="com.example.socialslugapp.UserProfile" />
+        <activity
+            android:name="com.example.socialslugapp.UserProfile"
+            android:parentActivityName="com.example.socialslugapp.DisplayPosts" />
         <activity
             android:name="com.example.socialslugapp.MainActivity"
             android:label="@string/app_name"

@@ -9,6 +9,7 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
+import android.widget.ImageButton;
 
 import com.firebase.ui.auth.data.model.User;
 
@@ -19,6 +20,7 @@ public class MainMenu extends AppCompatActivity {
 
     Button addPost;
     Button viewPost;
+    ImageButton viewProfile;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -27,6 +29,8 @@ public class MainMenu extends AppCompatActivity {
 
         addPost = (Button)findViewById(R.id.addPost);
         viewPost = (Button)findViewById(R.id.viewPost);
+        viewProfile = (ImageButton)findViewById(R.id.profile);
+
         viewPost.setOnClickListener(new View.OnClickListener(){
             @Override
             public void onClick(View v){
@@ -34,6 +38,12 @@ public class MainMenu extends AppCompatActivity {
             }
         });
 
+        viewProfile.setOnClickListener(new View.OnClickListener(){
+            @Override
+            public void onClick(View v){
+                viewProfile();
+            }
+        });
     }
 
     @Override
@@ -54,5 +64,9 @@ public class MainMenu extends AppCompatActivity {
         startActivity(intent);
     }
 
+    public void viewProfile(){
+        Intent intent = new Intent(MainMenu.this, UserProfile.class);
+        startActivity(intent);
+    }
 
 }

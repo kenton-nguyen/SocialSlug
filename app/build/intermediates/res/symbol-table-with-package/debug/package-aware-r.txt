@@ -1120,6 +1120,7 @@ drawable btn_radio_off_to_on_mtrl_animation
 drawable btn_radio_on_mtrl
 drawable btn_radio_on_to_off_mtrl_animation
 drawable button
+drawable circular_img_view
 drawable common_full_open_on_phone
 drawable common_google_signin_btn_icon_dark
 drawable common_google_signin_btn_icon_dark_focused
@@ -1146,6 +1147,7 @@ drawable design_ic_visibility
 drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
+drawable face
 drawable fui_ic_anonymous_white_24dp
 drawable fui_ic_check_circle_black_128dp
 drawable fui_ic_facebook_white_22dp
@@ -1194,9 +1196,11 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
+drawable profile_background
 drawable sendbutton
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
+drawable white_button
 font fonts
 font sublime
 id ALT
@@ -1432,6 +1436,7 @@ id phone_number
 id photo
 id pin
 id postsRecyclerview
+id profile
 id profileLayout
 id progress_circular
 id progress_horizontal
@@ -1540,6 +1545,7 @@ id useLogo
 id viewPost
 id view_offset_helper
 id visible
+id welcome
 id welcome_back_email_link_body
 id welcome_back_idp_button
 id welcome_back_idp_prompt

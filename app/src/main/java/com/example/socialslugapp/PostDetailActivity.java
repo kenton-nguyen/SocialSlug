@@ -77,8 +77,8 @@ public class PostDetailActivity extends AppCompatActivity {
         // actionbar & its properties
         ActionBar actionBar = getSupportActionBar();
         actionBar.setTitle("COMMENTS");
-        actionBar.setDisplayShowHomeEnabled(true);
         actionBar.setDisplayHomeAsUpEnabled(true);
+        actionBar.setDisplayShowHomeEnabled(true);
 
         // get post id using intent
         Intent intent = getIntent();
