@@ -6,4 +6,9 @@ this is a social app that allows students from UCSC to post and view events in r
 
 screenshots of the app:
 
-![image](https://user-images.githubusercontent.com/54251617/70875905-69ca0e00-1f6c-11ea-8d39-d20eb9033e40.png)
+![image](https://user-images.githubusercontent.com/54251617/70875933-93833500-1f6c-11ea-9663-d35d7ceefbcd.png)
+
+![image](https://user-images.githubusercontent.com/54251617/70875951-a39b1480-1f6c-11ea-95a3-8387bacbc919.png)
+
+![image](https://user-images.githubusercontent.com/54251617/70875967-aeee4000-1f6c-11ea-9f16-7c3247d21680.png)
+
